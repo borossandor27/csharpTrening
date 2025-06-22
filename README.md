@@ -16,14 +16,14 @@ Hivatalos forrás: [https://learn.microsoft.com/hu-hu/dotnet/csharp/](https://le
         * `=` (értékadás)
         * `+=`, `-=`, `*=`, `/=`, `%=`
     * **Aritmetikai operátorok**
-        * Numerikus értékekkel végeznek műveletet és numerikus értéket állítanak elő
+        Numerikus értékekkel végeznek műveletet és numerikus értéket állítanak elő
         * `+` (összeadás)
         * `-` (kivonás)
         * `*` (szorzás)
         * `/` (osztás)
         * `%` (maradékos osztás)
     * **Összehasonlító operátorok**
-        * Numerikus értékekkel végzik a műveletet és logikai (`bool`) értéket adnak vissza. 
+        Numerikus értékekkel végzik a műveletet és logikai (`bool`) értéket adnak vissza. 
         * `==` (egyenlő) 
         * `!=` (nem egyenlő) 
         * `<` (kisebb) 
@@ -31,7 +31,7 @@ Hivatalos forrás: [https://learn.microsoft.com/hu-hu/dotnet/csharp/](https://le
         * `<=` (kisebb vagy egyenlő) 
         * `>=` (nagyobb vagy egyenlő) 
     * **Logikai operátorok**
-        * Logikai értékeken végeznek műveleteket és logikai értéket állítanak elő
+        Logikai értékeken végeznek műveleteket és logikai értéket állítanak elő
         * `&&` (logikai ÉS - mindkét feltétel igaz, akkor igaz az eredmény) 
         * `||` (logikai VAGY - legalább az egyik feltétel igaz, akkor igaz az eredmény) 
         * `!` (logikai NEM - tagadás, invertálja az értéket) 
