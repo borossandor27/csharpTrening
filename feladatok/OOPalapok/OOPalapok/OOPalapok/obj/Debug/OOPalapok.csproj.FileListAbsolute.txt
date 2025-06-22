@@ -1,0 +1,6 @@
+C:\Users\Diák\source\repos\OOPalapok\OOPalapok\bin\Debug\OOPalapok.exe.config
+C:\Users\Diák\source\repos\OOPalapok\OOPalapok\bin\Debug\OOPalapok.exe
+C:\Users\Diák\source\repos\OOPalapok\OOPalapok\bin\Debug\OOPalapok.pdb
+C:\Users\Diák\source\repos\OOPalapok\OOPalapok\obj\Debug\OOPalapok.csprojAssemblyReference.cache
+C:\Users\Diák\source\repos\OOPalapok\OOPalapok\obj\Debug\OOPalapok.exe
+C:\Users\Diák\source\repos\OOPalapok\OOPalapok\obj\Debug\OOPalapok.pdb

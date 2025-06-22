@@ -1,0 +1,3104 @@
+megyekod;kshkod;megye;irsz;telepules;lakossag;ffi;no;tipus
+3;26684;BAC;6430;Kecskemét;110 621;52 484;58 137;megye székhely
+3;10719;BAC;6500;Bácsalmás;6 665;3 207;3 458;város
+3;03522;BAC;6087;Baja;36 041;16 937;19 104;város
+3;07612;BAC;6344;Dunavecse;3 991;1 921;2 070;város
+3;18759;BAC;6070;Hajós;2 978;1 404;1 574;város
+3;21999;BAC;6440;Izsák;5 948;2 872;3 076;város
+3;09469;BAC;6300;Jánoshalma;8 650;4 211;4 439;város
+3;06442;BAC;6237;Kalocsa;16 106;7 582;8 524;város
+3;19789;BAC;6041;Kecel;8 616;4 147;4 469;város
+3;22530;BAC;6200;Kerekegyháza;6 730;3 326;3 404;város
+3;09344;BAC;6100;Kiskőrös;14 202;6 721;7 481;város
+3;20297;BAC;6400;Kiskunfélegyháza;30 155;14 394;15 761;város
+3;32434;BAC;6120;Kiskunhalas;28 392;13 611;14 781;város
+3;28130;BAC;6050;Kunszentmiklós;8 387;4 085;4 302;város
+3;17677;BAC;6449;Lajosmizse;12 045;6 085;5 960;város
+3;16018;BAC;6320;Mélykút;5 082;2 465;2 617;város
+3;29115;BAC;6230;Solt;6 468;3 126;3 342;város
+3;19983;BAC;6080;Soltvadkert;7 452;3 622;3 830;város
+3;25061;BAC;6060;Szabadszállás;6 361;3 063;3 298;város
+3;30623;BAC;6422;Tiszakécske;11 453;5 580;5 873;város
+3;28486;BAC;6453;Tompa;4 702;2 318;2 384;város
+3;10180;BAC;6114;Bácsbokod;2 593;1 282;1 311;nagyközség
+3;32823;BAC;6328;Bugac;2 695;1 310;1 385;nagyközség
+3;18458;BAC;6065;Harta;3 444;1 670;1 774;nagyközség
+3;06202;BAC;6346;Lakitelek;4 818;2 371;2 447;nagyközség
+3;24545;BAC;6076;Tiszaalpár;5 010;2 436;2 574;nagyközség
+3;17686;BAC;6221;Ágasegyháza;2 029;1 024;1 005;község
+3;21944;BAC;6088;Akasztó;3 310;1 613;1 697;község
+3;21148;BAC;6454;Apostag;2 064;1 062;1 002;község
+3;27234;BAC;6511;Bácsborsód;1 154;555;599;község
+3;08697;BAC;6425;Bácsszentgyörgy;160;89;71;község
+3;30155;BAC;6035;Bácsszőlős;334;177;157;község
+3;13408;BAC;6412;Ballószög;3 731;1 844;1 887;község
+3;25937;BAC;6528;Balotaszállás;1 582;760;822;község
+3;03656;BAC;6351;Bátmonostor;1 574;785;789;község
+3;11961;BAC;6235;Bátya;2 073;1 030;1 043;község
+3;08305;BAC;6445;Bócsa;2 007;1 016;991;község
+3;19327;BAC;6114;Borota;1 270;621;649;község
+3;33631;BAC;6239;Bugacpusztaháza;263;130;133;község
+3;10472;BAC;6523;Császártöltés;2 312;1 089;1 223;község
+3;26471;BAC;6448;Csátalja;1 496;747;749;község
+3;16373;BAC;6222;Csávoly;1 793;887;906;község
+3;12344;BAC;6424;Csengőd;2 149;1 033;1 116;község
+3;15699;BAC;6135;Csikéria;808;391;417;község
+3;12025;BAC;6524;Csólyospálos;1 614;805;809;község
+3;10533;BAC;6342;Dávod;2 075;1 010;1 065;község
+3;07524;BAC;6323;Drágszél;347;168;179;község
+3;21069;BAC;6513;Dunaegyháza;1 456;742;714;község
+3;12566;BAC;6333;Dunafalva;917;462;455;község
+3;11606;BAC;6325;Dunaszentbenedek;812;405;407;község
+3;14766;BAC;6353;Dunatetétlen;555;265;290;község
+3;04109;BAC;6347;Dusnok;3 014;1 482;1 532;község
+3;11864;BAC;6348;Érsekcsanád;2 950;1 472;1 478;község
+3;33589;BAC;6352;Érsekhalma;613;307;306;község
+3;33598;BAC;6447;Felsőlajos;947;491;456;község
+3;02954;BAC;6331;Felsőszentiván;1 855;892;963;község
+3;02149;BAC;6042;Foktő;1 585;773;812;község
+3;33622;BAC;6085;Fülöpjakab;1 146;607;539;község
+3;14058;BAC;6522;Fülöpszállás;2 323;1 127;1 196;község
+3;31848;BAC;6111;Gara;2 258;1 079;1 179;község
+3;26383;BAC;6334;Gátér;920;454;466;község
+3;03577;BAC;6136;Géderlak;995;466;529;község
+3;08350;BAC;6034;Harkakötöny;860;414;446;község
+3;04093;BAC;6525;Helvécia;4 897;2 464;2 433;község
+3;12937;BAC;6341;Hercegszántó;1 952;968;984;község
+3;27845;BAC;6238;Homokmégy;1 301;633;668;község
+3;08095;BAC;6078;Imrehegy;676;345;331;község
+3;17923;BAC;6133;Jakabszállás;2 709;1 322;1 387;község
+3;08378;BAC;6211;Jászszentlászló;2 512;1 223;1 289;község
+3;30605;BAC;6455;Kaskantyú;995;520;475;község
+3;11280;BAC;6423;Katymár;1 848;907;941;község
+3;18166;BAC;6421;Kéleshalom;444;231;213;község
+3;28158;BAC;6134;Kisszállás;2 448;1 191;1 257;község
+3;13806;BAC;6097;Kömpöc;699;331;368;község
+3;05856;BAC;6435;Kunadacs;1 499;763;736;község
+3;06044;BAC;6043;Kunbaja;1 563;752;811;község
+3;07728;BAC;6413;Kunbaracs;647;314;333;község
+3;29027;BAC;6096;Kunfehértó;2 237;1 091;1 146;község
+3;31918;BAC;6115;Kunpeszér;739;365;374;község
+3;31893;BAC;6045;Kunszállás;1 737;844;893;község
+3;05786;BAC;6456;Ladánybene;1 715;883;832;község
+3;23357;BAC;6452;Madaras;2 814;1 352;1 462;község
+3;27809;BAC;6343;Mátételke;517;254;263;község
+3;34096;BAC;6527;Móricgát;464;226;238;község
+3;25955;BAC;6345;Nagybaracska;2 315;1 144;1 171;község
+3;32540;BAC;6032;Nemesnádudvar;1 816;897;919;község
+3;23056;BAC;6335;Nyárlőrinc;2 351;1 169;1 182;község
+3;16276;BAC;6077;Ordas;449;206;243;község
+3;16939;BAC;6311;Orgovány;3 463;1 665;1 798;község
+3;08679;BAC;6075;Öregcsertő;785;402;383;község
+3;18670;BAC;6112;Páhi;1 194;600;594;község
+3;02705;BAC;6113;Pálmonostora;1 849;941;908;község
+3;15431;BAC;6414;Petőfiszállás;1 568;787;781;község
+3;15398;BAC;6446;Pirtó;956;497;459;község
+3;26310;BAC;6223;Rém;1 283;630;653;község
+3;18218;BAC;6336;Soltszentimre;1 316;651;665;község
+3;19530;BAC;6086;Szakmár;1 245;636;609;község
+3;19947;BAC;6131;Szalkszentmárton;2 824;1 429;1 395;község
+3;11794;BAC;6031;Szank;2 414;1 193;1 221;község
+3;21120;BAC;6512;Szentkirály;1 929;978;951;község
+3;28820;BAC;6224;Szeremle;1 411;703;708;község
+3;25432;BAC;6098;Tabdi;1 094;545;549;község
+3;20525;BAC;6451;Tass;2 969;1 481;1 488;község
+3;14544;BAC;6236;Tataháza;1 170;549;621;község
+3;24998;BAC;6064;Tázlár;1 730;864;866;község
+3;14094;BAC;6321;Tiszaug;937;461;476;község
+3;08785;BAC;6337;Újsolt;193;101;92;község
+3;33604;BAC;6332;Újtelek;384;185;199;község
+3;16294;BAC;6033;Uszód;951;457;494;község
+3;10667;BAC;6521;Városföld;2 287;1 101;1 186;község
+3;28343;BAC;6411;Vaskút;3 470;1 649;1 821;község
+2;19415;BAR;7754;Pécs;148 030;68 867;79 163;megye székhely
+2;33154;BAR;7815;Bóly;3 772;1 837;1 935;város
+2;21528;BAR;7300;Harkány;4 762;2 286;2 476;város
+2;26408;BAR;7761;Komló;24 886;11 904;12 982;város
+2;06336;BAR;7342;Kozármisleny;6 434;3 170;3 264;város
+2;06813;BAR;7700;Mágocs;2 313;1 154;1 159;város
+2;23959;BAR;7720;Mohács;18 756;8 900;9 856;város
+2;10825;BAR;7370;Pécsvárad;4 007;1 932;2 075;város
+2;32160;BAR;7960;Sásd;3 051;1 484;1 567;város
+2;28741;BAR;7800;Sellye;2 736;1 341;1 395;város
+2;05519;BAR;7940;Siklós;9 730;4 539;5 191;város
+2;15866;BAR;7900;Szentlőrinc;6 520;3 111;3 409;város
+2;26578;BAR;7773;Szigetvár;10 450;4 922;5 528;város
+2;28024;BAR;7827;Villány;2 307;1 111;1 196;város
+2;31927;BAR;7349;Beremend;2 441;1 193;1 248;nagyközség
+2;33765;BAR;7838;Szászvár;2 339;1 158;1 181;nagyközség
+2;28538;BAR;7678;Vajszló;1 779;856;923;nagyközség
+2;12548;BAR;7841;Abaliget;706;365;341;község
+2;06868;BAR;7381;Adorjás;205;106;99;község
+2;25812;BAR;7934;Ág;188;100;88;község
+2;13329;BAR;7932;Almamellék;448;213;235;község
+2;20376;BAR;7345;Almáskeresztúr;79;41;38;község
+2;17385;BAR;7826;Alsómocsolád;320;156;164;község
+2;33279;BAR;7720;Alsószentmárton;1 259;664;595;község
+2;27298;BAR;7671;Apátvarasd;133;67;66;község
+2;06886;BAR;7763;Aranyosgadány;363;189;174;község
+2;28583;BAR;7757;Áta;194;99;95;község
+2;05403;BAR;7814;Babarc;732;351;381;község
+2;09663;BAR;7393;Babarcszőlős;107;59;48;község
+2;22275;BAR;7675;Bakóca;305;151;154;község
+2;08299;BAR;7834;Bakonya;388;194;194;község
+2;03975;BAR;7914;Baksa;809;393;416;község
+2;07603;BAR;7711;Bánfa;196;90;106;község
+2;24378;BAR;7841;Bár;559;279;280;község
+2;20464;BAR;7384;Baranyahídvég;199;111;88;község
+2;24749;BAR;7383;Baranyajenő;465;222;243;község
+2;05485;BAR;7923;Baranyaszentgyörgy;139;72;67;község
+2;15495;BAR;7747;Basal;212;111;101;község
+2;19008;BAR;7664;Belvárdgyula;415;209;206;község
+2;16461;BAR;7838;Berkesd;892;451;441;község
+2;30049;BAR;7782;Besence;122;72;50;község
+2;14119;BAR;7671;Bezedek;238;118;120;község
+2;13310;BAR;7346;Bicsérd;1 060;530;530;község
+2;04899;BAR;7747;Bikal;715;359;356;község
+2;05139;BAR;7811;Birján;529;254;275;község
+2;24925;BAR;7672;Bisse;234;119;115;község
+2;20899;BAR;7394;Boda;431;217;214;község
+2;33002;BAR;7742;Bodolyabér;241;121;120;község
+2;32151;BAR;7836;Bogád;1 140;562;578;község
+2;21892;BAR;7966;Bogádmindszent;448;229;219;község
+2;10694;BAR;7937;Bogdása;264;128;136;község
+2;13116;BAR;7756;Boldogasszonyfa;429;224;205;község
+2;06725;BAR;7811;Borjád;431;229;202;község
+2;14368;BAR;7900;Bosta;145;73;72;község
+2;13365;BAR;7682;Botykapeterd;349;183;166;község
+2;23162;BAR;7973;Bükkösd;1 141;584;557;község
+2;07533;BAR;7964;Bürüs;94;48;46;község
+2;19901;BAR;7811;Csányoszró;631;318;313;község
+2;30614;BAR;7935;Csarnóta;143;71;72;község
+2;21591;BAR;7683;Csebény;101;52;49;község
+2;26082;BAR;7673;Cserdi;401;206;195;község
+2;03896;BAR;7900;Cserkút;628;311;317;község
+2;13851;BAR;7940;Csertő;420;203;217;község
+2;22576;BAR;7843;Csonkamindszent;173;85;88;község
+2;11086;BAR;7915;Cún;233;119;114;község
+2;07773;BAR;7683;Dencsháza;596;309;287;község
+2;11952;BAR;7817;Dinnyeberki;92;51;41;község
+2;32373;BAR;7849;Diósviszló;706;353;353;község
+2;28617;BAR;7846;Drávacsehi;189;94;95;község
+2;28121;BAR;7967;Drávacsepely;213;111;102;község
+2;17419;BAR;7960;Drávafok;551;270;281;község
+2;32391;BAR;7967;Drávaiványi;194;98;96;község
+2;09159;BAR;7850;Drávakeresztúr;134;69;65;község
+2;22734;BAR;7843;Drávapalkonya;272;144;128;község
+2;12380;BAR;7851;Drávapiski;86;47;39;község
+2;28608;BAR;7847;Drávaszabolcs;684;350;334;község
+2;30030;BAR;7960;Drávaszerdahely;182;92;90;község
+2;21698;BAR;7712;Drávasztára;423;210;213;község
+2;09186;BAR;7763;Dunaszekcső;1 892;945;947;község
+2;28918;BAR;7824;Egerág;1 008;508;500;község
+2;16498;BAR;7347;Egyházasharaszti;337;162;175;község
+2;27401;BAR;7744;Egyházaskozár;746;356;390;község
+2;06099;BAR;7973;Ellend;236;113;123;község
+2;28273;BAR;7735;Endrőc;346;185;161;község
+2;25821;BAR;7723;Erdősmárok;94;55;39;község
+2;18704;BAR;7661;Erdősmecske;359;177;182;község
+2;13499;BAR;7732;Erzsébet;304;157;147;község
+2;17835;BAR;7724;Fazekasboda;206;103;103;község
+2;04543;BAR;7370;Feked;215;114;101;község
+2;13286;BAR;7968;Felsőegerszeg;130;59;71;község
+2;08819;BAR;7812;Felsőszentmárton;861;404;457;község
+2;07560;BAR;7951;Garé;302;161;141;község
+2;12751;BAR;7362;Gerde;568;277;291;község
+2;13347;BAR;7733;Gerényes;263;135;128;község
+2;02857;BAR;7954;Geresdlak;787;374;413;község
+2;18333;BAR;7853;Gilvánfa;389;203;186;község
+2;33084;BAR;7385;Gordisa;297;149;148;község
+2;33233;BAR;7833;Gödre;849;433;416;község
+2;30438;BAR;7728;Görcsöny;1 546;730;816;község
+2;09636;BAR;7668;Görcsönydoboka;386;193;193;község
+2;18315;BAR;7954;Gyód;725;366;359;község
+2;28404;BAR;7972;Gyöngyfa;153;80;73;község
+2;22664;BAR;7745;Gyöngyösmellék;316;162;154;község
+2;27881;BAR;7348;Hásságy;303;144;159;község
+2;30951;BAR;7837;Hegyhátmaróc;154;76;78;község
+2;21023;BAR;7683;Hegyszentmárton;411;204;207;község
+2;17190;BAR;7681;Helesfa;482;248;234;község
+2;07126;BAR;7696;Hetvehely;471;231;240;község
+2;06798;BAR;7735;Hidas;2 107;1 034;1 073;község
+2;27933;BAR;7838;Himesháza;1 033;486;547;község
+2;03285;BAR;7971;Hirics;271;145;126;község
+2;33932;BAR;7716;Hobol;960;462;498;község
+2;29966;BAR;7935;Homorúd;559;273;286;község
+2;23074;BAR;7694;Horváthertelend;61;31;30;község
+2;30836;BAR;7678;Hosszúhetény;3 464;1 730;1 734;község
+2;31431;BAR;7935;Husztót;68;33;35;község
+2;33066;BAR;7775;Ibafa;233;122;111;község
+2;31936;BAR;7847;Illocska;261;136;125;község
+2;29948;BAR;7772;Ipacsfa;201;99;102;község
+2;03337;BAR;7781;Ivánbattyán;121;56;65;község
+2;03346;BAR;7940;Ivándárda;247;119;128;község
+2;06415;BAR;7333;Kákics;210;107;103;község
+2;05999;BAR;7827;Kárász;339;157;182;község
+2;17464;BAR;7914;Kásád;304;148;156;község
+2;06965;BAR;7661;Katádfa;164;78;86;község
+2;19132;BAR;7661;Kátoly;301;147;154;község
+2;16805;BAR;7843;Kékesd;182;97;85;község
+2;10542;BAR;7839;Kémes;474;239;235;község
+2;06789;BAR;7668;Kemse;63;36;27;község
+2;03832;BAR;7975;Keszü;1 385;687;698;község
+2;08572;BAR;7953;Kétújfalu;710;357;353;község
+2;20552;BAR;7954;Királyegyháza;945;485;460;község
+2;18908;BAR;7391;Kisasszonyfa;213;109;104;község
+2;05722;BAR;7756;Kisbeszterce;84;48;36;község
+2;22868;BAR;7814;Kisbudmér;112;65;47;község
+2;11183;BAR;7985;Kisdér;119;59;60;község
+2;33905;BAR;7391;Kisdobsza;258;131;127;község
+2;06831;BAR;7800;Kishajmás;214;111;103;község
+2;27021;BAR;7763;Kisharsány;507;250;257;község
+2;16975;BAR;7773;Kisherend;215;114;101;község
+2;12849;BAR;7766;Kisjakabfalva;129;75;54;község
+2;19910;BAR;7775;Kiskassa;254;126;128;község
+2;21616;BAR;7759;Kislippó;300;151;149;község
+2;33215;BAR;7841;Kisnyárád;183;98;85;község
+2;08651;BAR;7981;Kisszentmárton;275;136;139;község
+2;12353;BAR;7823;Kistamási;134;59;75;község
+2;03151;BAR;7768;Kistapolca;201;101;100;község
+2;10746;BAR;7381;Kistótfalu;307;160;147;község
+2;09548;BAR;7841;Kisvaszar;366;196;170;község
+2;08110;BAR;7847;Kórós;224;119;105;község
+2;24226;BAR;7678;Kovácshida;277;134;143;község
+2;14517;BAR;7334;Kovácsszénája;89;49;40;község
+2;25247;BAR;7639;Köblény;224;107;117;község
+2;03540;BAR;7717;Kökény;685;345;340;község
+2;17899;BAR;7673;Kölked;1 063;520;543;község
+2;15538;BAR;7675;Kővágószőlős;1 357;663;694;község
+2;06992;BAR;7759;Kővágótöttös;355;162;193;község
+2;33330;BAR;7775;Lánycsók;2 529;1 255;1 274;község
+2;06479;BAR;7331;Lapáncsa;181;95;86;község
+2;17604;BAR;7781;Liget;413;213;200;község
+2;22974;BAR;7757;Lippó;510;257;253;község
+2;10038;BAR;7761;Liptód;217;102;115;község
+2;31389;BAR;7720;Lothárd;260;131;129;község
+2;24624;BAR;7838;Lovászhetény;308;158;150;község
+2;18865;BAR;7775;Lúzsok;238;122;116;község
+2;25177;BAR;7332;Magyarbóly;936;444;492;község
+2;29753;BAR;7394;Magyaregregy;759;355;404;község
+2;05430;BAR;7925;Magyarhertelend;654;330;324;község
+2;23542;BAR;7954;Magyarlukafa;90;46;44;község
+2;05412;BAR;7761;Magyarmecske;351;164;187;község
+2;27067;BAR;7396;Magyarsarlós;296;145;151;község
+2;22600;BAR;7954;Magyarszék;1 025;498;527;község
+2;04385;BAR;7783;Magyartelek;208;101;107;község
+2;33923;BAR;7733;Mánfa;777;402;375;község
+2;29920;BAR;7817;Maráza;191;87;104;község
+2;09450;BAR;7663;Márfa;213;110;103;község
+2;14483;BAR;7967;Máriakéménd;509;256;253;község
+2;16443;BAR;7960;Markóc;63;31;32;község
+2;15219;BAR;7774;Marócsa;81;41;40;község
+2;20659;BAR;7720;Márok;428;199;229;község
+2;02228;BAR;7854;Martonfa;235;110;125;község
+2;15051;BAR;7351;Matty;326;153;173;község
+2;33756;BAR;7695;Máza;1 228;585;643;község
+2;13444;BAR;7305;Mecseknádasd;1 581;751;830;község
+2;11402;BAR;7344;Mecsekpölöske;419;211;208;község
+2;30492;BAR;7981;Mekényes;283;142;141;község
+2;07737;BAR;7370;Merenye;286;146;140;község
+2;03470;BAR;7391;Meződ;118;65;53;község
+2;16285;BAR;7981;Mindszentgodisa;876;424;452;község
+2;29522;BAR;7751;Molvány;172;88;84;község
+2;16027;BAR;7932;Monyoród;177;93;84;község
+2;29540;BAR;7756;Mozsgó;947;486;461;község
+2;03984;BAR;7838;Nagybudmér;167;76;91;község
+2;18111;BAR;7985;Nagycsány;136;66;70;község
+2;33899;BAR;7343;Nagydobsza;626;311;315;község
+2;12858;BAR;7822;Nagyhajmás;339;186;153;község
+2;02653;BAR;7741;Nagyharsány;1 490;726;764;község
+2;10940;BAR;7784;Nagykozár;2 071;1 018;1 053;község
+2;14650;BAR;7731;Nagynyárád;702;332;370;község
+2;19877;BAR;7912;Nagypall;390;187;203;község
+2;27164;BAR;7800;Nagypeterd;672;330;342;község
+2;28927;BAR;7912;Nagytótfalu;344;172;172;község
+2;14191;BAR;7981;Nagyváty;333;167;166;község
+2;18236;BAR;7912;Nemeske;230;112;118;község
+2;26329;BAR;7695;Nyugotszenterzsébet;258;132;126;község
+2;12645;BAR;7814;Óbánya;152;73;79;község
+2;03780;BAR;7695;Ócsárd;417;215;202;község
+2;20686;BAR;7681;Okorág;173;90;83;község
+2;08341;BAR;7745;Okorvölgy;78;42;36;község
+2;18555;BAR;7825;Olasz;633;303;330;község
+2;11730;BAR;7370;Orfű;1 082;543;539;község
+2;04482;BAR;7836;Oroszló;302;152;150;község
+2;18661;BAR;7370;Ózdfalu;156;89;67;község
+2;23764;BAR;7771;Palé;104;56;48;község
+2;07153;BAR;7727;Palkonya;281;143;138;község
+2;10135;BAR;7838;Palotabozsok;866;428;438;község
+2;07010;BAR;7923;Páprád;159;73;86;község
+2;17792;BAR;7951;Patapoklosi;368;191;177;község
+2;21519;BAR;7766;Pécsbagota;104;61;43;község
+2;15389;BAR;7762;Pécsdevecser;118;49;69;község
+2;21096;BAR;7831;Pécsudvard;814;416;398;község
+2;16115;BAR;7664;Pellérd;2 309;1 169;1 140;község
+2;12867;BAR;7766;Pereked;161;86;75;község
+2;32425;BAR;7980;Peterd;221;115;106;község
+2;29762;BAR;7838;Pettend;158;76;82;község
+2;23506;BAR;7756;Piskó;256;138;118;község
+2;22266;BAR;7666;Pócsa;176;90;86;község
+2;17242;BAR;7817;Pogány;1 287;630;657;község
+2;11518;BAR;7833;Rádfalva;213;101;112;község
+2;25292;BAR;7743;Regenye;170;87;83;község
+2;24855;BAR;7914;Romonya;538;267;271;község
+2;04516;BAR;7841;Rózsafa;359;167;192;község
+2;18050;BAR;7781;Sámod;203;91;112;község
+2;20862;BAR;7785;Sárok;125;64;61;község
+2;33482;BAR;7814;Sátorhely;648;315;333;község
+2;23205;BAR;7823;Siklósbodony;165;83;82;község
+2;08800;BAR;7728;Siklósnagyfalu;487;240;247;község
+2;23472;BAR;7922;Somberek;1 466;687;779;község
+2;23807;BAR;7925;Somogyapáti;500;248;252;község
+2;29142;BAR;7921;Somogyhárságy;444;220;224;község
+2;25070;BAR;7924;Somogyhatvan;364;192;172;község
+2;21281;BAR;7960;Somogyviszló;251;123;128;község
+2;31714;BAR;7960;Sósvertike;173;91;82;község
+2;02547;BAR;7951;Sumony;483;238;245;község
+2;15079;BAR;7383;Szabadszentkirály;812;395;417;község
+2;27508;BAR;7753;Szágy;124;67;57;község
+2;08475;BAR;7811;Szajk;827;406;421;község
+2;22257;BAR;7334;Szalánta;1 176;564;612;község
+2;09007;BAR;7843;Szalatnak;330;161;169;község
+2;34032;BAR;7188;Szaporca;236;116;120;község
+2;07366;BAR;7813;Szárász;40;23;17;község
+2;31060;BAR;7725;Szava;345;170;175;község
+2;03018;BAR;7751;Szebény;355;174;181;község
+2;05607;BAR;7737;Szederkény;1 722;815;907;község
+2;16771;BAR;7661;Székelyszabar;575;282;293;község
+2;16984;BAR;7763;Szellő;142;66;76;község
+2;09308;BAR;7913;Szemely;480;231;249;község
+2;32009;BAR;7915;Szentdénes;315;161;154;község
+2;33613;BAR;7681;Szentegát;388;190;198;község
+2;09803;BAR;7936;Szentkatalin;112;57;55;község
+2;16355;BAR;7664;Szentlászló;848;404;444;község
+2;19831;BAR;7811;Szilágy;271;139;132;község
+2;24712;BAR;7833;Szilvás;148;71;77;község
+2;22211;BAR;7763;Szőke;135;68;67;község
+2;07694;BAR;7976;Szőkéd;370;177;193;község
+2;05528;BAR;7932;Szörény;73;41;32;község
+2;15404;BAR;7735;Szulimán;253;134;119;község
+2;11217;BAR;7362;Szűr;265;125;140;község
+2;15635;BAR;7381;Tarrós;102;44;58;község
+2;27702;BAR;7973;Tékes;247;131;116;község
+2;32072;BAR;7834;Teklafalu;323;152;171;község
+2;13675;BAR;7843;Tengeri;53;27;26;község
+2;32744;BAR;7834;Tésenfa;211;102;109;község
+2;20978;BAR;7348;Téseny;339;179;160;község
+2;04048;BAR;7383;Tófű;130;66;64;község
+2;22424;BAR;7981;Tormás;291;160;131;község
+2;26994;BAR;7755;Tótszentgyörgy;144;78;66;község
+2;04136;BAR;7811;Töttös;565;289;276;község
+2;18582;BAR;7718;Túrony;268;133;135;község
+2;04437;BAR;7766;Udvar;136;62;74;község
+2;06062;BAR;7973;Újpetre;1 032;523;509;község
+2;08138;BAR;7370;Várad;129;69;60;község
+2;28529;BAR;7926;Varga;87;43;44;község
+2;24952;BAR;7362;Vásárosbéc;218;117;101;község
+2;02264;BAR;7370;Vásárosdombó;1 132;552;580;község
+2;07074;BAR;7838;Vázsnok;132;73;59;község
+2;18519;BAR;7333;Vejti;157;81;76;község
+2;24402;BAR;7951;Vékény;148;85;63;község
+2;22071;BAR;7726;Velény;138;75;63;község
+2;20279;BAR;7752;Véménd;1 430;715;715;község
+2;19725;BAR;7772;Versend;969;467;502;község
+2;05209;BAR;7768;Villánykövesd;264;128;136;község
+2;05892;BAR;7976;Vokány;845;420;425;község
+2;17747;BAR;7839;Zádor;343;166;177;község
+2;25122;BAR;7720;Zaláta;251;124;127;község
+2;15848;BAR;7671;Zengővárkony;433;213;220;község
+2;12201;BAR;5600;Zók;300;141;159;község
+4;15200;BEK;5830;Békéscsaba;59 542;27 887;31 655;megye székhely
+4;18102;BEK;5630;Battonya;5 955;2 938;3 017;város
+4;09760;BEK;5920;Békés;19 444;9 460;9 984;város
+4;26709;BEK;5510;Csorvás;4 906;2 360;2 546;város
+4;24819;BEK;5742;Dévaványa;7 537;3 742;3 795;város
+4;32957;BEK;5525;Elek;4 816;2 342;2 474;város
+4;33455;BEK;5700;Gyomaendrőd;13 514;6 508;7 006;város
+4;05032;BEK;5553;Gyula;30 501;14 497;16 004;város
+4;10287;BEK;5516;Kondoros;4 972;2 386;2 586;város
+4;11615;BEK;5752;Körösladány;4 538;2 208;2 330;város
+4;30128;BEK;5650;Medgyesegyháza;3 569;1 732;1 837;város
+4;19628;BEK;5820;Mezőberény;10 280;4 927;5 353;város
+4;11873;BEK;5800;Mezőhegyes;5 090;2 490;2 600;város
+4;30322;BEK;5900;Mezőkovácsháza;5 847;2 772;3 075;város
+4;23065;BEK;5720;Orosháza;28 647;13 732;14 915;város
+4;28565;BEK;5540;Sarkad;10 198;4 930;5 268;város
+4;23870;BEK;5520;Szarvas;15 887;7 658;8 229;város
+4;21883;BEK;5940;Szeghalom;8 933;4 445;4 488;város
+4;16434;BEK;5661;Tótkomlós;5 839;2 827;3 012;város
+4;02352;BEK;5530;Újkígyós;5 103;2 494;2 609;város
+4;29531;BEK;5561;Vésztő;6 983;3 514;3 469;város
+4;02680;BEK;5551;Békésszentandrás;3 658;1 835;1 823;nagyközség
+4;31334;BEK;5624;Csabacsűd;1 744;859;885;nagyközség
+4;33190;BEK;5836;Doboz;4 245;2 061;2 184;nagyközség
+4;24031;BEK;5932;Dombegyház;2 100;1 022;1 078;nagyközség
+4;09511;BEK;5741;Gádoros;3 679;1 814;1 865;nagyközség
+4;03461;BEK;5744;Kétegyháza;3 678;1 768;1 910;nagyközség
+4;31574;BEK;5931;Kevermes;1 883;931;952;nagyközség
+4;08244;BEK;5747;Nagyszénás;4 863;2 367;2 496;nagyközség
+4;29595;BEK;5946;Almáskamarás;870;444;426;község
+4;26189;BEK;5643;Békéssámson;2 413;1 213;1 200;község
+4;19390;BEK;5538;Bélmegyer;969;498;471;község
+4;29610;BEK;5527;Biharugra;918;454;464;község
+4;34078;BEK;5662;Csabaszabadi;291;160;131;község
+4;20455;BEK;5621;Csanádapáca;2 581;1 256;1 325;község
+4;25502;BEK;5745;Csárdaszállás;431;218;213;község
+4;22132;BEK;5515;Dombiratos;572;275;297;község
+4;09432;BEK;5925;Ecsegfalva;1 227;627;600;község
+4;07393;BEK;5734;Gerendás;1 240;600;640;község
+4;17394;BEK;5555;Geszt;793;384;409;község
+4;33297;BEK;5673;Hunya;621;295;326;község
+4;04279;BEK;5552;Kamut;1 070;518;552;község
+4;24794;BEK;5945;Kardos;567;290;277;község
+4;12177;BEK;5948;Kardoskút;819;398;421;község
+4;22752;BEK;5526;Kaszaper;1 847;888;959;község
+4;12618;BEK;5674;Kertészsziget;384;203;181;község
+4;03106;BEK;5837;Kétsoprony;1 380;704;676;község
+4;18838;BEK;5539;Kisdombegyház;503;254;249;község
+4;10764;BEK;5622;Körösnagyharsány;595;295;300;község
+4;12900;BEK;5536;Köröstarcsa;2 505;1 236;1 269;község
+4;30164;BEK;5725;Körösújfalu;512;253;259;község
+4;06804;BEK;5746;Kötegyán;1 452;723;729;község
+4;16045;BEK;5743;Kunágota;2 743;1 364;1 379;község
+4;21209;BEK;5667;Lőkösháza;1 832;898;934;község
+4;27906;BEK;5838;Magyarbánhegyes;2 225;1 110;1 115;község
+4;11536;BEK;5663;Magyardombegyház;241;126;115;község
+4;20765;BEK;5726;Medgyesbodzás;1 017;531;486;község
+4;23931;BEK;5732;Méhkerék;2 112;1 057;1 055;község
+4;04206;BEK;5672;Mezőgyán;1 056;522;534;község
+4;11989;BEK;5668;Murony;1 230;613;617;község
+4;26028;BEK;5751;Nagybánhegyes;1 271;614;657;község
+4;04242;BEK;5534;Nagykamarás;1 344;635;709;község
+4;19257;BEK;5556;Okány;2 493;1 225;1 268;község
+4;27438;BEK;5919;Örménykút;350;180;170;község
+4;05397;BEK;5665;Pusztaföldvár;1 656;823;833;község
+4;19594;BEK;5731;Pusztaottlaka;370;192;178;község
+4;25168;BEK;5712;Sarkadkeresztúr;1 508;726;782;község
+4;31325;BEK;5641;Szabadkígyós;2 637;1 300;1 337;község
+4;33075;BEK;5675;Tarhos;812;381;431;község
+4;12681;BEK;5727;Telekgerendás;1 517;751;766;község
+4;24350;BEK;5811;Újszalonta;102;59;43;község
+4;31228;BEK;5537;Végegyháza;1 330;664;666;község
+5;30456;BOR;3881;Miskolc;159 265;74 606;84 659;megye székhely
+5;03595;BOR;3571;Abaújszántó;2 986;1 493;1 493;város
+5;05315;BOR;3973;Borsodnádasd;3 131;1 541;1 590;város
+5;10728;BOR;3432;Edelény;9 864;4 803;5 061;város
+5;04677;BOR;3860;Emőd;4 999;2 464;2 535;város
+5;33048;BOR;3561;Encs;6 436;3 062;3 374;város
+5;02848;BOR;3895;Felsőzsolca;6 775;3 314;3 461;város
+5;15936;BOR;3700;Gönc;2 032;1 007;1 025;város
+5;06691;BOR;3450;Kazincbarcika;27 969;13 299;14 670;város
+5;11323;BOR;3400;Mezőkeresztes;3 727;1 825;1 902;város
+5;12885;BOR;3562;Nyékládháza;5 112;2 459;2 653;város
+5;22558;BOR;3600;Onga;4 911;2 416;2 495;város
+5;14492;BOR;3994;Ózd;35 114;16 790;18 324;város
+5;12362;BOR;3630;Pálháza;1 084;521;563;város
+5;27410;BOR;3733;Putnok;6 896;3 363;3 533;város
+5;23029;BOR;3792;Rudabánya;2 577;1 259;1 318;város
+5;03504;BOR;3770;Sajóbábony;2 730;1 334;1 396;város
+5;16054;BOR;3950;Sajószentpéter;12 334;5 985;6 349;város
+5;27474;BOR;3944;Sárospatak;12 304;5 972;6 332;város
+5;05120;BOR;3752;Sátoraljaújhely;14 947;7 135;7 812;város
+5;08077;BOR;3900;Szendrő;4 118;1 990;2 128;város
+5;30739;BOR;3800;Szerencs;9 144;4 334;4 810;város
+5;21351;BOR;3580;Szikszó;5 582;2 674;2 908;város
+5;28352;BOR;3910;Tiszaújváros;16 577;7 703;8 874;város
+5;18306;BOR;3663;Tokaj;3 869;1 807;2 062;város
+5;14331;BOR;3741;Arló;3 898;1 928;1 970;nagyközség
+5;05591;BOR;3744;Izsófalva;1 771;897;874;nagyközség
+5;21546;BOR;3974;Múcsony;2 969;1 469;1 500;nagyközség
+5;19220;BOR;3418;Ricse;1 868;902;966;nagyközség
+5;22169;BOR;3711;Szentistván;2 353;1 162;1 191;nagyközség
+5;09496;BOR;3922;Szirmabesenyő;4 308;2 129;2 179;nagyközség
+5;18245;BOR;3565;Taktaharkány;3 616;1 761;1 855;nagyközség
+5;28398;BOR;3882;Tiszalúc;5 085;2 519;2 566;nagyközség
+5;15662;BOR;3882;Abaújalpár;69;36;33;község
+5;26718;BOR;3815;Abaújkér;623;293;330;község
+5;02820;BOR;3809;Abaújlak;93;50;43;község
+5;26338;BOR;3898;Abaújszolnok;189;98;91;község
+5;02273;BOR;3753;Abaújvár;224;111;113;község
+5;10357;BOR;3759;Abod;201;95;106;község
+5;09362;BOR;3779;Aggtelek;534;258;276;község
+5;33093;BOR;3985;Alacska;735;356;379;község
+5;20482;BOR;3717;Alsóberecki;760;384;376;község
+5;19664;BOR;3837;Alsódobsza;300;151;149;község
+5;14429;BOR;3989;Alsógagy;89;35;54;község
+5;23223;BOR;3726;Alsóregmec;191;90;101;község
+5;28839;BOR;3735;Alsószuha;439;225;214;község
+5;08217;BOR;3811;Alsótelekes;145;67;78;község
+5;29814;BOR;3885;Alsóvadász;1 560;774;786;község
+5;26198;BOR;3713;Arka;86;43;43;község
+5;03771;BOR;3467;Arnót;2 446;1 206;1 240;község
+5;03823;BOR;3841;Ároktő;1 173;580;593;község
+5;04233;BOR;3836;Aszaló;1 834;894;940;község
+5;18184;BOR;3780;Baktakék;830;403;427;község
+5;22521;BOR;3642;Balajt;513;249;264;község
+5;25159;BOR;3654;Bánhorváti;1 378;668;710;község
+5;21953;BOR;3881;Bánréve;1 256;599;657;község
+5;08846;BOR;3768;Baskó;168;74;94;község
+5;27049;BOR;3903;Becskeháza;37;17;20;község
+5;06929;BOR;3704;Bekecs;2 441;1 204;1 237;község
+5;34290;BOR;3834;Berente;1 147;543;604;község
+5;29674;BOR;3575;Beret;300;158;142;község
+5;26356;BOR;3987;Berzék;1 036;503;533;község
+5;23737;BOR;3916;Bodroghalom;1 381;683;698;község
+5;30784;BOR;3917;Bodrogkeresztúr;1 075;496;579;község
+5;33808;BOR;3943;Bodrogkisfalud;901;444;457;község
+5;14401;BOR;3768;Bodrogolaszi;913;442;471;község
+5;27429;BOR;3764;Bódvalenke;274;136;138;község
+5;33303;BOR;3763;Bódvarákó;90;49;41;község
+5;05926;BOR;3412;Bódvaszilas;1 039;497;542;község
+5;25195;BOR;3884;Bogács;2 070;981;1 089;község
+5;18944;BOR;3885;Boldogkőújfalu;606;299;307;község
+5;14474;BOR;3794;Boldogkőváralja;1 007;498;509;község
+5;08396;BOR;3658;Boldva;2 424;1 224;1 200;község
+5;30669;BOR;3426;Borsodbóta;856;421;435;község
+5;16124;BOR;3462;Borsodgeszt;301;148;153;község
+5;06707;BOR;3623;Borsodivánka;674;311;363;község
+5;30207;BOR;3796;Borsodszentgyörgy;1 203;580;623;község
+5;16799;BOR;3994;Borsodszirák;1 228;607;621;község
+5;31006;BOR;3574;Bózsva;202;107;95;község
+5;05306;BOR;3422;Bőcs;2 780;1 374;1 406;község
+5;13596;BOR;3554;Bükkábrány;1 652;783;869;község
+5;27890;BOR;3648;Bükkaranyos;1 531;742;789;község
+5;19406;BOR;3557;Bükkmogyorósd;139;65;74;község
+5;08022;BOR;3414;Bükkszentkereszt;1 169;590;579;község
+5;32887;BOR;3821;Bükkzsérc;975;455;520;község
+5;23977;BOR;3837;Büttös;183;91;92;község
+5;08493;BOR;3413;Csenyéte;523;267;256;község
+5;06974;BOR;3417;Cserépfalu;961;452;509;község
+5;25575;BOR;3648;Cserépváralja;410;192;218;község
+5;28459;BOR;3442;Csernely;737;386;351;község
+5;34111;BOR;3848;Csincse;557;274;283;község
+5;05333;BOR;3927;Csobád;700;351;349;község
+5;20774;BOR;3647;Csobaj;676;344;332;község
+5;14289;BOR;3780;Csokvaomány;826;415;411;község
+5;11350;BOR;3978;Damak;244;118;126;község
+5;07719;BOR;3825;Dámóc;389;196;193;község
+5;31954;BOR;3643;Debréte;17;12;5;község
+5;04686;BOR;3834;Dédestapolcsány;1 433;683;750;község
+5;10524;BOR;3627;Detek;270;134;136;község
+5;25690;BOR;3721;Domaháza;859;434;425;község
+5;06123;BOR;3635;Dövény;274;128;146;község
+5;27669;BOR;3461;Dubicsány;272;141;131;község
+5;05865;BOR;3757;Egerlövő;535;263;272;község
+5;13356;BOR;3932;Égerszög;56;25;31;község
+5;25326;BOR;3935;Erdőbénye;1 148;568;580;község
+5;22503;BOR;3865;Erdőhorváti;601;298;303;község
+5;02741;BOR;3855;Fáj;475;247;228;község
+5;12557;BOR;3608;Fancsal;347;163;184;község
+5;34272;BOR;3985;Farkaslyuk;1 945;984;961;község
+5;08174;BOR;3847;Felsőberecki;284;143;141;község
+5;09742;BOR;3837;Felsődobsza;924;437;487;község
+5;29708;BOR;3722;Felsőgagy;216;110;106;község
+5;31723;BOR;3721;Felsőkelecsény;358;189;169;község
+5;32762;BOR;3989;Felsőnyárád;975;466;509;község
+5;07588;BOR;3735;Felsőregmec;360;174;186;község
+5;31671;BOR;3814;Felsőtelekes;726;360;366;község
+5;23533;BOR;3994;Felsővadász;562;312;250;község
+5;25238;BOR;3893;Filkeháza;113;56;57;község
+5;17932;BOR;3849;Fony;332;170;162;község
+5;30483;BOR;3864;Forró;2 683;1 317;1 366;község
+5;22123;BOR;3996;Fulókércs;422;212;210;község
+5;17109;BOR;3994;Füzér;410;191;219;község
+5;06460;BOR;3997;Füzérkajata;112;58;54;község
+5;11378;BOR;3993;Füzérkomlós;316;168;148;község
+5;10366;BOR;3815;Füzérradvány;325;168;157;község
+5;05494;BOR;3837;Gadna;322;171;151;község
+5;28732;BOR;3817;Gagyapáti;31;16;15;község
+5;28307;BOR;3816;Gagybátor;214;108;106;község
+5;03744;BOR;3752;Gagyvendégi;216;106;110;község
+5;19293;BOR;3873;Galvács;94;46;48;község
+5;10904;BOR;3444;Garadna;369;189;180;község
+5;23719;BOR;3715;Gelej;594;306;288;község
+5;15608;BOR;3854;Gesztely;2 764;1 370;1 394;község
+5;20969;BOR;3578;Gibárt;336;160;176;község
+5;21564;BOR;3906;Girincs;880;427;453;község
+5;13134;BOR;3728;Golop;566;266;300;község
+5;09706;BOR;3894;Gömörszőlős;84;42;42;község
+5;18643;BOR;3954;Göncruszka;662;329;333;község
+5;05069;BOR;3842;Györgytarló;599;299;300;község
+5;27942;BOR;3795;Halmaj;1 684;794;890;község
+5;11226;BOR;3626;Hangács;576;285;291;község
+5;25104;BOR;3936;Hangony;1 558;769;789;község
+5;12706;BOR;3555;Háromhuta;135;59;76;község
+5;05847;BOR;3786;Harsány;2 062;1 032;1 030;község
+5;02468;BOR;3892;Hegymeg;122;58;64;község
+5;22187;BOR;3593;Hejce;216;114;102;község
+5;06655;BOR;3597;Hejőbába;1 921;971;950;község
+5;04604;BOR;3588;Hejőkeresztúr;1 044;528;516;község
+5;02282;BOR;3594;Hejőkürt;270;140;130;község
+5;16780;BOR;3595;Hejőpapi;1 166;601;565;község
+5;12159;BOR;3958;Hejőszalonta;851;425;426;község
+5;30137;BOR;3853;Hercegkút;652;302;350;község
+5;15839;BOR;3887;Hernádbűd;129;59;70;község
+5;09399;BOR;3563;Hernádcéce;240;113;127;község
+5;24165;BOR;3846;Hernádkak;1 668;843;825;község
+5;21829;BOR;3564;Hernádkércs;321;152;169;község
+5;31200;BOR;3874;Hernádnémeti;3 606;1 801;1 805;község
+5;24882;BOR;3852;Hernádpetri;262;126;136;község
+5;17136;BOR;3875;Hernádszentandrás;417;200;217;község
+5;24970;BOR;3874;Hernádszurdok;180;89;91;község
+5;19840;BOR;3655;Hernádvécse;1 112;559;553;község
+5;08004;BOR;3876;Hét;481;241;240;község
+5;11697;BOR;3768;Hidasnémeti;1 124;559;565;község
+5;25672;BOR;3999;Hidvégardó;579;279;300;község
+5;31167;BOR;3812;Hollóháza;849;395;454;község
+5;21236;BOR;3459;Homrogd;945;489;456;község
+5;25399;BOR;3725;Igrici;1 222;598;624;község
+5;16577;BOR;3851;Imola;101;49;52;község
+5;08086;BOR;3786;Ináncs;1 204;590;614;község
+5;05005;BOR;3721;Irota;78;36;42;község
+5;20233;BOR;3664;Jákfalva;510;267;243;község
+5;26657;BOR;3758;Járdánháza;1 797;860;937;község
+5;15680;BOR;3424;Jósvafő;264;126;138;község
+5;32993;BOR;3735;Kács;499;234;265;község
+5;07764;BOR;3821;Kánó;156;74;82;község
+5;25742;BOR;3963;Kány;59;30;29;község
+5;21218;BOR;3962;Karcsa;1 860;928;932;község
+5;30508;BOR;3831;Karos;518;255;263;község
+5;13374;BOR;3899;Kázsmárk;1 017;511;506;község
+5;15264;BOR;3728;Kéked;181;89;92;község
+5;12034;BOR;3955;Kelemér;490;245;245;község
+5;05458;BOR;3821;Kenézlő;1 239;626;613;község
+5;17066;BOR;3579;Keresztéte;36;22;14;község
+5;29249;BOR;3657;Kesznyéten;1 818;914;904;község
+5;32090;BOR;3578;Királd;791;393;398;község
+5;17349;BOR;3556;Kiscsécs;196;102;94;község
+5;22840;BOR;3994;Kisgyőr;1 684;802;882;község
+5;28875;BOR;3843;Kishuta;301;151;150;község
+5;03762;BOR;3965;Kiskinizs;338;173;165;község
+5;11448;BOR;3627;Kisrozvágy;206;89;117;község
+5;14702;BOR;3553;Kissikátor;304;136;168;község
+5;12399;BOR;3765;Kistokaj;2 212;1 098;1 114;község
+5;10612;BOR;3937;Komjáti;216;108;108;község
+5;16559;BOR;3775;Komlóska;270;138;132;község
+5;32498;BOR;3886;Kondó;600;309;291;község
+5;22956;BOR;3992;Korlát;314;152;162;község
+5;28547;BOR;3577;Kovácsvágás;656;326;330;község
+5;26602;BOR;3821;Köröm;1 566;799;767;község
+5;19576;BOR;3813;Krasznokvajda;518;270;248;község
+5;18722;BOR;3732;Kupa;181;87;94;község
+5;11819;BOR;3967;Kurityán;1 575;778;797;község
+5;20844;BOR;3780;Lácacséke;335;177;158;község
+5;26231;BOR;3786;Ládbesenyő;282;141;141;község
+5;15857;BOR;3904;Lak;686;336;350;község
+5;11660;BOR;3832;Legyesbénye;1 487;738;749;község
+5;03531;BOR;3648;Léh;468;238;230;község
+5;07038;BOR;3866;Lénárddaróc;264;123;141;község
+5;28219;BOR;3909;Litka;47;23;24;község
+5;03902;BOR;3959;Mád;2 154;1 002;1 152;község
+5;19600;BOR;3434;Makkoshotyka;870;434;436;község
+5;27395;BOR;3645;Mályi;4 243;2 123;2 120;község
+5;14915;BOR;3755;Mályinka;476;243;233;község
+5;02024;BOR;3718;Martonyi;420;190;230;község
+5;21768;BOR;3871;Megyaszó;2 745;1 369;1 376;község
+5;25618;BOR;3754;Méra;1 691;851;840;község
+5;11758;BOR;3443;Meszes;172;87;85;község
+5;18379;BOR;3421;Mezőnagymihály;1 018;484;534;község
+5;11749;BOR;3931;Mezőnyárád;1 615;776;839;község
+5;03443;BOR;3989;Mezőzombor;2 440;1 191;1 249;község
+5;24253;BOR;3893;Mikóháza;537;259;278;község
+5;10968;BOR;3812;Mogyoróska;81;40;41;község
+5;09016;BOR;3905;Monaj;260;130;130;község
+5;07825;BOR;3552;Monok;1 504;744;760;község
+5;02158;BOR;3641;Muhi;502;249;253;község
+5;29188;BOR;3598;Nagybarca;863;422;441;község
+5;05582;BOR;3994;Nagycsécs;802;403;399;község
+5;15468;BOR;3844;Nagyhuta;63;36;27;község
+5;26505;BOR;3965;Nagykinizs;355;185;170;község
+5;33181;BOR;3463;Nagyrozvágy;691;340;351;község
+5;24156;BOR;3646;Négyes;278;146;132;község
+5;28033;BOR;3592;Nekézseny;660;332;328;község
+5;05245;BOR;3872;Nemesbikk;917;434;483;község
+5;27191;BOR;3809;Novajidrány;1 357;674;683;község
+5;04419;BOR;3998;Nyésta;42;23;19;község
+5;26435;BOR;3795;Nyíri;402;194;208;község
+5;04215;BOR;3933;Nyomár;312;150;162;község
+5;31778;BOR;3551;Olaszliszka;1 687;792;895;község
+5;22628;BOR;3743;Ónod;2 430;1 221;1 209;község
+5;34069;BOR;3591;Ormosbánya;1 622;794;828;község
+5;02866;BOR;3964;Oszlár;381;192;189;község
+5;15893;BOR;3821;Pácin;1 493;765;728;község
+5;12371;BOR;3898;Pamlény;48;25;23;község
+5;24730;BOR;3777;Pányok;62;30;32;község
+5;26745;BOR;3853;Parasznya;1 173;574;599;község
+5;24420;BOR;3821;Pere;337;164;173;község
+5;32683;BOR;3756;Perecse;27;13;14;község
+5;33419;BOR;3925;Perkupa;872;441;431;község
+5;21272;BOR;3995;Prügy;2 526;1 254;1 272;község
+5;17048;BOR;3874;Pusztafalu;209;110;99;község
+5;15413;BOR;3776;Pusztaradvány;240;123;117;község
+5;21193;BOR;3724;Radostyán;570;271;299;község
+5;06053;BOR;3825;Ragály;612;297;315;község
+5;29717;BOR;3826;Rakaca;912;463;449;község
+5;16133;BOR;3833;Rakacaszend;363;181;182;község
+5;31909;BOR;3908;Rásonysápberencs;548;276;272;község
+5;12469;BOR;3893;Rátka;944;438;506;község
+5;08402;BOR;3559;Regéc;90;45;45;község
+5;31884;BOR;3976;Répáshuta;441;195;246;község
+5;09317;BOR;3742;Révleányvár;485;246;239;község
+5;34120;BOR;3793;Rudolftelep;719;358;361;község
+5;27331;BOR;3636;Sajóecseg;1 064;520;544;község
+5;10171;BOR;3576;Sajógalgóc;365;188;177;község
+5;03081;BOR;3720;Sajóhídvég;1 170;561;609;község
+5;03212;BOR;3773;Sajóivánka;638;317;321;község
+5;21670;BOR;3720;Sajókápolna;402;199;203;község
+5;14313;BOR;3791;Sajókaza;3 116;1 568;1 548;község
+5;26949;BOR;3572;Sajókeresztúr;1 521;737;784;község
+5;27173;BOR;3773;Sajólád;3 015;1 474;1 541;község
+5;22479;BOR;3656;Sajólászlófalva;446;222;224;község
+5;15945;BOR;3652;Sajómercse;226;110;116;község
+5;11332;BOR;3586;Sajónémeti;501;236;265;község
+5;08129;BOR;3714;Sajóörös;1 413;701;712;község
+5;18537;BOR;3573;Sajópálfala;737;356;381;község
+5;16638;BOR;3653;Sajópetri;1 552;734;818;község
+5;23782;BOR;3712;Sajópüspöki;531;252;279;község
+5;08970;BOR;3599;Sajósenye;406;217;189;község
+5;30340;BOR;3712;Sajószöged;2 292;1 159;1 133;község
+5;20738;BOR;3656;Sajóvámos;2 134;993;1 141;község
+5;27757;BOR;3425;Sajóvelezd;799;379;420;község
+5;04729;BOR;3942;Sály;1 787;853;934;község
+5;20516;BOR;3659;Sárazsadány;241;125;116;község
+5;02875;BOR;3809;Sáta;1 184;526;658;község
+5;25380;BOR;3974;Selyeb;493;235;258;község
+5;23755;BOR;3729;Semjén;542;291;251;község
+5;32531;BOR;3881;Serényfalva;1 027;515;512;község
+5;23418;BOR;3716;Sima;39;21;18;község
+5;13268;BOR;3786;Sóstófalva;256;133;123;község
+5;32258;BOR;3596;Szakácsi;187;105;82;község
+5;03805;BOR;3863;Szakáld;492;247;245;község
+5;31015;BOR;3754;Szalaszend;1 068;547;521;község
+5;16753;BOR;3821;Szalonna;1 019;509;510;község
+5;08147;BOR;3918;Szászfa;119;59;60;község
+5;33817;BOR;3918;Szegi;302;143;159;község
+5;31510;BOR;3866;Szegilong;258;114;144;község
+5;09830;BOR;3751;Szemere;424;216;208;község
+5;27456;BOR;3844;Szendrőlád;2 162;1 062;1 100;község
+5;08484;BOR;3761;Szentistvánbaksa;275;137;138;község
+5;20871;BOR;3761;Szin;847;450;397;község
+5;11493;BOR;3411;Szinpetri;219;112;107;község
+5;18892;BOR;3762;Szomolya;1 580;757;823;község
+5;16179;BOR;3757;Szögliget;608;309;299;község
+5;07889;BOR;3726;Szőlősardó;110;49;61;község
+5;03160;BOR;3731;Szuhafő;150;75;75;község
+5;11110;BOR;3734;Szuhakálló;995;470;525;község
+5;24606;BOR;3926;Szuhogy;1 110;549;561;község
+5;03708;BOR;3924;Taktabáj;596;297;299;község
+5;28787;BOR;3921;Taktakenéz;1 255;627;628;község
+5;03133;BOR;3907;Taktaszada;2 010;992;1 018;község
+5;12210;BOR;3915;Tállya;1 814;884;930;község
+5;21740;BOR;3416;Tarcal;2 840;1 300;1 540;község
+5;08165;BOR;3644;Tard;1 150;546;604;község
+5;14784;BOR;3896;Tardona;1 036;515;521;község
+5;13763;BOR;3757;Telkibánya;596;296;300;község
+5;28635;BOR;3423;Teresztenye;24;10;14;község
+5;30447;BOR;3465;Tibolddaróc;1 345;677;668;község
+5;02291;BOR;3972;Tiszabábolna;348;182;166;község
+5;29133;BOR;3466;Tiszacsermely;574;306;268;község
+5;03717;BOR;3971;Tiszadorogma;383;193;190;község
+5;13976;BOR;3458;Tiszakarád;2 465;1 233;1 232;község
+5;13888;BOR;3929;Tiszakeszi;2 632;1 299;1 333;község
+5;19381;BOR;3587;Tiszaladány;617;293;324;község
+5;08633;BOR;3928;Tiszapalkonya;1 454;743;711;község
+5;30298;BOR;3589;Tiszatardos;248;132;116;község
+5;30377;BOR;3464;Tiszatarján;1 418;713;705;község
+5;10977;BOR;3934;Tiszavalk;303;149;154;község
+5;28051;BOR;3787;Tolcsva;1 751;864;887;község
+5;14890;BOR;3765;Tomor;234;125;109;község
+5;16902;BOR;3761;Tornabarakony;19;7;12;község
+5;10375;BOR;3767;Tornakápolna;25;12;13;község
+5;18801;BOR;3765;Tornanádaska;768;407;361;község
+5;27836;BOR;3769;Tornaszentandrás;185;87;98;község
+5;30517;BOR;3877;Tornaszentjakab;208;99;109;község
+5;29054;BOR;3724;Tornyosnémeti;532;291;241;község
+5;04914;BOR;3716;Trizs;208;95;113;község
+5;12487;BOR;3622;Újcsanálos;868;445;423;község
+5;18351;BOR;3636;Uppony;280;125;155;község
+5;07223;BOR;3992;Vadna;627;312;315;község
+5;29151;BOR;3961;Vágáshuta;105;54;51;község
+5;30003;BOR;3941;Vajdácska;1 272;628;644;község
+5;15149;BOR;3778;Vámosújfalu;732;365;367;község
+5;21810;BOR;3756;Varbó;1 101;517;584;község
+5;10144;BOR;3431;Varbóc;54;32;22;község
+5;30076;BOR;3891;Vatta;881;458;423;község
+5;11581;BOR;3991;Vilmány;1 474;741;733;község
+5;12982;BOR;3956;Vilyvitány;259;125;134;község
+5;05096;BOR;3825;Viss;663;328;335;község
+5;03957;BOR;3888;Viszló;70;38;32;község
+5;21087;BOR;3726;Vizsoly;923;462;461;község
+5;03063;BOR;3957;Zádorfalva;512;239;273;község
+5;15617;BOR;3977;Zalkod;228;103;125;község
+5;31608;BOR;3794;Zemplénagárd;746;379;367;község
+5;19275;BOR;3897;Ziliz;407;201;206;község
+5;11022;BOR;3723;Zsujta;182;89;93;község
+6;33367;CSO;6800;Szeged;162 868;76 260;86 608;megye székhely
+6;08314;CSO;6913;Hódmezővásárhely;44 808;21 630;23 178;megyei jogú város
+6;05379;CSO;6640;Csanádpalota;2 821;1 392;1 429;város
+6;05111;CSO;6760;Csongrád;16 635;7 911;8 724;város
+6;31024;CSO;6900;Kistelek;7 274;3 421;3 853;város
+6;07357;CSO;6630;Makó;23 362;11 147;12 215;város
+6;21555;CSO;6782;Mindszent;6 755;3 317;3 438;város
+6;04349;CSO;6762;Mórahalom;6 312;3 060;3 252;város
+6;31705;CSO;6600;Sándorfalva;8 348;4 117;4 231;város
+6;14456;CSO;6750;Szentes;27 468;13 150;14 318;város
+6;34245;CSO;6622;Algyő;5 473;2 676;2 797;nagyközség
+6;17233;CSO;6635;Nagymágocs;2 933;1 466;1 467;nagyközség
+6;32489;CSO;6916;Szegvár;4 440;2 173;2 267;nagyközség
+6;16197;CSO;6931;Ambrózfalva;493;245;248;község
+6;14252;CSO;6623;Apátfalva;3 016;1 479;1 537;község
+6;19062;CSO;6783;Árpádhalom;483;253;230;község
+6;10339;CSO;6768;Ásotthalom;4 023;1 976;2 047;község
+6;29106;CSO;6764;Baks;2 008;983;1 025;község
+6;23676;CSO;6795;Balástya;3 466;1 721;1 745;község
+6;08192;CSO;6915;Bordány;3 257;1 632;1 625;község
+6;02121;CSO;6647;Csanádalberti;465;224;241;község
+6;22293;CSO;6765;Csanytelek;2 604;1 248;1 356;község
+6;32285;CSO;6621;Csengele;1 944;968;976;község
+6;07834;CSO;6772;Derekegyház;1 583;773;810;község
+6;24077;CSO;6766;Deszk;3 909;1 938;1 971;község
+6;30535;CSO;6781;Dóc;745;363;382;község
+6;13383;CSO;6624;Domaszék;5 114;2 619;2 495;község
+6;22992;CSO;6625;Eperjes;476;233;243;község
+6;19974;CSO;6645;Fábiánsebestyén;1 959;981;978;község
+6;22646;CSO;6774;Felgyő;1 209;598;611;község
+6;18999;CSO;6793;Ferencszállás;645;326;319;község
+6;33020;CSO;6922;Forráskút;2 086;1 035;1 051;község
+6;09210;CSO;6911;Földeák;3 075;1 519;1 556;község
+6;13666;CSO;6775;Királyhegyes;619;305;314;község
+6;26666;CSO;6773;Kiszombor;3 880;1 924;1 956;község
+6;08253;CSO;6912;Klárafalva;516;268;248;község
+6;09955;CSO;6755;Kövegy;401;199;202;község
+6;14410;CSO;6932;Kübekháza;1 573;773;800;község
+6;05962;CSO;6921;Magyarcsanád;1 482;735;747;község
+6;10515;CSO;6636;Maroslele;2 039;992;1 047;község
+6;25733;CSO;6917;Mártély;1 303;661;642;község
+6;20914;CSO;6933;Nagyér;549;270;279;község
+6;12779;CSO;6612;Nagylak;486;243;243;község
+6;29179;CSO;6923;Nagytőke;415;225;190;község
+6;07755;CSO;6767;Óföldeák;482;225;257;község
+6;12797;CSO;6784;Ópusztaszer;2 153;1 085;1 068;község
+6;31079;CSO;6914;Öttömös;696;357;339;község
+6;06284;CSO;6785;Pitvaros;1 387;681;706;község
+6;06354;CSO;6769;Pusztamérges;1 099;520;579;község
+6;28592;CSO;6758;Pusztaszer;1 418;721;697;község
+6;13161;CSO;6786;Röszke;3 584;1 841;1 743;község
+6;03966;CSO;6763;Ruzsa;2 517;1 260;1 257;község
+6;12007;CSO;6821;Szatymaz;4 936;2 462;2 474;község
+6;12265;CSO;6756;Székkutas;2 085;1 060;1 025;község
+6;16966;CSO;6646;Tiszasziget;1 793;908;885;község
+6;25900;CSO;6754;Tömörkény;1 724;830;894;község
+6;14924;CSO;6794;Újszentiván;2 028;1 042;986;község
+6;21412;CSO;6787;Üllés;3 100;1 512;1 588;község
+6;05546;CSO;6792;Zákányszék;2 878;1 423;1 455;község
+6;17765;CSO;8000;Zsombó;3 536;1 778;1 758;község
+7;14827;FEJ;2400;Székesfehérvár;96 373;45 259;51 114;megye székhely
+7;03115;FEJ;8127;Dunaújváros;45 493;21 453;24 040;megyei jogú város
+7;17376;FEJ;2457;Aba;4 660;2 297;2 363;város
+7;08925;FEJ;2060;Adony;3 931;1 937;1 994;város
+7;10481;FEJ;8053;Bicske;12 503;6 285;6 218;város
+7;18254;FEJ;8083;Bodajk;4 066;1 993;2 073;város
+7;20002;FEJ;8130;Csákvár;5 245;2 538;2 707;város
+7;10296;FEJ;2462;Gárdony;11 662;5 704;5 958;város
+7;04659;FEJ;8060;Martonvásár;5 743;2 794;2 949;város
+7;18485;FEJ;8154;Mór;14 045;6 804;7 241;város
+7;17525;FEJ;2490;Polgárdi;6 951;3 405;3 546;város
+7;29018;FEJ;2459;Pusztaszabolcs;6 071;2 999;3 072;város
+7;09900;FEJ;7000;Rácalmás;4 766;2 415;2 351;város
+7;25016;FEJ;7013;Velence;6 446;3 151;3 295;város
+7;13152;FEJ;2424;Cece;2 594;1 281;1 313;nagyközség
+7;20358;FEJ;8136;Előszállás;2 323;1 175;1 148;nagyközség
+7;07506;FEJ;8132;Lajoskomárom;2 214;1 109;1 105;nagyközség
+7;07269;FEJ;2422;Lepsény;3 179;1 546;1 633;nagyközség
+7;17552;FEJ;2431;Mezőfalva;4 749;2 398;2 351;nagyközség
+7;19354;FEJ;2433;Perkáta;4 033;1 985;2 048;nagyközség
+7;25140;FEJ;8111;Sárosd;3 294;1 628;1 666;nagyközség
+7;20206;FEJ;8123;Seregélyes;4 448;2 189;2 259;nagyközség
+7;33321;FEJ;8151;Soponya;1 854;920;934;nagyközség
+7;28705;FEJ;7011;Szabadbattyán;4 774;2 416;2 358;nagyközség
+7;26824;FEJ;8087;Alap;1 956;970;986;község
+7;15176;FEJ;7012;Alcsútdoboz;1 477;740;737;község
+7;25283;FEJ;8056;Alsószentiván;589;296;293;község
+7;08730;FEJ;8046;Bakonycsernye;3 138;1 542;1 596;község
+7;23153;FEJ;8054;Bakonykúti;173;89;84;község
+7;07047;FEJ;2471;Baracs;3 534;1 808;1 726;község
+7;08581;FEJ;2455;Baracska;2 786;1 406;1 380;község
+7;08466;FEJ;2456;Beloiannisz;1 149;583;566;község
+7;16346;FEJ;8080;Besnyő;1 755;872;883;község
+7;11624;FEJ;2064;Bodmér;249;131;118;község
+7;30544;FEJ;8073;Csabdi;1 282;617;665;község
+7;05360;FEJ;8074;Csákberény;1 182;590;592;község
+7;21908;FEJ;8041;Csókakő;1 460;690;770;község
+7;09779;FEJ;8122;Csór;1 901;961;940;község
+7;06734;FEJ;2423;Csősz;1 043;525;518;község
+7;34342;FEJ;8135;Daruszentmiklós;1 283;657;626;község
+7;32753;FEJ;2091;Dég;2 191;1 061;1 130;község
+7;02316;FEJ;8052;Etyek;4 373;2 146;2 227;község
+7;32203;FEJ;8086;Fehérvárcsurgó;2 048;986;1 062;község
+7;29939;FEJ;8157;Felcsút;1 899;945;954;község
+7;06114;FEJ;8082;Füle;879;433;446;község
+7;15750;FEJ;2464;Gánt;810;439;371;község
+7;15918;FEJ;2434;Gyúró;1 289;650;639;község
+7;23427;FEJ;7015;Hantos;966;470;496;község
+7;17738;FEJ;8043;Igar;930;467;463;község
+7;32018;FEJ;8045;Iszkaszentgyörgy;2 166;1 087;1 079;község
+7;02200;FEJ;2454;Isztimér;911;468;443;község
+7;13462;FEJ;8146;Iváncsa;2 824;1 398;1 426;község
+7;15972;FEJ;2472;Jenő;1 293;603;690;község
+7;21342;FEJ;8124;Kajászó;1 124;560;564;község
+7;16683;FEJ;2475;Káloz;2 407;1 162;1 245;község
+7;21926;FEJ;8044;Kápolnásnyék;3 880;1 902;1 978;község
+7;02343;FEJ;2428;Kincsesbánya;1 528;735;793;község
+7;12636;FEJ;8156;Kisapostag;1 468;750;718;község
+7;28990;FEJ;8152;Kisláng;2 523;1 273;1 250;község
+7;30650;FEJ;2458;Kőszárhegy;1 585;789;796;község
+7;34209;FEJ;8093;Kulcs;3 282;1 671;1 611;község
+7;19114;FEJ;8071;Lovasberény;2 676;1 331;1 345;község
+7;27678;FEJ;2065;Magyaralmás;1 601;776;825;község
+7;23490;FEJ;8134;Mány;2 504;1 272;1 232;község
+7;16948;FEJ;8137;Mátyásdomb;735;378;357;község
+7;05689;FEJ;8133;Mezőkomárom;956;476;480;község
+7;06576;FEJ;7017;Mezőszentgyörgy;1 355;699;656;község
+7;29036;FEJ;8042;Mezőszilas;2 118;1 000;1 118;község
+7;25715;FEJ;8097;Moha;570;283;287;község
+7;27599;FEJ;8145;Nadap;652;322;330;község
+7;13903;FEJ;2425;Nádasdladány;1 810;920;890;község
+7;07001;FEJ;2435;Nagykarácsony;1 411;717;694;község
+7;32364;FEJ;8065;Nagylók;1 086;537;549;község
+7;23588;FEJ;2421;Nagyveleg;649;321;328;község
+7;26134;FEJ;2063;Nagyvenyim;4 235;2 123;2 112;község
+7;34306;FEJ;8095;Óbarok;822;430;392;község
+7;25751;FEJ;8092;Pákozd;3 375;1 707;1 668;község
+7;28848;FEJ;2476;Pátka;1 758;875;883;község
+7;21786;FEJ;8066;Pázmánd;2 200;1 123;1 077;község
+7;17774;FEJ;2465;Pusztavám;2 522;1 220;1 302;község
+7;02015;FEJ;7014;Ráckeresztúr;3 521;1 774;1 747;község
+7;02723;FEJ;8051;Sáregres;685;355;330;község
+7;31802;FEJ;8125;Sárkeresztes;1 533;750;783;község
+7;25344;FEJ;8144;Sárkeresztúr;2 592;1 292;1 300;község
+7;02699;FEJ;8126;Sárkeszi;604;310;294;község
+7;31538;FEJ;8143;Sárszentágota;1 360;676;684;község
+7;11776;FEJ;8072;Sárszentmihály;3 148;1 592;1 556;község
+7;02893;FEJ;8096;Söréd;533;265;268;község
+7;14951;FEJ;2432;Sukoró;1 714;878;836;község
+7;13259;FEJ;8138;Szabadegyháza;2 150;1 070;1 080;község
+7;18740;FEJ;2066;Szabadhídvég;859;429;430;község
+7;19549;FEJ;8088;Szár;1 692;832;860;község
+7;14465;FEJ;8121;Tabajd;1 012;489;523;község
+7;29267;FEJ;2463;Tác;1 758;864;894;község
+7;21005;FEJ;2066;Tordas;2 093;1 063;1 030;község
+7;17482;FEJ;8142;Újbarok;433;219;214;község
+7;17622;FEJ;7041;Úrhida;2 550;1 276;1 274;község
+7;02459;FEJ;2473;Vajta;896;422;474;község
+7;05829;FEJ;2477;Vál;2 588;1 266;1 322;község
+7;03498;FEJ;8089;Vereb;807;393;414;község
+7;02750;FEJ;8085;Vértesacsa;1 875;921;954;község
+7;13897;FEJ;8081;Vértesboglár;906;446;460;község
+7;30243;FEJ;8112;Zámoly;2 382;1 197;1 185;község
+8;25584;GYO;9400;Győr;124 685;59 215;65 470;megye székhely
+8;08518;GYO;9343;Sopron;58 294;27 561;30 733;megyei jogú város
+8;10588;GYO;9168;Beled;2 581;1 290;1 291;város
+8;04039;GYO;9431;Csorna;10 042;4 925;5 117;város
+8;09885;GYO;9444;Fertőd;3 292;1 601;1 691;város
+8;15343;GYO;9243;Fertőszentmiklós;3 803;1 824;1 979;város
+8;29221;GYO;9330;Jánossomorja;6 119;3 070;3 049;város
+8;28334;GYO;9155;Kapuvár;10 098;4 880;5 218;város
+8;33668;GYO;9200;Lébény;3 279;1 605;1 674;város
+8;04783;GYO;9090;Mosonmagyaróvár;32 454;15 672;16 782;város
+8;24305;GYO;9100;Pannonhalma;3 519;1 730;1 789;város
+8;19035;GYO;9167;Tét;4 070;2 036;2 034;város
+8;15501;GYO;9222;Bősárkány;2 139;1 073;1 066;nagyközség
+8;17905;GYO;9485;Hegyeshalom;3 660;1 816;1 844;nagyközség
+8;02495;GYO;9317;Nagycenk;2 160;1 036;1 124;nagyközség
+8;08536;GYO;9151;Szany;2 147;1 078;1 069;nagyközség
+8;11882;GYO;9168;Abda;3 290;1 640;1 650;község
+8;33385;GYO;9423;Acsalag;484;243;241;község
+8;04880;GYO;9441;Ágfalva;2 370;1 206;1 164;község
+8;29407;GYO;9132;Agyagosszergény;912;462;450;község
+8;32249;GYO;9177;Árpás;253;127;126;község
+8;26921;GYO;9351;Ásványráró;2 053;1 034;1 019;község
+8;15042;GYO;9145;Babót;1 106;567;539;község
+8;28769;GYO;8433;Bágyogszovát;1 352;665;687;község
+8;28936;GYO;9088;Bakonygyirót;156;76;80;község
+8;22062;GYO;8431;Bakonypéterd;289;156;133;község
+8;05944;GYO;9169;Bakonyszentlászló;1 766;878;888;község
+8;06196;GYO;9223;Barbacs;755;385;370;község
+8;29805;GYO;9162;Bezenye;1 435;670;765;község
+8;10560;GYO;9134;Bezi;529;268;261;község
+8;06220;GYO;9324;Bodonhely;312;160;152;község
+8;04367;GYO;9073;Bogyoszló;625;310;315;község
+8;33950;GYO;9152;Bőny;2 252;1 118;1 134;község
+8;06619;GYO;9165;Börcs;1 340;667;673;község
+8;27085;GYO;9364;Cakóháza;53;27;26;község
+8;15954;GYO;9375;Cirák;539;257;282;község
+8;10047;GYO;9372;Csáfordjánosfa;232;118;114;község
+8;08563;GYO;9375;Csapod;570;301;269;község
+8;30191;GYO;9127;Csér;37;19;18;község
+8;13505;GYO;9232;Csikvánd;500;240;260;község
+8;21865;GYO;9365;Darnózseli;1 584;774;810;község
+8;32595;GYO;9147;Dénesfa;405;209;196;község
+8;21917;GYO;9225;Dör;619;296;323;község
+8;27739;GYO;9235;Dunakiliti;2 003;985;1 018;község
+8;02079;GYO;9174;Dunaremete;249;123;126;község
+8;21078;GYO;9175;Dunaszeg;2 204;1 124;1 080;község
+8;15875;GYO;9226;Dunaszentpál;752;391;361;község
+8;10454;GYO;9451;Dunasziget;1 677;838;839;község
+8;26347;GYO;9083;Ebergőc;162;76;86;község
+8;16708;GYO;9343;Écs;2 072;1 026;1 046;község
+8;22442;GYO;9314;Edve;113;59;54;község
+8;20288;GYO;9473;Egyed;533;266;267;község
+8;15237;GYO;9143;Egyházasfalu;875;457;418;község
+8;15033;GYO;9321;Enese;1 789;868;921;község
+8;33996;GYO;9163;Farád;1 937;976;961;község
+8;06956;GYO;9211;Fehértó;501;251;250;község
+8;32717;GYO;9122;Feketeerdő;621;320;301;község
+8;33251;GYO;8432;Felpéc;951;474;477;község
+8;30678;GYO;9493;Fenyőfő;111;64;47;község
+8;11253;GYO;9442;Fertőboz;308;153;155;község
+8;09487;GYO;9492;Fertőendréd;617;302;315;község
+8;10658;GYO;9421;Fertőhomok;825;397;428;község
+8;12414;GYO;9436;Fertőrákos;2 282;1 103;1 179;község
+8;31440;GYO;9071;Fertőszéplak;1 286;631;655;község
+8;02060;GYO;9474;Gönyű;3 281;1 654;1 627;község
+8;17969;GYO;9126;Gyalóka;76;40;36;község
+8;26860;GYO;9363;Gyarmat;1 369;667;702;község
+8;23843;GYO;9124;Gyóró;390;182;208;község
+8;20400;GYO;9093;Gyömöre;1 253;629;624;község
+8;08721;GYO;9173;Győrasszonyfa;530;266;264;község
+8;13198;GYO;9084;Győrladamér;1 826;883;943;község
+8;31316;GYO;9161;Győrság;1 511;756;755;község
+8;19309;GYO;9121;Győrsövényház;807;423;384;község
+8;15653;GYO;9081;Győrszemere;3 283;1 634;1 649;község
+8;07481;GYO;9171;Győrújbarát;7 203;3 560;3 643;község
+8;31787;GYO;9172;Győrújfalu;2 112;1 041;1 071;község
+8;15228;GYO;9228;Győrzámoly;3 154;1 581;1 573;község
+8;26790;GYO;9422;Halászi;3 188;1 573;1 615;község
+8;07649;GYO;9178;Harka;2 535;1 301;1 234;község
+8;12308;GYO;9437;Hédervár;1 238;631;607;község
+8;18403;GYO;9491;Hegykő;1 569;792;777;község
+8;23375;GYO;9362;Hidegség;446;233;213;község
+8;04020;GYO;9361;Himod;652;329;323;község
+8;10029;GYO;9141;Hövej;316;165;151;község
+8;20604;GYO;9374;Ikrény;1 923;956;967;község
+8;31635;GYO;9323;Iván;1 246;642;604;község
+8;06646;GYO;9123;Jobaháza;555;268;287;község
+8;12113;GYO;9182;Kajárpéc;1 275;665;610;község
+8;34351;GYO;9181;Károlyháza;562;301;261;község
+8;14748;GYO;9133;Kimle;2 299;1 154;1 145;község
+8;02413;GYO;9062;Kisbabot;235;117;118;község
+8;22886;GYO;9234;Kisbajcs;904;452;452;község
+8;07816;GYO;9341;Kisbodak;376;187;189;község
+8;33695;GYO;9144;Kisfalud;719;360;359;község
+8;11262;GYO;9495;Kóny;2 723;1 349;1 374;község
+8;06895;GYO;9113;Kópháza;2 082;992;1 090;község
+8;24633;GYO;9184;Koroncó;2 349;1 164;1 185;község
+8;31626;GYO;9089;Kunsziget;1 288;630;658;község
+8;04376;GYO;9221;Lázi;551;297;254;község
+8;19239;GYO;9233;Levél;2 033;1 016;1 017;község
+8;16221;GYO;9461;Lipót;752;383;369;község
+8;31194;GYO;9169;Lövő;1 413;700;713;község
+8;26444;GYO;9346;Maglóca;100;51;49;község
+8;13912;GYO;9231;Magyarkeresztúr;464;220;244;község
+8;12283;GYO;9164;Máriakálnok;2 007;1 006;1 001;község
+8;06770;GYO;9176;Markotabödöge;487;232;255;község
+8;27359;GYO;9136;Mecsér;634;315;319;község
+8;20385;GYO;9097;Mérges;112;59;53;község
+8;12812;GYO;9342;Mezőörs;943;454;489;község
+8;21980;GYO;9131;Mihályi;1 106;573;533;község
+8;02556;GYO;9154;Mórichida;834;398;436;község
+8;33677;GYO;9245;Mosonszentmiklós;2 518;1 254;1 264;község
+8;28149;GYO;9246;Mosonszolnok;1 792;903;889;község
+8;34412;GYO;9063;Mosonudvar;445;235;210;község
+8;02361;GYO;9482;Nagybajcs;1 006;474;532;község
+8;32939;GYO;9072;Nagylózs;1 058;492;566;község
+8;33543;GYO;9471;Nagyszentjános;1 859;958;901;község
+8;29328;GYO;9096;Nemeskér;190;96;94;község
+8;19752;GYO;9082;Nyalka;479;232;247;község
+8;12955;GYO;9354;Nyúl;4 443;2 218;2 225;község
+8;15121;GYO;9153;Osli;889;442;447;község
+8;02635;GYO;9345;Öttevény;3 075;1 513;1 562;község
+8;19637;GYO;9311;Páli;468;267;201;község
+8;23481;GYO;9085;Pásztori;407;214;193;község
+8;12715;GYO;9098;Pázmándfalu;1 072;543;529;község
+8;15529;GYO;9484;Pér;2 577;1 274;1 303;község
+8;23773;GYO;9443;Pereszteg;1 464;724;740;község
+8;22831;GYO;9481;Petőháza;1 072;517;555;község
+8;14687;GYO;9324;Pinnye;356;186;170;község
+8;27304;GYO;9373;Potyond;102;49;53;község
+8;31370;GYO;9235;Pusztacsalád;289;149;140;község
+8;12964;GYO;9313;Püski;635;331;304;község
+8;04792;GYO;9136;Rábacsanak;510;251;259;község
+8;33701;GYO;9344;Rábacsécsény;592;295;297;község
+8;14793;GYO;9142;Rábakecöl;703;337;366;község
+8;25335;GYO;9146;Rábapatona;2 618;1 295;1 323;község
+8;24721;GYO;9327;Rábapordány;982;492;490;község
+8;20136;GYO;9316;Rábasebes;88;47;41;község
+8;15273;GYO;9135;Rábaszentandrás;457;232;225;község
+8;33710;GYO;9133;Rábaszentmihály;502;256;246;község
+8;17297;GYO;9322;Rábaszentmiklós;142;68;74;község
+8;15422;GYO;9165;Rábatamási;1 003;527;476;község
+8;03753;GYO;9224;Rábcakapi;170;84;86;község
+8;26587;GYO;9091;Rajka;3 548;1 756;1 792;község
+8;21801;GYO;9375;Ravazd;1 294;618;676;község
+8;14438;GYO;9475;Répceszemere;288;152;136;község
+8;07746;GYO;9074;Répcevis;344;173;171;község
+8;33969;GYO;8434;Rétalap;602;308;294;község
+8;17507;GYO;9451;Románd;316;154;162;község
+8;11068;GYO;9434;Röjtökmuzsaj;429;210;219;község
+8;30021;GYO;8439;Sarród;965;476;489;község
+8;08606;GYO;9315;Sikátor;341;163;178;község
+8;24208;GYO;9112;Sobor;282;130;152;község
+8;12627;GYO;9463;Sokorópátka;1 149;593;556;község
+8;29090;GYO;9483;Sopronhorpács;835;411;424;község
+8;25724;GYO;9325;Sopronkövesd;1 256;602;654;község
+8;02617;GYO;9474;Sopronnémeti;312;153;159;község
+8;11369;GYO;9353;Szakony;440;219;221;község
+8;15714;GYO;9125;Szárföld;1 035;489;546;község
+8;03887;GYO;9326;Szerecseny;776;383;393;község
+8;19266;GYO;9312;Szil;1 366;709;657;község
+8;03364;GYO;9095;Szilsárkány;720;373;347;község
+8;14261;GYO;9094;Táp;743;362;381;község
+8;21971;GYO;9092;Tápszentmiklós;940;477;463;község
+8;33914;GYO;9165;Tarjánpuszta;416;201;215;község
+8;04172;GYO;9111;Tárnokréti;203;99;104;község
+8;11457;GYO;9086;Tényő;1 722;850;872;község
+8;16674;GYO;9472;Töltéstava;2 464;1 264;1 200;község
+8;19673;GYO;9244;Újkér;1 000;483;517;község
+8;31839;GYO;9464;Újrónafő;871;429;442;község
+8;20792;GYO;9346;Und;325;145;180;község
+8;06239;GYO;9327;Vadosfa;103;51;52;község
+8;02237;GYO;9061;Vág;538;271;267;község
+8;12405;GYO;9243;Vámosszabadi;3 225;1 634;1 591;község
+8;18412;GYO;9343;Várbalog;409;204;205;község
+8;17880;GYO;9062;Vásárosfalu;160;87;73;község
+8;05014;GYO;9352;Vének;176;88;88;község
+8;04589;GYO;8438;Veszkény;955;483;472;község
+8;22691;GYO;9371;Veszprémvarsány;1 062;531;531;község
+8;25797;GYO;9462;Vitnyéd;1 400;689;711;község
+8;16319;GYO;9346;Völcsej;406;207;199;község
+8;16869;GYO;9476;Zsebeháza;142;66;76;község
+9;15130;HAJ;4060;Debrecen;202 402;95 452;106 950;megye székhely
+9;02918;HAJ;4100;Balmazújváros;17 618;8 643;8 975;város
+9;12788;HAJ;4110;Berettyóújfalu;14 895;7 214;7 681;város
+9;19956;HAJ;4130;Biharkeresztes;4 386;2 184;2 202;város
+9;05573;HAJ;4074;Derecske;8 715;4 249;4 466;város
+9;03045;HAJ;4087;Hajdúböszörmény;30 854;15 048;15 806;város
+9;12803;HAJ;4242;Hajdúdorog;8 900;4 402;4 498;város
+9;10393;HAJ;4080;Hajdúhadház;13 394;6 667;6 727;város
+9;22406;HAJ;4251;Hajdúnánás;17 059;8 388;8 671;város
+9;31097;HAJ;4200;Hajdúsámson;14 315;7 271;7 044;város
+9;05175;HAJ;4183;Hajdúszoboszló;24 185;11 609;12 576;város
+9;02307;HAJ;4138;Kaba;5 894;2 963;2 931;város
+9;05768;HAJ;4181;Létavértes;7 478;3 720;3 758;város
+9;28103;HAJ;4252;Nádudvar;8 767;4 308;4 459;város
+9;06187;HAJ;4090;Nyíradony;7 890;3 917;3 973;város
+9;23117;HAJ;4150;Polgár;8 107;4 047;4 060;város
+9;10162;HAJ;4243;Püspökladány;14 517;7 075;7 442;város
+9;23214;HAJ;4066;Téglás;6 449;3 126;3 323;város
+9;15644;HAJ;4287;Tiszacsege;4 644;2 339;2 305;város
+9;08989;HAJ;4286;Vámospércs;5 562;2 776;2 786;város
+9;20011;HAJ;4145;Bagamér;2 603;1 282;1 321;nagyközség
+9;12450;HAJ;4067;Csökmő;2 026;1 034;992;nagyközség
+9;15741;HAJ;4177;Egyek;5 335;2 639;2 696;nagyközség
+9;03258;HAJ;4274;Földes;4 002;1 957;2 045;nagyközség
+9;06266;HAJ;4173;Hosszúpályi;5 947;2 950;2 997;nagyközség
+9;06309;HAJ;4264;Nagyrábé;2 142;1 063;1 079;nagyközség
+9;32294;HAJ;4125;Nyírábrány;3 910;1 941;1 969;nagyközség
+9;11837;HAJ;4171;Pocsaj;2 770;1 393;1 377;nagyközség
+9;23940;HAJ;4142;Sárrétudvari;2 935;1 472;1 463;nagyközség
+9;04817;HAJ;4285;Zsáka;1 595;786;809;nagyközség
+9;03319;HAJ;4164;Ártánd;645;353;292;község
+9;15167;HAJ;4161;Bakonszeg;1 188;580;608;község
+9;26693;HAJ;4128;Báránd;2 611;1 328;1 283;község
+9;33446;HAJ;4116;Bedő;369;179;190;község
+9;18467;HAJ;4175;Berekböszörmény;2 030;1 022;1 008;község
+9;25256;HAJ;4172;Bihardancsháza;180;92;88;község
+9;24828;HAJ;4174;Biharnagybajom;2 788;1 431;1 357;község
+9;29887;HAJ;4241;Bihartorda;950;457;493;község
+9;34102;HAJ;4114;Bocskaikert;3 557;1 769;1 788;község
+9;14137;HAJ;4144;Bojt;579;296;283;község
+9;14678;HAJ;4211;Darvas;555;289;266;község
+9;14614;HAJ;4124;Ebes;4 751;2 334;2 417;község
+9;25469;HAJ;4095;Esztár;1 432;702;730;község
+9;34014;HAJ;4141;Folyás;319;164;155;község
+9;16993;HAJ;4266;Furta;1 155;561;594;község
+9;22150;HAJ;4122;Fülöp;1 735;871;864;község
+9;18175;HAJ;4075;Gáborján;886;448;438;község
+9;16568;HAJ;4273;Görbeháza;2 410;1 181;1 229;község
+9;26170;HAJ;4212;Hajdúbagos;2 097;1 013;1 084;község
+9;17473;HAJ;4123;Hajdúszovát;3 174;1 579;1 595;község
+9;29391;HAJ;4071;Hencida;1 215;633;582;község
+9;04118;HAJ;4126;Hortobágy;1 456;727;729;község
+9;15477;HAJ;4284;Kismarja;1 306;637;669;község
+9;17455;HAJ;4133;Kokad;683;349;334;község
+9;25964;HAJ;4136;Konyár;2 223;1 116;1 107;község
+9;31130;HAJ;4135;Körösszakál;816;415;401;község
+9;08943;HAJ;4137;Körösszegapáti;1 068;523;545;község
+9;03683;HAJ;4118;Magyarhomorog;893;439;454;község
+9;31033;HAJ;4134;Mezőpeterd;635;334;301;község
+9;18847;HAJ;4271;Mezősas;669;339;330;község
+9;24217;HAJ;4275;Mikepércs;4 898;2 402;2 496;község
+9;25894;HAJ;4064;Monostorpályi;2 180;1 048;1 132;község
+9;09478;HAJ;4127;Nagyhegyes;2 850;1 402;1 448;község
+9;08907;HAJ;4262;Nagykereki;1 387;721;666;község
+9;14003;HAJ;4263;Nyíracsád;3 803;1 864;1 939;község
+9;32382;HAJ;4176;Nyírmártonfalva;2 033;1 014;1 019;község
+9;26116;HAJ;4272;Sáp;962;464;498;község
+9;25007;HAJ;4121;Sáránd;2 375;1 136;1 239;község
+9;19099;HAJ;4162;Szentpéterszeg;1 121;548;573;község
+9;33437;HAJ;4132;Szerep;1 569;802;767;község
+9;31042;HAJ;4184;Tépe;1 072;533;539;község
+9;19691;HAJ;4097;Tetétlen;1 351;693;658;község
+9;25876;HAJ;4146;Told;404;209;195;község
+9;23393;HAJ;4288;Újiráz;532;247;285;község
+9;20419;HAJ;4065;Újléta;1 106;567;539;község
+9;32568;HAJ;4096;Újszentmargita;1 447;715;732;község
+9;11925;HAJ;4119;Újtikos;864;423;441;község
+9;16762;HAJ;4143;Váncsod;1 190;598;592;község
+9;11138;HAJ;3300;Vekerd;114;59;55;község
+10;20491;HEV;3346;Eger;52 660;24 276;28 384;megye székhely
+10;03276;HEV;3200;Füzesabony;7 729;3 791;3 938;város
+10;05236;HEV;3035;Gyöngyös;29 036;13 554;15 482;város
+10;08323;HEV;3000;Gyöngyöspata;2 503;1 217;1 286;város
+10;22309;HEV;3360;Hatvan;20 639;9 820;10 819;város
+10;14526;HEV;3384;Heves;10 557;5 038;5 519;város
+10;30401;HEV;3250;Lőrinci;5 593;2 738;2 855;város
+10;12070;HEV;3351;Pétervására;2 189;1 062;1 127;város
+10;24147;HEV;3350;Verpelét;3 892;1 863;2 029;város
+10;32179;HEV;3240;Kál;3 555;1 708;1 847;nagyközség
+10;07436;HEV;3245;Parád;1 989;898;1 091;nagyközség
+10;09609;HEV;3261;Recsk;2 772;1 304;1 468;nagyközség
+10;24554;HEV;3292;Abasár;2 482;1 178;1 304;község
+10;23241;HEV;3353;Adács;2 629;1 292;1 337;község
+10;06345;HEV;3399;Aldebrő;695;340;355;község
+10;17987;HEV;3032;Andornaktálya;2 767;1 350;1 417;község
+10;07241;HEV;3371;Apc;2 463;1 183;1 280;község
+10;06503;HEV;3213;Átány;1 525;766;759;község
+10;16090;HEV;3347;Atkár;1 837;884;953;község
+10;11527;HEV;3336;Balaton;1 045;510;535;község
+10;24022;HEV;3343;Bátor;365;166;199;község
+10;04400;HEV;3373;Bekölce;666;325;341;község
+10;27517;HEV;3368;Besenyőtelek;2 647;1 297;1 350;község
+10;22354;HEV;3243;Boconád;1 294;625;669;község
+10;14933;HEV;3016;Bodony;725;348;377;község
+10;03452;HEV;3335;Boldog;2 977;1 433;1 544;község
+10;02963;HEV;3257;Bükkszék;674;327;347;község
+10;10621;HEV;3346;Bükkszenterzsébet;1 019;495;524;község
+10;22099;HEV;3015;Bükkszentmárton;317;154;163;község
+10;16841;HEV;3395;Csány;2 151;1 018;1 133;község
+10;08660;HEV;3275;Demjén;623;314;309;község
+10;09201;HEV;3263;Detk;1 140;531;609;község
+10;07515;HEV;3374;Domoszló;1 973;928;1 045;község
+10;30261;HEV;3013;Dormánd;1 014;495;519;község
+10;17181;HEV;3321;Ecséd;3 137;1 534;1 603;község
+10;12821;HEV;3337;Egerbakta;1 462;697;765;község
+10;26019;HEV;3341;Egerbocs;534;265;269;község
+10;16610;HEV;3379;Egercsehi;1 332;645;687;község
+10;02981;HEV;3394;Egerfarmos;692;339;353;község
+10;24758;HEV;3328;Egerszalók;1 951;999;952;község
+10;13648;HEV;3252;Egerszólát;1 116;547;569;község
+10;28556;HEV;3358;Erdőkövesd;633;294;339;község
+10;24235;HEV;3295;Erdőtelek;3 308;1 597;1 711;község
+10;20118;HEV;3255;Erk;931;449;482;község
+10;12432;HEV;3352;Fedémes;301;148;153;község
+10;20747;HEV;3324;Feldebrő;997;481;516;község
+10;16328;HEV;3212;Felsőtárkány;3 552;1 707;1 845;község
+10;17534;HEV;3211;Gyöngyöshalász;2 625;1 281;1 344;község
+10;13338;HEV;3231;Gyöngyösoroszi;1 524;736;788;község
+10;19123;HEV;3036;Gyöngyössolymos;2 926;1 428;1 498;község
+10;28088;HEV;3273;Gyöngyöstarján;2 287;1 098;1 189;község
+10;11411;HEV;3011;Halmajugra;1 376;665;711;község
+10;20242;HEV;3322;Heréd;1 903;938;965;község
+10;10241;HEV;3383;Hevesaranyos;597;293;304;község
+10;04084;HEV;3014;Hevesvezekény;694;331;363;község
+10;04145;HEV;3253;Hort;3 613;1 728;1 885;község
+10;10074;HEV;3248;Istenmezeje;1 419;673;746;község
+10;13879;HEV;3355;Ivád;386;188;198;község
+10;15307;HEV;3281;Kápolna;1 551;747;804;község
+10;05935;HEV;3396;Karácsond;2 980;1 443;1 537;község
+10;28079;HEV;3009;Kerecsend;2 387;1 226;1 161;község
+10;34379;HEV;3256;Kerekharaszt;1 006;499;507;község
+10;22460;HEV;3264;Kisfüzes;132;66;66;község
+10;12502;HEV;3356;Kisnána;1 000;478;522;község
+10;23995;HEV;3372;Kompolt;2 012;961;1 051;község
+10;14535;HEV;3274;Kömlő;2 011;1 019;992;község
+10;15796;HEV;3397;Ludas;747;351;396;község
+10;27696;HEV;3262;Maklár;2 445;1 174;1 271;község
+10;16540;HEV;3247;Markaz;1 737;832;905;község
+10;19965;HEV;3246;Mátraballa;753;354;399;község
+10;14872;HEV;3234;Mátraderecske;1 822;872;950;község
+10;29045;HEV;3378;Mátraszentimre;474;240;234;község
+10;25089;HEV;3375;Mezőszemere;1 131;558;573;község
+10;31662;HEV;3344;Mezőtárkány;1 600;770;830;község
+10;31282;HEV;3345;Mikófalva;691;339;352;község
+10;31565;HEV;3282;Mónosbél;391;197;194;község
+10;26879;HEV;3012;Nagyfüged;1 763;857;906;község
+10;24943;HEV;3214;Nagykökényes;579;290;289;község
+10;31486;HEV;3398;Nagyréde;3 290;1 573;1 717;község
+10;27605;HEV;3357;Nagytálya;889;442;447;község
+10;10418;HEV;3349;Nagyút;694;339;355;község
+10;28282;HEV;3325;Nagyvisnyó;955;469;486;község
+10;18810;HEV;3327;Noszvaj;1 920;888;1 032;község
+10;29276;HEV;3326;Novaj;1 377;670;707;község
+10;27216;HEV;3261;Ostoros;2 744;1 336;1 408;község
+10;34324;HEV;3242;Pálosvörösmart;645;307;338;község
+10;20215;HEV;3381;Parádsasvár;412;206;206;község
+10;19567;HEV;3023;Pély;1 473;745;728;község
+10;33686;HEV;3388;Petőfibánya;2 665;1 295;1 370;község
+10;22196;HEV;3033;Poroszló;2 862;1 427;1 435;község
+10;27650;HEV;3386;Rózsaszentmárton;2 002;915;1 087;község
+10;07180;HEV;3332;Sarud;1 164;568;596;község
+10;08527;HEV;3334;Sirok;1 771;832;939;község
+10;16063;HEV;3323;Szajla;592;279;313;község
+10;03382;HEV;3259;Szarvaskő;378;184;194;község
+10;13231;HEV;3377;Szentdomonkos;523;249;274;község
+10;11013;HEV;3348;Szihalom;1 991;955;1 036;község
+10;05643;HEV;3341;Szilvásvárad;1 564;760;804;község
+10;13523;HEV;3034;Szúcs;396;210;186;község
+10;09982;HEV;3369;Szűcsi;1 535;715;820;község
+10;32966;HEV;3258;Tarnabod;759;391;368;község
+10;13240;HEV;3284;Tarnalelesz;1 681;790;891;község
+10;23348;HEV;3294;Tarnaméra;1 622;788;834;község
+10;14128;HEV;3331;Tarnaörs;1 804;903;901;község
+10;09052;HEV;3382;Tarnaszentmária;233;104;129;község
+10;16160;HEV;3283;Tarnaszentmiklós;829;425;404;község
+10;17163;HEV;3359;Tarnazsadány;1 302;643;659;község
+10;14076;HEV;3333;Tenk;1 220;618;602;község
+10;12229;HEV;3385;Terpes;198;104;94;község
+10;07083;HEV;3354;Tiszanána;2 460;1 230;1 230;község
+10;09964;HEV;3387;Tófalu;591;289;302;község
+10;27623;HEV;3291;Újlőrincfalva;201;104;97;község
+10;14580;HEV;3254;Vámosgyörk;2 022;966;1 056;község
+10;27012;HEV;3265;Váraszó;466;214;252;község
+10;31246;HEV;3293;Visonta;1 250;602;648;község
+10;03513;HEV;3031;Visznek;1 073;537;536;község
+10;21722;HEV;3296;Zagyvaszántó;1 888;910;978;község
+10;23445;HEV;2800;Zaránk;451;201;250;község
+11;18157;KOM;2941;Tatabánya;68 698;32 695;36 003;megye székhely
+11;04428;KOM;2943;Ács;7 169;3 522;3 647;város
+11;19363;KOM;2510;Bábolna;3 547;1 740;1 807;város
+11;10490;KOM;2500;Dorog;12 055;5 762;6 293;város
+11;25131;KOM;2870;Esztergom;29 476;14 249;15 227;város
+11;17330;KOM;2900;Kisbér;5 553;2 674;2 879;város
+11;15352;KOM;2840;Nyergesújfalu;7 508;3 647;3 861;város
+11;30766;KOM;2534;Oroszlány;18 823;9 192;9 631;város
+11;08758;KOM;2835;Tát;5 471;2 632;2 839;város
+11;20127;KOM;2942;Tata;23 169;11 059;12 110;város
+11;14155;KOM;2887;Tokod;4 221;2 092;2 129;nagyközség
+11;18139;KOM;2862;Ácsteszér;684;338;346;község
+11;32346;KOM;2529;Almásfüzitő;2 131;1 031;1 100;község
+11;34227;KOM;2881;Annavölgy;948;455;493;község
+11;23852;KOM;2836;Ászár;1 741;869;872;község
+11;29212;KOM;2525;Baj;2 882;1 425;1 457;község
+11;16744;KOM;2533;Bajna;1 969;983;986;község
+11;29355;KOM;2885;Bajót;1 625;803;822;község
+11;24244;KOM;2861;Bakonybánk;444;224;220;község
+11;25229;KOM;2884;Bakonysárkány;987;477;510;község
+11;22381;KOM;2944;Bakonyszombathely;1 375;683;692;község
+11;31422;KOM;2883;Bana;1 615;778;837;község
+11;08624;KOM;2855;Bársonyos;761;337;424;község
+11;07311;KOM;2858;Bokod;2 201;1 069;1 132;község
+11;16416;KOM;2888;Császár;1 893;947;946;község
+11;33109;KOM;2949;Csatka;234;123;111;község
+11;33640;KOM;2946;Csém;416;190;226;község
+11;18272;KOM;2521;Csép;364;181;183;község
+11;18926;KOM;2854;Csolnok;3 248;1 576;1 672;község
+11;33163;KOM;2522;Dad;1 041;518;523;község
+11;22910;KOM;2027;Dág;925;452;473;község
+11;06594;KOM;2545;Dömös;1 209;618;591;község
+11;33835;KOM;2897;Dunaalmás;1 620;836;784;község
+11;24101;KOM;2526;Dunaszentmiklós;498;226;272;község
+11;29638;KOM;2947;Epöl;638;331;307;község
+11;06664;KOM;2821;Ete;619;309;310;község
+11;06521;KOM;2832;Gyermely;1 518;774;744;község
+11;11891;KOM;2852;Héreg;1 057;527;530;község
+11;04525;KOM;2882;Kecskéd;2 085;1 018;1 067;község
+11;10995;KOM;2517;Kerékteleki;712;366;346;község
+11;29577;KOM;2948;Kesztölc;2 747;1 355;1 392;község
+11;20923;KOM;2898;Kisigmánd;527;267;260;község
+11;02510;KOM;2853;Kocs;2 594;1 261;1 333;község
+11;07630;KOM;2851;Kömlőd;1 075;531;544;község
+11;30553;KOM;2518;Környe;4 720;2 345;2 375;község
+11;25487;KOM;2527;Leányvár;1 861;906;955;község
+11;22637;KOM;2911;Máriahalom;666;344;322;község
+11;26930;KOM;2535;Mocsa;2 141;1 057;1 084;község
+11;28255;KOM;2524;Mogyorósbánya;880;412;468;község
+11;27076;KOM;2899;Nagysáp;1 467;737;730;község
+11;20163;KOM;2544;Naszály;2 423;1 178;1 245;község
+11;33826;KOM;2519;Neszmély;1 341;657;684;község
+11;21874;KOM;2028;Piliscsév;2 509;1 228;1 281;község
+11;14669;KOM;2886;Pilismarót;2 095;1 041;1 054;község
+11;30012;KOM;2523;Réde;1 309;635;674;község
+11;26903;KOM;2889;Sárisáp;2 805;1 362;1 443;község
+11;31990;KOM;2543;Súr;1 238;614;624;község
+11;08688;KOM;2856;Süttő;2 057;1 005;1 052;község
+11;33516;KOM;2067;Szákszend;1 487;749;738;község
+11;33491;KOM;2896;Szárliget;2 528;1 279;1 249;község
+11;22619;KOM;2822;Szomód;2 251;1 126;1 125;község
+11;21421;KOM;2834;Szomor;1 125;551;574;község
+11;30225;KOM;2831;Tardos;1 693;802;891;község
+11;18935;KOM;2943;Tarján;2 652;1 285;1 367;község
+11;20987;KOM;2532;Tárkány;1 483;707;776;község
+11;34023;KOM;2528;Tokodaltáró;3 046;1 537;1 509;község
+11;27632;KOM;2824;Úny;737;373;364;község
+11;17251;KOM;2859;Várgesztes;631;317;314;község
+11;32586;KOM;2823;Vérteskethely;595;302;293;község
+11;15282;KOM;2837;Vértessomló;1 375;700;675;község
+11;31264;KOM;2833;Vértesszőlős;3 380;1 688;1 692;község
+11;29629;KOM;3100;Vértestolna;572;279;293;község
+12;25788;NOG;2660;Salgótarján;35 470;16 656;18 814;megye székhely
+12;13657;NOG;3070;Balassagyarmat;15 025;7 135;7 890;város
+12;33534;NOG;3060;Bátonyterenye;12 349;6 025;6 324;város
+12;07409;NOG;2651;Pásztó;9 047;4 321;4 726;város
+12;23825;NOG;3170;Rétság;2 788;1 352;1 436;város
+12;06628;NOG;2617;Szécsény;5 721;2 693;3 028;város
+12;16425;NOG;3069;Alsópetény;572;270;302;község
+12;07621;NOG;2653;Alsótold;241;125;116;község
+12;24341;NOG;3126;Bánk;690;339;351;község
+12;20048;NOG;2693;Bárna;1 000;510;490;község
+12;12016;NOG;3045;Becske;572;281;291;község
+12;32911;NOG;2687;Bér;350;169;181;község
+12;02389;NOG;2641;Bercel;1 738;862;876;község
+12;09034;NOG;3066;Berkenye;653;326;327;község
+12;03841;NOG;2644;Bokor;111;52;59;község
+12;09894;NOG;3047;Borsosberény;938;476;462;község
+12;14234;NOG;3123;Buják;2 082;999;1 083;község
+12;03665;NOG;3052;Cered;1 061;494;567;község
+12;30270;NOG;2694;Csécse;913;433;480;község
+12;21935;NOG;2676;Cserháthaláp;374;182;192;község
+12;22594;NOG;3066;Cserhátsurány;786;379;407;község
+12;32319;NOG;2678;Cserhátszentiván;111;56;55;község
+12;20145;NOG;2673;Csesztve;335;175;160;község
+12;05050;NOG;2694;Csitár;411;213;198;község
+12;07320;NOG;2649;Debercsény;75;32;43;község
+12;12511;NOG;2643;Dejtár;1 450;722;728;község
+12;06743;NOG;3153;Diósjenő;2 964;1 526;1 438;község
+12;24439;NOG;2646;Dorogháza;1 028;485;543;község
+12;08156;NOG;3053;Drégelypalánk;1 459;707;752;község
+12;04251;NOG;3043;Ecseg;1 180;593;587;község
+12;17659;NOG;3185;Egyházasdengeleg;444;221;223;község
+12;05980;NOG;3165;Egyházasgerge;703;347;356;község
+12;25496;NOG;2176;Endrefalva;1 234;611;623;község
+12;22655;NOG;2177;Erdőkürt;540;265;275;község
+12;21795;NOG;2659;Erdőtarcsa;534;253;281;község
+12;21582;NOG;3136;Érsekvadkert;3 640;1 810;1 830;község
+12;15370;NOG;2611;Etes;1 377;681;696;község
+12;24323;NOG;3067;Felsőpetény;599;290;309;község
+12;33312;NOG;2686;Felsőtold;120;53;67;község
+12;25663;NOG;3067;Galgaguta;623;309;314;község
+12;18494;NOG;3041;Garáb;44;26;18;község
+12;03993;NOG;2677;Héhalom;1 042;512;530;község
+12;05324;NOG;3176;Herencsény;571;276;295;község
+12;33242;NOG;2647;Hollókő;323;144;179;község
+12;13204;NOG;2658;Hont;509;238;271;község
+12;13718;NOG;2672;Horpács;172;79;93;község
+12;16878;NOG;2674;Hugyag;860;421;439;község
+12;26833;NOG;2660;Iliny;160;76;84;község
+12;01508;NOG;3138;Ipolyszög;635;320;315;község
+12;03328;NOG;2669;Ipolytarnóc;442;232;210;község
+12;29319;NOG;3063;Ipolyvece;822;399;423;község
+12;08712;NOG;2175;Jobbágyi;2 014;997;1 017;község
+12;08642;NOG;3181;Kálló;1 568;798;770;község
+12;18625;NOG;3137;Karancsalja;1 521;734;787;község
+12;25548;NOG;3183;Karancsberény;806;400;406;község
+12;08855;NOG;3182;Karancskeszi;1 811;871;940;község
+12;21041;NOG;3163;Karancslapujtő;2 565;1 249;1 316;község
+12;26897;NOG;3127;Karancsság;1 302;643;659;község
+12;28389;NOG;2616;Kazár;1 757;875;882;község
+12;31413;NOG;2655;Keszeg;696;350;346;község
+12;11846;NOG;3046;Kétbodony;455;223;232;község
+12;27243;NOG;3075;Kisbágyon;428;204;224;község
+12;26295;NOG;2655;Kisbárkány;160;82;78;község
+12;33206;NOG;3161;Kisecset;173;90;83;község
+12;33400;NOG;3053;Kishartyán;558;261;297;község
+12;13842;NOG;3066;Kozárd;170;87;83;község
+12;19451;NOG;2619;Kutasó;113;52;61;község
+12;30395;NOG;3186;Legénd;478;247;231;község
+12;04871;NOG;3129;Litke;826;439;387;község
+12;20190;NOG;3188;Lucfalva;635;299;336;község
+12;02778;NOG;3133;Ludányhalászi;1 462;763;699;község
+12;26967;NOG;2694;Magyargéc;854;406;448;község
+12;32407;NOG;3075;Magyarnándor;1 112;528;584;község
+12;14641;NOG;3155;Márkháza;250;115;135;község
+12;20075;NOG;3143;Mátramindszent;784;380;404;község
+12;19372;NOG;3142;Mátranovák;1 675;782;893;község
+12;24332;NOG;3068;Mátraszele;918;443;475;község
+12;04330;NOG;3145;Mátraszőlős;1 524;699;825;község
+12;33525;NOG;3077;Mátraterenye;1 774;882;892;község
+12;30100;NOG;3184;Mátraverebély;1 903;951;952;község
+12;13222;NOG;2698;Mihálygerge;553;264;289;község
+12;27915;NOG;3075;Mohora;1 000;484;516;község
+12;16391;NOG;3129;Nagybárkány;661;323;338;község
+12;34281;NOG;3175;Nagykeresztúr;262;125;137;község
+12;21102;NOG;2645;Nagylóc;1 482;707;775;község
+12;23986;NOG;3152;Nagyoroszi;2 045;1 014;1 031;község
+12;27580;NOG;2618;Nemti;722;360;362;község
+12;09797;NOG;2642;Nézsa;1 169;565;604;község
+12;04358;NOG;2691;Nógrád;1 580;793;787;község
+12;32300;NOG;2675;Nógrádkövesd;662;339;323;község
+12;29832;NOG;3132;Nógrádmarcal;484;245;239;község
+12;12131;NOG;2685;Nógrádmegyer;1 671;811;860;község
+12;08387;NOG;3179;Nógrádsáp;909;464;445;község
+12;19497;NOG;3187;Nógrádsipek;698;339;359;község
+12;27340;NOG;2610;Nógrádszakál;670;329;341;község
+12;29425;NOG;2671;Nőtincs;1 172;558;614;község
+12;03249;NOG;2610;Őrhalom;1 008;514;494;község
+12;19318;NOG;3042;Ősagárd;336;148;188;község
+12;05883;NOG;2648;Palotás;1 592;748;844;község
+12;07199;NOG;2668;Patak;901;430;471;község
+12;33880;NOG;3134;Patvarc;743;369;374;község
+12;11590;NOG;2658;Piliny;608;309;299;község
+12;17862;NOG;3151;Pusztaberki;151;75;76;község
+12;34360;NOG;3177;Rákóczibánya;649;318;331;község
+12;28884;NOG;2654;Rimóc;1 716;817;899;község
+12;12195;NOG;3162;Romhány;2 184;1 047;1 137;község
+12;12520;NOG;3074;Ságújfalu;1 002;503;499;község
+12;24572;NOG;3121;Sámsonháza;279;135;144;község
+12;01526;NOG;3131;Somoskőújfalu;2 176;1 060;1 116;község
+12;14881;NOG;3163;Sóshartyán;916;451;465;község
+12;19798;NOG;2697;Szalmatercs;452;231;221;község
+12;13754;NOG;3051;Szanda;616;309;307;község
+12;10199;NOG;2656;Szarvasgede;407;196;211;község
+12;15325;NOG;2692;Szátok;573;294;279;község
+12;23047;NOG;3135;Szécsénke;207;103;104;község
+12;33011;NOG;2640;Szécsényfelfalu;414;198;216;község
+12;04507;NOG;2655;Szendehely;1 611;780;831;község
+12;09043;NOG;3125;Szente;330;157;173;község
+12;07959;NOG;3044;Szilaspogony;309;153;156;község
+12;21634;NOG;3154;Szirák;1 121;562;559;község
+12;28194;NOG;3064;Szuha;521;244;277;község
+12;19044;NOG;2699;Szurdokpüspöki;1 881;908;973;község
+12;18786;NOG;3073;Szügy;1 467;714;753;község
+12;32896;NOG;2696;Tar;1 870;884;986;község
+12;04844;NOG;2652;Terény;370;168;202;község
+12;24174;NOG;2657;Tereske;687;344;343;község
+12;06381;NOG;2688;Tolmács;754;356;398;község
+12;30915;NOG;3178;Vanyarc;1 223;589;634;község
+12;29498;NOG;3128;Varsány;1 594;786;808;község
+12;10320;NOG;3124;Vizslás;1 335;652;683;község
+12;21661;NOG;2030;Zabar;490;230;260;község
+13;30988;PES;2740;Érd;69 014;33 798;35 216;megyei jogú város
+13;27872;PES;2730;Abony;14 941;7 256;7 685;város
+13;31653;PES;2170;Albertirsa;13 087;6 257;6 830;város
+13;16188;PES;2051;Aszód;6 176;2 951;3 225;város
+13;08891;PES;2011;Biatorbágy;13 692;6 775;6 917;város
+13;23463;PES;2092;Budakalász;11 411;5 548;5 863;város
+13;12052;PES;2040;Budakeszi;15 022;7 210;7 812;város
+13;23278;PES;2700;Budaörs;29 709;14 272;15 437;város
+13;11341;PES;2370;Cegléd;36 909;17 642;19 267;város
+13;09247;PES;2049;Dabas;17 154;8 235;8 919;város
+13;24013;PES;2330;Diósd;10 603;5 150;5 453;város
+13;09584;PES;2120;Dunaharaszti;22 900;11 134;11 766;város
+13;18616;PES;2336;Dunakeszi;43 813;21 034;22 779;város
+13;20534;PES;2151;Dunavarsány;8 278;4 061;4 217;város
+13;32610;PES;2131;Fót;20 479;10 165;10 314;város
+13;23649;PES;2100;Göd;21 027;10 315;10 712;város
+13;32559;PES;2360;Gödöllő;32 043;15 240;16 803;város
+13;25627;PES;2230;Gyál;24 607;12 108;12 499;város
+13;29735;PES;2314;Gyömrő;18 782;8 946;9 836;város
+13;09690;PES;2117;Halásztelek;11 183;5 484;5 699;város
+13;34166;PES;2143;Kerepes;10 633;5 301;5 332;város
+13;34157;PES;2234;Kistarcsa;13 157;6 342;6 815;város
+13;10922;PES;2200;Maglód;12 727;6 278;6 449;város
+13;10551;PES;2760;Monor;18 566;8 999;9 567;város
+13;13435;PES;2750;Nagykáta;12 562;6 120;6 442;város
+13;19716;PES;2626;Nagykőrös;23 851;11 436;12 415;város
+13;31732;PES;2364;Nagymaros;5 068;2 514;2 554;város
+13;04075;PES;2162;Ócsa;9 794;4 854;4 940;város
+13;08545;PES;2377;Őrbottyán;7 605;3 710;3 895;város
+13;05281;PES;2119;Örkény;4 983;2 471;2 512;város
+13;04057;PES;2721;Pécel;16 564;8 074;8 490;város
+13;07144;PES;2085;Piliscsaba;8 234;4 033;4 201;város
+13;14340;PES;2013;Pilisvörösvár;14 688;6 951;7 737;város
+13;06372;PES;2300;Pomáz;18 085;8 807;9 278;város
+13;21713;PES;2440;Sülysáp;8 519;4 220;4 299;város
+13;17312;PES;2000;Százhalombatta;19 057;9 092;9 965;város
+13;15440;PES;2315;Szentendre;28 040;13 282;14 758;város
+13;13277;PES;2310;Szigethalom;18 350;9 044;9 306;város
+13;28954;PES;2628;Szigetszentmiklós;39 439;19 166;20 273;város
+13;24916;PES;2766;Szob;2 650;1 266;1 384;város
+13;14146;PES;2316;Tápiószele;6 235;3 105;3 130;város
+13;29823;PES;2045;Tököl;10 499;5 066;5 433;város
+13;06859;PES;2194;Törökbálint;14 297;6 953;7 344;város
+13;09593;PES;2367;Tura;7 810;3 750;4 060;város
+13;06293;PES;2225;Újhartyán;2 795;1 342;1 453;város
+13;12894;PES;2600;Üllő;12 194;5 902;6 292;város
+13;24934;PES;2220;Vác;34 102;16 177;17 925;város
+13;26815;PES;2112;Vecsés;21 328;10 345;10 983;város
+13;18342;PES;2025;Veresegyház;19 317;9 389;9 928;város
+13;28413;PES;2072;Visegrád;1 846;890;956;város
+13;25034;PES;2351;Zsámbék;5 724;2 802;2 922;város
+13;23199;PES;2191;Alsónémedi;5 337;2 624;2 713;nagyközség
+13;09131;PES;2347;Bag;3 957;1 958;1 999;nagyközség
+13;32027;PES;2141;Bugyi;5 363;2 636;2 727;nagyközség
+13;22804;PES;2344;Csömör;9 768;4 764;5 004;nagyközség
+13;29647;PES;2173;Dömsöd;6 005;2 972;3 033;nagyközség
+13;30696;PES;2340;Kartal;5 977;2 941;3 036;nagyközség
+13;10816;PES;2016;Kiskunlacháza;9 070;4 440;4 630;nagyközség
+13;30809;PES;2146;Leányfalu;3 899;1 871;2 028;nagyközség
+13;17783;PES;2094;Mogyoród;7 021;3 525;3 496;nagyközség
+13;09991;PES;2083;Nagykovácsi;8 407;4 095;4 312;nagyközség
+13;07384;PES;2335;Solymár;11 277;5 432;5 845;nagyközség
+13;30720;PES;2251;Taksony;6 417;3 140;3 277;nagyközség
+13;31796;PES;2711;Tápiószecső;6 255;3 080;3 175;nagyközség
+13;14571;PES;2461;Tápiószentmárton;5 555;2 714;2 841;nagyközség
+13;04154;PES;2114;Tárnok;10 044;4 947;5 097;nagyközség
+13;17598;PES;2683;Valkó;2 514;1 249;1 265;nagyközség
+13;18573;PES;2345;Acsa;1 382;714;668;község
+13;33561;PES;2338;Apaj;1 193;611;582;község
+13;10108;PES;2216;Áporka;1 264;662;602;község
+13;25098;PES;2639;Bénye;1 264;609;655;község
+13;18777;PES;2093;Bernecebaráti;835;403;432;község
+13;03407;PES;2737;Budajenő;2 103;1 022;1 081;község
+13;20640;PES;2713;Ceglédbercel;4 386;2 070;2 316;község
+13;05184;PES;2212;Csemő;4 623;2 337;2 286;község
+13;18476;PES;2014;Csévharaszt;2 046;1 035;1 011;község
+13;06822;PES;2161;Csobánka;3 525;1 764;1 761;község
+13;33118;PES;2135;Csomád;1 673;849;824;község
+13;34333;PES;2615;Csörög;2 175;1 082;1 093;község
+13;26985;PES;2735;Csővár;639;303;336;község
+13;31811;PES;2118;Dánszentmiklós;2 893;1 451;1 442;község
+13;18397;PES;2337;Dány;4 473;2 180;2 293;község
+13;09973;PES;2182;Délegyháza;4 764;2 393;2 371;község
+13;04808;PES;2023;Domony;2 220;1 101;1 119;község
+13;25362;PES;2233;Dunabogdány;3 257;1 569;1 688;község
+13;24518;PES;2113;Ecser;4 038;1 948;2 090;község
+13;13480;PES;2765;Erdőkertes;8 662;4 299;4 363;község
+13;09122;PES;2363;Farmos;3 536;1 749;1 787;község
+13;06035;PES;2681;Felsőpakony;3 782;1 893;1 889;község
+13;13295;PES;2193;Galgagyörk;979;466;513;község
+13;19503;PES;2183;Galgahévíz;2 640;1 277;1 363;község
+13;27128;PES;2217;Galgamácsa;1 920;933;987;község
+13;09441;PES;2053;Gomba;3 076;1 533;1 543;község
+13;33552;PES;2376;Herceghalom;2 615;1 334;1 281;község
+13;09849;PES;2192;Hernád;4 244;2 105;2 139;község
+13;13949;PES;2181;Hévízgyörk;3 185;1 520;1 665;község
+13;03300;PES;2365;Iklad;2 061;1 007;1 054;község
+13;32106;PES;2631;Inárcs;4 722;2 345;2 377;község
+13;28097;PES;2633;Ipolydamásd;410;223;187;község
+13;04978;PES;2746;Ipolytölgyes;330;162;168;község
+13;11004;PES;2366;Jászkarajenő;2 670;1 315;1 355;község
+13;32230;PES;2215;Kakucs;3 121;1 605;1 516;község
+13;27827;PES;2638;Káva;665;332;333;község
+13;22345;PES;2623;Kemence;951;449;502;község
+13;33738;PES;2165;Kismaros;2 377;1 192;1 185;község
+13;05227;PES;2024;Kisnémedi;734;358;376;község
+13;29850;PES;2755;Kisoroszi;1 004;502;502;község
+13;32771;PES;2243;Kocsér;1 797;879;918;község
+13;31361;PES;2612;Kóka;4 547;2 239;2 308;község
+13;27687;PES;2625;Kosd;2 479;1 224;1 255;község
+13;24679;PES;2745;Kóspallag;741;369;372;község
+13;32975;PES;2632;Kőröstetétlen;794;392;402;község
+13;22682;PES;2309;Letkés;1 184;586;598;község
+13;09140;PES;2339;Lórév;328;172;156;község
+13;10755;PES;2322;Majosháza;1 697;878;819;község
+13;04394;PES;2629;Makád;1 255;633;622;község
+13;04570;PES;2235;Márianosztra;813;396;417;község
+13;03692;PES;2736;Mende;4 156;2 031;2 125;község
+13;24466;PES;2213;Mikebuda;749;366;383;község
+13;34397;PES;2634;Monorierdő;4 772;2 351;2 421;község
+13;14775;PES;2142;Nagybörzsöny;708;354;354;község
+13;23409;PES;2723;Nagytarcsa;4 703;2 317;2 386;község
+13;23038;PES;2712;Nyáregyháza;3 864;1 925;1 939;község
+13;20066;PES;2214;Nyársapát;2 129;1 081;1 048;község
+13;22248;PES;2071;Pánd;2 008;1 009;999;község
+13;15024;PES;2614;Páty;7 925;3 872;4 053;község
+13;18689;PES;2074;Penc;1 563;770;793;község
+13;28185;PES;2637;Perbál;2 104;1 028;1 076;község
+13;04181;PES;2209;Perőcsény;319;168;151;község
+13;21847;PES;2097;Péteri;2 422;1 184;1 238;község
+13;34148;PES;2095;Pilisjászfalu;1 743;867;876;község
+13;05290;PES;2084;Pilisszántó;2 628;1 299;1 329;község
+13;11396;PES;2098;Pilisszentiván;4 469;2 154;2 315;község
+13;18731;PES;2009;Pilisszentkereszt;2 192;1 040;1 152;község
+13;08457;PES;2017;Pilisszentlászló;1 263;617;646;község
+13;04905;PES;2378;Pócsmegyer;2 562;1 290;1 272;község
+13;23083;PES;2039;Pusztavacs;1 346;676;670;község
+13;15583;PES;2682;Pusztazámor;1 222;609;613;község
+13;21388;PES;2166;Püspökhatvan;1 422;673;749;község
+13;04303;PES;2613;Püspökszilágy;739;370;369;község
+13;02370;PES;2090;Rád;1 905;945;960;község
+13;34315;PES;2038;Remeteszőlős;1 017;478;539;község
+13;06840;PES;2111;Sóskút;3 464;1 728;1 736;község
+13;21458;PES;2255;Szada;5 413;2 640;2 773;község
+13;07542;PES;2254;Szentlőrinckáta;1 936;946;990;község
+13;28653;PES;2321;Szentmártonkáta;5 027;2 542;2 485;község
+13;26259;PES;2317;Szigetbecse;1 399;698;701;község
+13;07870;PES;2015;Szigetcsép;2 471;1 195;1 276;község
+13;26213;PES;2318;Szigetmonostor;2 779;1 408;1 371;község
+13;15185;PES;2319;Szigetszentmárton;2 364;1 130;1 234;község
+13;22114;PES;2624;Szigetújfalu;2 214;1 096;1 118;község
+13;06947;PES;2134;Szokolya;1 938;969;969;község
+13;12690;PES;2133;Sződ;3 020;1 461;1 559;község
+13;28866;PES;2381;Sződliget;4 615;2 278;2 337;község
+13;08332;PES;2021;Táborfalva;3 431;1 702;1 729;község
+13;31963;PES;2764;Tahitótfalu;6 009;2 956;3 053;község
+13;15015;PES;2767;Tápióbicske;3 647;1 849;1 798;község
+13;17303;PES;2253;Tápiógyörgye;3 548;1 743;1 805;község
+13;09405;PES;2769;Tápióság;2 780;1 342;1 438;község
+13;02769;PES;2375;Tápiószőlős;3 048;1 486;1 562;község
+13;27386;PES;2089;Tatárszentgyörgy;2 018;998;1 020;község
+13;08280;PES;2636;Telki;4 230;2 112;2 118;község
+13;19248;PES;2086;Tésa;89;52;37;község
+13;07108;PES;2252;Tinnye;1 803;911;892;község
+13;21467;PES;2073;Tóalmás;3 687;1 822;1 865;község
+13;24527;PES;2747;Tök;1 409;696;713;község
+13;22008;PES;2724;Törtel;4 234;2 050;2 184;község
+13;19682;PES;2768;Újlengyel;1 750;831;919;község
+13;17808;PES;2244;Újszilvás;2 727;1 364;1 363;község
+13;28644;PES;2096;Úri;2 624;1 239;1 385;község
+13;11934;PES;2167;Üröm;7 845;3 859;3 986;község
+13;05917;PES;2184;Vácduka;1 660;809;851;község
+13;30331;PES;2164;Vácegres;899;454;445;község
+13;19886;PES;2185;Váchartyán;1 873;915;958;község
+13;05698;PES;2163;Váckisújfalu;481;242;239;község
+13;17668;PES;2115;Vácrátót;1 907;932;975;község
+13;09104;PES;2635;Vácszentlászló;2 141;1 046;1 095;község
+13;10737;PES;2211;Vámosmikola;1 527;756;771;község
+13;22585;PES;2621;Vasad;2 016;1 019;997;község
+13;33729;PES;2174;Verőce;3 894;1 938;1 956;község
+13;22488;PES;2627;Verseg;1 323;644;679;község
+13;14960;PES;2116;Zebegény;1 279;645;634;község
+13;22035;PES;7400;Zsámbok;2 531;1 254;1 277;község
+14;20473;SOM;8630;Kaposvár;63 298;29 487;33 811;megye székhely
+14;33853;SOM;8623;Balatonboglár;5 883;2 788;3 095;város
+14;07117;SOM;8638;Balatonföldvár;2 302;1 105;1 197;város
+14;33862;SOM;7557;Balatonlelle;4 875;2 342;2 533;város
+14;32799;SOM;8840;Barcs;10 939;5 219;5 720;város
+14;21315;SOM;8640;Csurgó;4 905;2 361;2 544;város
+14;14632;SOM;7275;Fonyód;5 183;2 477;2 706;város
+14;11192;SOM;7530;Igal;1 483;714;769;város
+14;26453;SOM;8693;Kadarkút;2 458;1 250;1 208;város
+14;26675;SOM;8700;Lengyeltóti;3 087;1 529;1 558;város
+14;18500;SOM;7500;Marcali;11 465;5 359;6 106;város
+14;17941;SOM;7561;Nagyatád;10 481;4 871;5 610;város
+14;21652;SOM;8600;Nagybajom;3 191;1 587;1 604;város
+14;17631;SOM;8660;Siófok;25 095;11 654;13 441;város
+14;08590;SOM;8621;Tab;4 378;2 119;2 259;város
+14;06008;SOM;8624;Zamárdi;2 637;1 292;1 345;város
+14;24907;SOM;7516;Balatonszárszó;2 232;1 072;1 160;nagyközség
+14;30119;SOM;8653;Berzence;2 460;1 149;1 311;nagyközség
+14;06080;SOM;7443;Ádánd;2 150;1 066;1 084;község
+14;34184;SOM;8675;Alsóbogát;267;134;133;község
+14;28714;SOM;7584;Andocs;1 075;534;541;község
+14;30474;SOM;8658;Babócsa;1 508;736;772;község
+14;28316;SOM;7585;Bábonymegyer;792;393;399;község
+14;14395;SOM;8649;Bakháza;191;99;92;község
+14;27377;SOM;8613;Balatonberény;1 174;576;598;község
+14;19460;SOM;8646;Balatonendréd;1 367;655;712;község
+14;07375;SOM;8647;Balatonkeresztúr;1 660;790;870;község
+14;14562;SOM;8637;Balatonmáriafürdő;780;363;417;község
+14;11916;SOM;8651;Balatonőszöd;561;268;293;község
+14;16601;SOM;8636;Balatonszabadi;3 013;1 479;1 534;község
+14;21324;SOM;8712;Balatonszentgyörgy;1 697;816;881;község
+14;16470;SOM;8171;Balatonújlak;493;234;259;község
+14;03559;SOM;8614;Balatonvilágos;1 484;752;732;község
+14;24457;SOM;7478;Bálványos;596;279;317;község
+14;03735;SOM;7258;Bárdudvarnok;1 174;592;582;község
+14;32337;SOM;8666;Baté;796;396;400;község
+14;20710;SOM;7589;Bedegkér;408;204;204;község
+14;06910;SOM;7543;Bélavár;347;160;187;község
+14;17127;SOM;7439;Beleg;621;327;294;község
+14;10506;SOM;7517;Bodrog;408;203;205;község
+14;13994;SOM;7586;Bolhás;423;209;214;község
+14;18120;SOM;7281;Bolhó;729;356;373;község
+14;22673;SOM;8719;Bonnya;257;134;123;község
+14;26532;SOM;7475;Böhönye;2 295;1 148;1 147;község
+14;26277;SOM;8695;Bőszénfa;511;252;259;község
+14;17358;SOM;7273;Buzsák;1 510;696;814;község
+14;08703;SOM;8735;Büssü;436;219;217;község
+14;03799;SOM;7472;Csákány;318;160;158;község
+14;25681;SOM;7555;Cserénfa;210;108;102;község
+14;05971;SOM;7253;Csokonyavisonta;1 579;780;799;község
+14;08040;SOM;7432;Csoma;435;227;208;község
+14;02477;SOM;7526;Csombárd;269;143;126;község
+14;24314;SOM;8700;Csököly;1 063;502;561;község
+14;27270;SOM;8840;Csömend;304;143;161;község
+14;10603;SOM;7988;Csurgónagymarton;179;88;91;község
+14;31352;SOM;7977;Darány;931;449;482;község
+14;13611;SOM;7979;Drávagárdony;150;72;78;község
+14;15884;SOM;7457;Drávatamási;387;198;189;község
+14;10861;SOM;7443;Ecseny;226;115;111;község
+14;03489;SOM;7456;Edde;202;108;94;község
+14;13985;SOM;7282;Felsőmocsolád;392;208;184;község
+14;31644;SOM;7271;Fiad;131;63;68;község
+14;22026;SOM;8732;Fonó;311;152;159;község
+14;22707;SOM;7276;Főnyed;83;48;35;község
+14;28264;SOM;8716;Gadács;99;63;36;község
+14;26222;SOM;7473;Gadány;359;159;200;község
+14;06585;SOM;8685;Gálosfa;245;126;119;község
+14;06451;SOM;7527;Gamás;755;356;399;község
+14;09177;SOM;7272;Gige;400;189;211;község
+14;30571;SOM;7553;Gölle;866;427;439;község
+14;14599;SOM;8851;Görgeteg;1 144;572;572;község
+14;30960;SOM;8692;Gyékényes;996;483;513;község
+14;23904;SOM;8694;Gyugy;315;163;152;község
+14;18634;SOM;7473;Hács;373;197;176;község
+14;25830;SOM;7585;Hajmás;242;126;116;község
+14;08837;SOM;7533;Háromfa;724;356;368;község
+14;16726;SOM;7532;Hedrehely;399;205;194;község
+14;09946;SOM;7587;Hencse;339;169;170;község
+14;24846;SOM;7432;Heresznye;272;137;135;község
+14;09928;SOM;8731;Hetes;1 161;564;597;község
+14;06211;SOM;7537;Hollád;260;131;129;község
+14;19150;SOM;8716;Homokszentgyörgy;1 091;523;568;község
+14;30775;SOM;8726;Hosszúvíz;53;31;22;község
+14;19619;SOM;8725;Iharos;511;251;260;község
+14;27784;SOM;8724;Iharosberény;1 296;626;670;község
+14;26301;SOM;7987;Inke;1 251;618;633;község
+14;21333;SOM;7525;Istvándi;599;275;324;község
+14;15927;SOM;7431;Jákó;631;308;323;község
+14;17279;SOM;7538;Juta;1 182;594;588;község
+14;06105;SOM;8667;Kálmáncsa;608;307;301;község
+14;05272;SOM;8671;Kánya;425;203;222;község
+14;33394;SOM;7523;Kapoly;655;331;324;község
+14;09098;SOM;7473;Kaposfő;1 583;778;805;község
+14;28811;SOM;7261;Kaposgyarmat;92;45;47;község
+14;25867;SOM;7258;Kaposhomok;460;233;227;község
+14;12663;SOM;7521;Kaposkeresztúr;349;170;179;község
+14;18227;SOM;7476;Kaposmérő;2 453;1 188;1 265;község
+14;06424;SOM;7522;Kaposszerdahely;1 018;507;511;község
+14;15732;SOM;7285;Kaposújlak;718;357;361;község
+14;05351;SOM;8676;Kára;61;32;29;község
+14;05263;SOM;7977;Karád;1 571;790;781;község
+14;08411;SOM;7564;Kastélyosdombó;227;106;121;község
+14;34193;SOM;7274;Kaszó;99;54;45;község
+14;26888;SOM;8714;Kazsok;320;174;146;község
+14;17446;SOM;7256;Kelevíz;340;183;157;község
+14;14386;SOM;8618;Kercseliget;392;212;180;község
+14;04598;SOM;8713;Kereki;551;263;288;község
+14;11174;SOM;7523;Kéthely;2 331;1 151;1 180;község
+14;19053;SOM;7542;Kisasszond;187;109;78;község
+14;24387;SOM;7282;Kisbajom;419;195;224;község
+14;24493;SOM;8693;Kisbárapáti;407;201;206;község
+14;30827;SOM;7279;Kisberény;192;93;99;község
+14;04826;SOM;7524;Kisgyalán;229;121;108;község
+14;13781;SOM;7582;Kiskorpád;894;437;457;község
+14;09858;SOM;7530;Komlósd;183;83;100;község
+14;15510;SOM;8627;Kőröshegy;1 430;681;749;község
+14;18148;SOM;7541;Kötcse;541;267;274;község
+14;28857;SOM;7551;Kutas;1 462;729;733;község
+14;28291;SOM;7535;Lábod;1 881;909;972;község
+14;16258;SOM;7918;Lad;592;284;308;község
+14;11040;SOM;8681;Lakócsa;592;288;304;község
+14;14863;SOM;8707;Látrány;1 399;666;733;község
+14;32355;SOM;8660;Libickozma;43;24;19;község
+14;10010;SOM;7463;Lulla;223;118;105;község
+14;10427;SOM;7441;Magyaratád;806;405;401;község
+14;25371;SOM;7453;Magyaregres;611;304;307;község
+14;23630;SOM;8716;Mernye;1 328;650;678;község
+14;16106;SOM;7434;Mesztegnyő;1 299;617;682;község
+14;30854;SOM;7512;Mezőcsokonya;1 218;600;618;község
+14;20905;SOM;8669;Mike;640;332;308;község
+14;33376;SOM;7257;Miklósi;224;111;113;község
+14;31343;SOM;8674;Mosdós;921;428;493;község
+14;15909;SOM;8656;Nágocs;606;283;323;község
+14;29063;SOM;7255;Nagyberény;1 343;651;692;község
+14;21449;SOM;8628;Nagyberki;1 450;675;775;község
+14;20598;SOM;7545;Nagycsepely;389;191;198;község
+14;32805;SOM;8739;Nagykorpád;570;294;276;község
+14;25520;SOM;8722;Nagyszakácsi;508;270;238;község
+14;07913;SOM;8717;Nemesdéd;810;402;408;község
+14;25511;SOM;8738;Nemeskisfalud;128;66;62;község
+14;17561;SOM;8706;Nemesvid;740;391;349;község
+14;10959;SOM;8612;Nikla;783;401;382;község
+14;03203;SOM;7461;Nyim;328;165;163;község
+14;24536;SOM;8635;Orci;543;260;283;község
+14;16823;SOM;7444;Ordacsehi;847;432;415;község
+14;19770;SOM;8697;Osztopán;795;405;390;község
+14;07056;SOM;8854;Öreglak;1 525;743;782;község
+14;14012;SOM;7511;Őrtilos;493;252;241;község
+14;32115;SOM;7561;Ötvöskónyi;943;465;478;község
+14;34041;SOM;8698;Pálmajor;352;170;182;község
+14;26392;SOM;7463;Pamuk;302;159;143;község
+14;06141;SOM;7477;Patalom;327;157;170;község
+14;12168;SOM;7536;Patca;57;29;28;község
+14;15592;SOM;7582;Patosfa;258;119;139;község
+14;29197;SOM;8728;Péterhida;168;88;80;község
+14;27553;SOM;7458;Pogányszentpéter;507;267;240;község
+14;13790;SOM;8858;Polány;270;137;133;község
+14;11828;SOM;8858;Porrog;209;110;99;község
+14;13930;SOM;8858;Porrogszentkirály;283;138;145;község
+14;28510;SOM;7977;Porrogszentpál;84;39;45;község
+14;28361;SOM;8707;Potony;202;102;100;község
+14;19026;SOM;8619;Pusztakovácsi;847;420;427;község
+14;23311;SOM;7464;Pusztaszemes;387;193;194;község
+14;30863;SOM;7552;Ráksi;455;230;225;község
+14;05078;SOM;7527;Rinyabesenyő;200;114;86;község
+14;32674;SOM;7513;Rinyakovácsi;172;91;81;község
+14;26754;SOM;7556;Rinyaszentkirály;414;221;193;község
+14;20622;SOM;7584;Rinyaújlak;312;156;156;község
+14;20321;SOM;8654;Rinyaújnép;49;28;21;község
+14;14942;SOM;7479;Ságvár;1 900;889;1 011;község
+14;31121;SOM;8732;Sántos;502;246;256;község
+14;02051;SOM;7562;Sávoly;508;273;235;község
+14;27368;SOM;8660;Segesd;2 497;1 240;1 257;község
+14;32133;SOM;7474;Sérsekszőlős;143;71;72;község
+14;32780;SOM;8652;Simonfa;373;170;203;község
+14;23092;SOM;8655;Siójut;645;336;309;község
+14;04127;SOM;7454;Som;703;364;339;község
+14;13824;SOM;7283;Somodor;418;218;200;község
+14;30580;SOM;7584;Somogyacsa;185;97;88;község
+14;05500;SOM;7452;Somogyaracs;173;94;79;község
+14;31219;SOM;8684;Somogyaszaló;768;388;380;község
+14;32470;SOM;8858;Somogybabod;476;239;237;község
+14;25043;SOM;8726;Somogybükkösd;87;44;43;község
+14;11484;SOM;7284;Somogycsicsó;157;72;85;község
+14;15981;SOM;8666;Somogydöröcske;152;73;79;község
+14;20057;SOM;8708;Somogyegres;192;104;88;község
+14;18078;SOM;7455;Somogyfajsz;549;286;263;község
+14;20330;SOM;7443;Somogygeszti;449;228;221;község
+14;28963;SOM;8673;Somogyjád;1 560;735;825;község
+14;12876;SOM;8733;Somogymeggyes;472;244;228;község
+14;15626;SOM;7435;Somogysámson;724;363;361;község
+14;28723;SOM;8737;Somogysárd;1 309;657;652;község
+14;27535;SOM;8705;Somogysimonyi;102;54;48;község
+14;06600;SOM;7276;Somogyszentpál;814;413;401;község
+14;03416;SOM;7563;Somogyszil;728;355;373;község
+14;18546;SOM;8683;Somogyszob;1 532;752;780;község
+14;32601;SOM;7515;Somogytúr;485;239;246;község
+14;04853;SOM;8699;Somogyudvarhely;1 014;487;527;község
+14;21856;SOM;8698;Somogyvámos;793;395;398;község
+14;19442;SOM;8734;Somogyvár;1 752;879;873;község
+14;04835;SOM;7253;Somogyzsitfa;564;281;283;község
+14;14854;SOM;7544;Szabadi;305;147;158;község
+14;28574;SOM;8622;Szabás;576;319;257;község
+14;34236;SOM;8732;Szántód;690;332;358;község
+14;18607;SOM;7477;Szegerdő;221;114;107;község
+14;15103;SOM;8849;Szenna;767;371;396;község
+14;11509;SOM;7472;Szenta;402;199;203;község
+14;25706;SOM;7918;Szentbalázs;321;159;162;község
+14;32841;SOM;7465;Szentborbás;130;63;67;község
+14;12973;SOM;8717;Szentgáloskér;528;268;260;község
+14;30146;SOM;7477;Szenyér;348;183;165;község
+14;32461;SOM;8625;Szilvásszentmárton;207;103;104;község
+14;15194;SOM;7285;Szólád;586;295;291;község
+14;05193;SOM;8736;Szorosad;99;43;56;község
+14;05810;SOM;8692;Szőkedencs;266;128;138;község
+14;11101;SOM;7539;Szőlősgyörök;1 305;650;655;község
+14;10986;SOM;8718;Szulok;606;306;300;község
+14;24615;SOM;7514;Tapsony;685;327;358;község
+14;16735;SOM;8696;Tarany;1 169;555;614;község
+14;13693;SOM;7261;Táska;400;200;200;község
+14;04932;SOM;8626;Taszár;2 018;971;1 047;község
+14;23968;SOM;8668;Teleki;232;121;111;község
+14;32416;SOM;8731;Tengőd;447;224;223;község
+14;17844;SOM;8660;Tikos;141;77;64;község
+14;10153;SOM;7918;Torvaj;257;137;120;község
+14;16407;SOM;7285;Tótújfalu;256;134;122;község
+14;20093;SOM;7436;Törökkoppány;402;192;210;község
+14;07205;SOM;8723;Újvárfalva;264;139;125;község
+14;09274;SOM;7442;Varászló;155;71;84;község
+14;26781;SOM;8721;Várda;459;219;240;község
+14;08183;SOM;7533;Vése;735;357;378;község
+14;19017;SOM;8681;Visnye;248;133;115;község
+14;06877;SOM;7588;Visz;198;103;95;község
+14;29780;SOM;8711;Vízvár;538;258;280;község
+14;09645;SOM;8852;Vörs;509;244;265;község
+14;14623;SOM;8853;Zákány;1 116;538;578;község
+14;34403;SOM;8660;Zákányfalu;515;243;272;község
+14;11466;SOM;8672;Zala;247;127;120;község
+14;33057;SOM;7471;Zics;342;173;169;község
+14;27614;SOM;7477;Zimány;560;282;278;község
+14;26842;SOM;7400;Zselickisfalud;234;129;105;község
+14;24110;SOM;7474;Zselickislak;430;193;237;község
+14;17491;SOM;4246;Zselicszentpál;421;218;203;község
+15;17206;SZA;4524;Nyíregyháza;119 767;56 386;63 381;megye székhely
+15;08776;SZA;4561;Ajak;3 751;1 816;1 935;város
+15;02325;SZA;4233;Baktalórántháza;3 770;1 850;1 920;város
+15;26958;SZA;4765;Balkány;6 238;3 121;3 117;város
+15;30641;SZA;4516;Csenger;5 235;2 543;2 692;város
+15;17756;SZA;4492;Demecser;4 328;2 089;2 239;város
+15;14508;SZA;4900;Dombrád;4 100;2 045;2 055;város
+15;18971;SZA;4484;Fehérgyarmat;8 082;3 882;4 200;város
+15;25636;SZA;4501;Ibrány;6 933;3 393;3 540;város
+15;19992;SZA;4600;Kemecse;5 073;2 500;2 573;város
+15;09265;SZA;4644;Kisvárda;17 093;8 159;8 934;város
+15;17826;SZA;4326;Mándok;4 334;2 103;2 231;város
+15;19655;SZA;4700;Máriapócs;2 096;997;1 099;város
+15;18874;SZA;4355;Mátészalka;16 910;8 049;8 861;város
+15;06488;SZA;4485;Nagyecsed;6 467;3 158;3 309;város
+15;27155;SZA;4320;Nagyhalász;5 773;2 860;2 913;város
+15;24785;SZA;4300;Nagykálló;9 730;4 721;5 009;város
+15;14845;SZA;4371;Nyírbátor;12 199;5 874;6 325;város
+15;11271;SZA;4564;Nyírlugos;2 770;1 342;1 428;város
+15;12274;SZA;4461;Nyírmada;5 084;2 487;2 597;város
+15;13550;SZA;4465;Nyírtelek;7 079;3 549;3 530;város
+15;14739;SZA;4447;Rakamaz;4 653;2 233;2 420;város
+15;23524;SZA;4440;Tiszalök;5 379;2 600;2 779;város
+15;07597;SZA;4244;Tiszavasvári;13 138;6 490;6 648;város
+15;26611;SZA;4562;Újfehértó;12 795;6 263;6 532;város
+15;18591;SZA;4800;Vaja;3 683;1 825;1 858;város
+15;18324;SZA;4625;Vásárosnamény;9 055;4 405;4 650;város
+15;05801;SZA;4334;Gávavencsellő;3 557;1 719;1 838;nagyközség
+15;13019;SZA;4324;Hodász;3 390;1 687;1 703;nagyközség
+15;31404;SZA;4965;Kállósemjén;3 720;1 813;1 907;nagyközség
+15;16665;SZA;4555;Kölcse;1 444;697;747;nagyközség
+15;30979;SZA;4352;Levelek;2 992;1 485;1 507;nagyközség
+15;07463;SZA;4372;Mérk;2 194;1 047;1 147;nagyközség
+15;15802;SZA;4361;Nyírbéltek;2 891;1 431;1 460;nagyközség
+15;31158;SZA;4755;Nyírbogát;3 088;1 519;1 569;nagyközség
+15;31769;SZA;4761;Ököritófülpös;1 860;915;945;nagyközség
+15;17215;SZA;4931;Porcsalma;2 887;1 461;1 426;nagyközség
+15;04312;SZA;4951;Tarpa;2 761;1 389;1 372;nagyközség
+15;17817;SZA;4456;Tiszabecs;1 596;830;766;nagyközség
+15;12593;SZA;4623;Tiszadob;2 746;1 403;1 343;nagyközség
+15;09919;SZA;4762;Tuzsér;3 583;1 820;1 763;nagyközség
+15;31398;SZA;4546;Tyukod;2 039;988;1 051;nagyközség
+15;29975;SZA;4553;Anarcs;2 022;1 010;1 012;község
+15;20303;SZA;4634;Apagy;2 431;1 205;1 226;község
+15;09353;SZA;4468;Aranyosapáti;2 232;1 084;1 148;község
+15;15963;SZA;4937;Balsa;760;371;389;község
+15;26480;SZA;4343;Barabás;1 122;589;533;község
+15;02990;SZA;4643;Bátorliget;675;340;335;község
+15;25441;SZA;4934;Benk;471;234;237;község
+15;28246;SZA;4933;Beregdaróc;1 048;552;496;község
+15;07472;SZA;4557;Berkesz;780;380;400;község
+15;13639;SZA;4488;Besenyőd;838;426;412;község
+15;21227;SZA;4235;Beszterec;1 027;504;523;község
+15;02945;SZA;4955;Biri;1 365;660;705;község
+15;22239;SZA;4231;Botpalád;932;534;398;község
+15;11299;SZA;4483;Bököny;3 151;1 560;1 591;község
+15;19707;SZA;4732;Buj;2 291;1 132;1 159;község
+15;09681;SZA;4967;Cégénydányád;675;329;346;község
+15;12928;SZA;4844;Csaholc;729;406;323;község
+15;29416;SZA;4973;Csaroda;640;300;340;község
+15;09715;SZA;4742;Császló;400;192;208;község
+15;26107;SZA;4743;Csegöld;701;351;350;község
+15;24095;SZA;4764;Csengersima;810;420;390;község
+15;26851;SZA;4737;Csengerújfalu;1 019;523;496;község
+15;18795;SZA;4495;Darnó;190;93;97;község
+15;03647;SZA;4374;Döge;2 286;1 158;1 128;község
+15;32328;SZA;4646;Encsencs;1 949;993;956;község
+15;18528;SZA;4245;Eperjeske;1 232;599;633;község
+15;10852;SZA;4354;Érpatak;1 789;924;865;község
+15;23250;SZA;4621;Fábiánháza;1 864;969;895;község
+15;22415;SZA;4964;Fényeslitke;2 521;1 198;1 323;község
+15;10791;SZA;4754;Fülesd;483;252;231;község
+15;14377;SZA;4972;Fülpösdaróc;356;159;197;község
+15;13727;SZA;4976;Gacsály;1 031;507;524;község
+15;04996;SZA;4754;Garbolc;148;72;76;község
+15;03629;SZA;4517;Géberjén;491;238;253;község
+15;05670;SZA;4935;Gégény;1 938;982;956;község
+15;04613;SZA;4567;Gelénes;639;329;310;község
+15;13000;SZA;4232;Gemzse;926;462;464;község
+15;28893;SZA;4842;Geszteréd;1 789;871;918;község
+15;29443;SZA;4625;Gulács;1 115;566;549;község
+15;28945;SZA;4752;Győröcske;176;95;81;község
+15;10126;SZA;4545;Győrtelek;1 733;873;860;község
+15;07676;SZA;4733;Gyulaháza;1 987;975;1 012;község
+15;33774;SZA;4735;Gyüre;1 328;668;660;község
+15;12061;SZA;4843;Hermánszeg;284;139;145;község
+15;05616;SZA;4566;Hetefejércse;300;133;167;község
+15;09654;SZA;4841;Ilk;1 392;711;681;község
+15;17075;SZA;4741;Jánd;801;409;392;község
+15;07843;SZA;4337;Jánkmajtis;1 807;867;940;község
+15;17589;SZA;4611;Jármi;1 289;629;660;község
+15;13143;SZA;4434;Jéke;759;359;400;község
+15;27225;SZA;4335;Kálmánháza;1 882;941;941;község
+15;02671;SZA;4515;Kántorjánosi;2 126;1 021;1 105;község
+15;28431;SZA;4494;Kék;2 027;1 000;1 027;község
+15;14359;SZA;4912;Kékcse;1 594;752;842;község
+15;32869;SZA;4921;Kérsemjén;311;157;154;község
+15;19424;SZA;4977;Kisar;1 127;588;539;község
+15;08509;SZA;4325;Kishódos;98;49;49;község
+15;28477;SZA;4737;Kisléta;1 776;906;870;község
+15;16036;SZA;4956;Kisnamény;326;159;167;község
+15;29300;SZA;4963;Kispalád;1 044;564;480;község
+15;09751;SZA;4811;Kisszekeres;545;257;288;község
+15;12672;SZA;4751;Kisvarsány;1 049;511;538;község
+15;07445;SZA;4765;Kocsord;3 055;1 496;1 559;község
+15;22336;SZA;4622;Komlódtótfalu;135;66;69;község
+15;27146;SZA;4482;Komoró;1 354;654;700;község
+15;23728;SZA;4943;Kótaj;4 607;2 273;2 334;község
+15;23612;SZA;4543;Kömörő;633;319;314;község
+15;21290;SZA;4836;Laskod;941;461;480;község
+15;26091;SZA;4633;Lónya;1 146;614;532;község
+15;07995;SZA;4953;Lövőpetri;522;249;273;község
+15;29984;SZA;4556;Magosliget;329;171;158;község
+15;16629;SZA;4942;Magy;938;447;491;község
+15;02088;SZA;4932;Mánd;316;162;154;község
+15;33224;SZA;4835;Márokpapi;672;349;323;község
+15;20668;SZA;4975;Mátyus;318;170;148;község
+15;29799;SZA;4641;Méhtelek;796;389;407;község
+15;32656;SZA;4948;Mezőladány;1 072;561;511;község
+15;31750;SZA;4911;Milota;1 012;503;509;község
+15;19211;SZA;4922;Nábrád;927;469;458;község
+15;04710;SZA;4445;Nagyar;704;358;346;község
+15;22743;SZA;4823;Nagycserkesz;1 746;922;824;község
+15;21485;SZA;4977;Nagydobos;2 297;1 141;1 156;község
+15;26976;SZA;4962;Nagyhódos;156;74;82;község
+15;27988;SZA;4812;Nagyszekeres;558;276;282;község
+15;33783;SZA;4552;Nagyvarsány;1 426;709;717;község
+15;08420;SZA;4942;Napkor;3 803;1 882;1 921;község
+15;28802;SZA;4356;Nyírbogdány;2 936;1 451;1 485;község
+15;07904;SZA;4331;Nyírcsaholy;2 330;1 157;1 173;község
+15;25973;SZA;4332;Nyírcsászári;1 255;628;627;község
+15;05041;SZA;4362;Nyírderzs;620;297;323;község
+15;28440;SZA;4311;Nyírgelse;1 150;580;570;község
+15;09238;SZA;4535;Nyírgyulaj;2 033;1 016;1 017;község
+15;14696;SZA;4541;Nyíribrony;1 165;589;576;község
+15;31477;SZA;4544;Nyírjákó;860;420;440;község
+15;18290;SZA;4333;Nyírkarász;2 305;1 096;1 209;község
+15;32452;SZA;4537;Nyírkáta;2 097;1 088;1 009;község
+15;25928;SZA;4632;Nyírkércs;783;388;395;község
+15;11095;SZA;4722;Nyírlövő;708;340;368;község
+15;23269;SZA;4363;Nyírmeggyes;2 713;1 353;1 360;község
+15;26365;SZA;4822;Nyírmihálydi;2 268;1 115;1 153;község
+15;10807;SZA;4531;Nyírparasznya;979;495;484;község
+15;33145;SZA;4376;Nyírpazony;3 688;1 827;1 861;község
+15;03878;SZA;4522;Nyírpilis;959;495;464;község
+15;28060;SZA;4554;Nyírtass;2 017;1 028;989;község
+15;09256;SZA;4532;Nyírtét;1 040;523;517;község
+15;12098;SZA;4341;Nyírtura;1 945;957;988;község
+15;16522;SZA;4558;Nyírvasvári;2 036;1 037;999;község
+15;22284;SZA;4826;Ófehértó;2 584;1 284;1 300;község
+15;11129;SZA;4914;Olcsva;764;405;359;község
+15;10834;SZA;4821;Olcsvaapáti;322;158;164;község
+15;27924;SZA;4373;Ópályi;3 265;1 666;1 599;község
+15;26550;SZA;4336;Ömböly;472;241;231;község
+15;09025;SZA;4913;Őr;1 546;770;776;község
+15;29559;SZA;4631;Panyola;581;292;289;község
+15;32577;SZA;4475;Papos;866;419;447;község
+15;31972;SZA;4523;Paszab;1 301;671;630;község
+15;12186;SZA;4766;Pátroha;3 139;1 529;1 610;község
+15;23685;SZA;4267;Pátyod;691;340;351;község
+15;17084;SZA;4941;Penészlek;1 021;506;515;község
+15;32692;SZA;4542;Penyige;794;400;394;község
+15;17224;SZA;4375;Petneháza;1 787;902;885;község
+15;03391;SZA;4327;Piricse;1 910;946;964;község
+15;11244;SZA;4565;Pócspetri;1 716;810;906;község
+15;13860;SZA;4536;Pusztadobos;1 542;745;797;község
+15;31857;SZA;4756;Ramocsaháza;1 519;728;791;község
+15;09061;SZA;4525;Rápolt;161;80;81;község
+15;21573;SZA;4563;Rétközberencs;1 203;603;600;község
+15;24581;SZA;4971;Rohod;1 278;610;668;község
+15;17428;SZA;4533;Rozsály;777;406;371;község
+15;04491;SZA;4954;Sényő;1 451;720;731;község
+15;23889;SZA;4467;Sonkád;886;456;430;község
+15;19169;SZA;4547;Szabolcs;355;168;187;község
+15;22053;SZA;4496;Szabolcsbáka;1 173;569;604;község
+15;03586;SZA;4234;Szabolcsveresmart;1 517;764;753;község
+15;04774;SZA;4767;Szakoly;2 797;1 425;1 372;község
+15;18005;SZA;4745;Szamosangyalos;856;509;347;község
+15;22017;SZA;4721;Szamosbecs;417;216;201;község
+15;16300;SZA;4735;Szamoskér;422;237;185;község
+15;10436;SZA;4824;Szamossályi;735;375;360;község
+15;13046;SZA;4746;Szamosszeg;1 902;943;959;község
+15;30085;SZA;4734;Szamostatárfalva;324;169;155;község
+15;31273;SZA;4945;Szamosújlak;377;174;203;község
+15;31237;SZA;4534;Szatmárcseke;1 645;844;801;község
+15;31088;SZA;4441;Székely;1 113;585;528;község
+15;34388;SZA;4845;Szorgalmatos;1 043;531;512;község
+15;29911;SZA;4342;Tákos;358;180;178;község
+15;33358;SZA;4353;Terem;672;346;326;község
+15;08952;SZA;4466;Tiborszállás;1 002;492;510;község
+15;24475;SZA;4833;Timár;1 359;678;681;község
+15;09423;SZA;4474;Tiszaadony;671;340;331;község
+15;03850;SZA;4624;Tiszabercel;1 869;912;957;község
+15;20172;SZA;4947;Tiszabezdéd;1 983;996;987;község
+15;24448;SZA;4455;Tiszacsécse;257;129;128;község
+15;06433;SZA;4446;Tiszadada;2 225;1 103;1 122;község
+15;09113;SZA;4493;Tiszaeszlár;2 646;1 310;1 336;község
+15;08554;SZA;4834;Tiszakanyár;1 658;794;864;község
+15;04446;SZA;4946;Tiszakerecseny;1 048;534;514;község
+15;08794;SZA;4645;Tiszakóród;825;423;402;község
+15;11907;SZA;4463;Tiszamogyorós;704;348;356;község
+15;27252;SZA;4503;Tiszanagyfalu;1 916;926;990;község
+15;10205;SZA;4831;Tiszarád;613;320;293;község
+15;13541;SZA;4628;Tiszaszalka;949;454;495;község
+15;27544;SZA;4486;Tiszaszentmárton;1 220;618;602;község
+15;14447;SZA;4832;Tiszatelek;1 389;674;715;község
+15;33747;SZA;4969;Tiszavid;607;314;293;község
+15;27261;SZA;4921;Tisztaberek;745;395;350;község
+15;20260;SZA;4642;Tivadar;212;106;106;község
+15;16957;SZA;4731;Tornyospálca;2 795;1 431;1 364;község
+15;13213;SZA;4944;Tunyogmatolcs;2 549;1 306;1 243;község
+15;13602;SZA;4968;Túristvándi;788;414;374;község
+15;08998;SZA;4491;Túrricse;728;367;361;község
+15;33659;SZA;4635;Újdombrád;700;357;343;község
+15;10117;SZA;4763;Újkenéz;1 022;504;518;község
+15;28981;SZA;4952;Ura;635;310;325;község
+15;31820;SZA;4351;Uszka;605;308;297;község
+15;06938;SZA;4936;Vállaj;1 288;661;627;község
+15;27322;SZA;4966;Vámosatya;574;290;284;község
+15;08934;SZA;4502;Vámosoroszi;567;287;280;község
+15;27100;SZA;4974;Vasmegyer;1 746;860;886;község
+15;06275;SZA;4961;Zajta;474;242;232;község
+15;28750;SZA;4627;Zsarolyán;439;215;224;község
+15;13037;SZA;5000;Zsurk;735;372;363;község
+16;27854;SZO;5241;Szolnok;70 447;33 275;37 172;megye székhely
+16;12441;SZO;5071;Abádszalók;4 254;2 077;2 177;város
+16;11305;SZO;5213;Besenyszög;3 309;1 633;1 676;város
+16;16647;SZO;5130;Fegyvernek;6 693;3 310;3 383;város
+16;22202;SZO;5123;Jászapáti;8 680;4 169;4 511;város
+16;22105;SZO;5100;Jászárokszállás;7 719;3 726;3 993;város
+16;18209;SZO;5126;Jászberény;26 257;12 625;13 632;város
+16;23339;SZO;5137;Jászfényszaru;5 818;2 806;3 012;város
+16;22798;SZO;5300;Jászkisér;5 382;2 664;2 718;város
+16;04923;SZO;5331;Karcag;20 074;9 773;10 301;város
+16;17145;SZO;5310;Kenderes;4 512;2 214;2 298;város
+16;25919;SZO;5340;Kisújszállás;11 063;5 417;5 646;város
+16;22567;SZO;5440;Kunhegyes;7 819;3 880;3 939;város
+16;32504;SZO;5435;Kunszentmárton;8 105;3 925;4 180;város
+16;02626;SZO;5400;Martfű;6 376;3 056;3 320;város
+16;04260;SZO;5085;Mezőtúr;16 930;8 215;8 715;város
+16;14207;SZO;5430;Rákóczifalva;5 449;2 673;2 776;város
+16;13815;SZO;5350;Tiszaföldvár;10 866;5 361;5 505;város
+16;29726;SZO;5200;Tiszafüred;11 439;5 548;5 891;város
+16;27313;SZO;5420;Törökszentmiklós;20 913;10 170;10 743;város
+16;28228;SZO;5052;Túrkeve;8 791;4 295;4 496;város
+16;15291;SZO;5462;Újszász;6 211;3 007;3 204;város
+16;22938;SZO;5055;Cibakháza;3 989;2 020;1 969;nagyközség
+16;21111;SZO;5321;Jászladány;5 653;2 812;2 841;nagyközség
+16;23171;SZO;5451;Kunmadaras;5 549;2 780;2 769;nagyközség
+16;28006;SZO;5142;Öcsöd;3 268;1 627;1 641;nagyközség
+16;25265;SZO;5309;Alattyán;2 033;978;1 055;község
+16;34005;SZO;5064;Berekfürdő;1 301;628;673;község
+16;34175;SZO;5475;Csataszög;340;165;175;község
+16;13170;SZO;5465;Csépa;1 712;831;881;község
+16;05795;SZO;5063;Cserkeszőlő;2 306;1 117;1 189;község
+16;34050;SZO;5143;Hunyadfalva;208;109;99;község
+16;22859;SZO;5124;Jánoshida;2 563;1 236;1 327;község
+16;22929;SZO;5054;Jászágó;690;330;360;község
+16;30711;SZO;5144;Jászalsószentgyörgy;3 427;1 674;1 753;község
+16;15811;SZO;5122;Jászboldogháza;1 679;833;846;község
+16;17978;SZO;5111;Jászdózsa;2 125;993;1 132;község
+16;23579;SZO;5135;Jászfelsőszentgyörgy;1 853;935;918;község
+16;24086;SZO;5121;Jászivány;404;205;199;község
+16;25186;SZO;5136;Jászjákóhalma;2 913;1 445;1 468;község
+16;13514;SZO;5141;Jászszentandrás;2 444;1 189;1 255;község
+16;23135;SZO;5083;Jásztelek;1 580;797;783;község
+16;07418;SZO;5411;Kengyel;3 544;1 758;1 786;község
+16;19813;SZO;5062;Kétpó;652;348;304;község
+16;11235;SZO;5412;Kőtelek;1 568;752;816;község
+16;05254;SZO;5452;Kuncsorba;612;302;310;község
+16;30234;SZO;5453;Mesterszállás;686;344;342;község
+16;26286;SZO;5363;Mezőhék;332;162;170;község
+16;21689;SZO;5065;Nagyiván;1 122;542;580;község
+16;15574;SZO;5463;Nagykörű;1 622;815;807;község
+16;06318;SZO;5222;Nagyrév;673;346;327;község
+16;29382;SZO;5125;Örményes;1 017;509;508;község
+16;15246;SZO;5084;Pusztamonostor;1 591;777;814;község
+16;12423;SZO;5081;Rákócziújfalu;2 023;1 021;1 002;község
+16;05874;SZO;5053;Szajol;3 843;1 923;1 920;község
+16;05777;SZO;5476;Szászberek;1 010;496;514;község
+16;20428;SZO;5232;Szelevény;1 009;512;497;község
+16;10773;SZO;5235;Tiszabő;2 286;1 190;1 096;község
+16;22770;SZO;5243;Tiszabura;3 211;1 650;1 561;község
+16;16230;SZO;5233;Tiszaderzs;1 158;558;600;község
+16;30304;SZO;5361;Tiszagyenda;1 027;500;527;község
+16;28699;SZO;5464;Tiszaigar;825;413;412;község
+16;20446;SZO;5094;Tiszainoka;409;205;204;község
+16;29346;SZO;5471;Tiszajenő;1 539;744;795;község
+16;30386;SZO;5362;Tiszakürt;1 392;687;705;község
+16;15787;SZO;5211;Tiszaörs;1 354;684;670;község
+16;03373;SZO;5234;Tiszapüspöki;2 093;1 035;1 058;község
+16;20181;SZO;5474;Tiszaroff;1 657;817;840;község
+16;21494;SZO;5061;Tiszasas;1 077;527;550;község
+16;17695;SZO;5322;Tiszasüly;1 523;764;759;község
+16;22789;SZO;5244;Tiszaszentimre;2 053;1 000;1 053;község
+16;07852;SZO;5082;Tiszaszőlős;1 544;792;752;község
+16;09627;SZO;5092;Tiszatenyő;1 663;831;832;község
+16;31866;SZO;5324;Tiszavárkony;1 557;788;769;község
+16;09557;SZO;5091;Tomajmonostora;747;393;354;község
+16;07490;SZO;5093;Tószeg;4 565;2 277;2 288;község
+16;21157;SZO;5051;Vezseny;672;330;342;község
+16;14836;SZO;7100;Zagyvarékas;3 693;1 784;1 909;község
+17;22761;TOL;7140;Szekszárd;32 488;15 194;17 294;megye székhely
+17;08864;TOL;7150;Bátaszék;6 501;3 107;3 394;város
+17;06497;TOL;7200;Bonyhád;13 060;6 229;6 831;város
+17;07685;TOL;7020;Dombóvár;18 555;8 753;9 802;város
+17;31501;TOL;7064;Dunaföldvár;8 510;4 122;4 388;város
+17;30289;TOL;7355;Gyönk;1 766;822;944;város
+17;14030;TOL;7027;Nagymányok;2 303;1 115;1 188;város
+17;04862;TOL;7081;Paks;18 666;8 986;9 680;város
+17;20783;TOL;7090;Simontornya;3 917;1 882;2 035;város
+17;24563;TOL;7130;Tamási;8 115;3 894;4 221;város
+17;25274;TOL;7144;Tolna;11 607;5 609;5 998;város
+17;24989;TOL;7133;Decs;4 113;1 962;2 151;nagyközség
+17;18980;TOL;7191;Fadd;4 233;2 102;2 131;nagyközség
+17;26055;TOL;7044;Hőgyész;2 803;1 331;1 472;nagyközség
+17;18388;TOL;7084;Nagydorog;2 661;1 318;1 343;nagyközség
+17;19585;TOL;7147;Pincehely;2 172;1 038;1 134;nagyközség
+17;29665;TOL;7148;Alsónána;709;342;367;község
+17;11563;TOL;7186;Alsónyék;738;362;376;község
+17;26125;TOL;7252;Aparhant;1 029;507;522;község
+17;32735;TOL;7149;Attala;788;395;393;község
+17;11712;TOL;7164;Báta;1 596;764;832;község
+17;28909;TOL;7061;Bátaapáti;409;219;190;község
+17;28662;TOL;7043;Belecska;358;174;184;község
+17;11970;TOL;7132;Bikács;430;225;205;község
+17;03425;TOL;7158;Bogyiszló;2 182;1 077;1 105;község
+17;14818;TOL;7025;Bonyhádvarasd;442;213;229;község
+17;06558;TOL;7161;Bölcske;2 739;1 344;1 395;község
+17;19284;TOL;7225;Cikó;910;441;469;község
+17;11998;TOL;7341;Csibrák;317;151;166;község
+17;30094;TOL;7211;Csikóstőttős;840;418;422;község
+17;29230;TOL;7072;Dalmand;1 275;617;658;község
+17;11688;TOL;7228;Diósberény;338;160;178;község
+17;02565;TOL;7135;Döbrököz;1 960;952;1 008;község
+17;09539;TOL;7224;Dunaszentgyörgy;2 586;1 276;1 310;község
+17;19202;TOL;7093;Dúzs;234;123;111;község
+17;08448;TOL;7136;Értény;744;408;336;község
+17;24192;TOL;7175;Fácánkert;702;344;358;község
+17;15820;TOL;7099;Felsőnána;637;328;309;község
+17;17914;TOL;7087;Felsőnyék;1 077;549;528;község
+17;17950;TOL;7134;Fürged;719;354;365;község
+17;05731;TOL;7162;Gerjen;1 258;631;627;község
+17;26727;TOL;7352;Grábóc;171;92;79;község
+17;25539;TOL;7045;Györe;659;327;332;község
+17;12326;TOL;7227;Györköny;997;499;498;község
+17;30359;TOL;7172;Gyulaj;958;482;476;község
+17;14164;TOL;7095;Harc;855;420;435;község
+17;04701;TOL;7353;Iregszemcse;2 656;1 333;1 323;község
+17;27711;TOL;7357;Izmény;509;270;239;község
+17;09326;TOL;7051;Jágónak;250;131;119;község
+17;14100;TOL;7122;Kajdacs;1 150;585;565;község
+17;02033;TOL;7194;Kakasd;1 715;828;887;község
+17;23791;TOL;7251;Kalaznó;152;86;66;község
+17;23296;TOL;7361;Kapospula;863;422;441;község
+17;18962;TOL;7062;Kaposszekcső;1 496;715;781;község
+17;17640;TOL;7174;Keszőhidegkút;206;102;104;község
+17;21731;TOL;7159;Kéty;704;340;364;község
+17;17710;TOL;7356;Kisdorog;730;371;359;község
+17;06512;TOL;7082;Kismányok;331;173;158;község
+17;27766;TOL;7068;Kisszékely;310;148;162;község
+17;03869;TOL;7183;Kistormás;334;163;171;község
+17;31185;TOL;7212;Kisvejke;419;224;195;község
+17;22433;TOL;7094;Kocsola;1 265;634;631;község
+17;21184;TOL;7052;Koppányszántó;331;166;165;község
+17;10463;TOL;7226;Kölesd;1 503;743;760;község
+17;20507;TOL;7214;Kurd;1 146;575;571;község
+17;14605;TOL;7184;Lápafő;158;83;75;község
+17;24411;TOL;7026;Lengyel;520;247;273;község
+17;29337;TOL;7098;Madocsa;1 898;927;971;község
+17;06017;TOL;7057;Magyarkeszi;1 181;570;611;község
+17;30562;TOL;7065;Medina;810;411;399;község
+17;02811;TOL;7165;Miszla;282;156;126;község
+17;20701;TOL;7163;Mórágy;753;384;369;község
+17;33349;TOL;7185;Mőcsény;338;162;176;község
+17;13620;TOL;7195;Mucsfa;354;186;168;község
+17;07029;TOL;7176;Mucsi;473;248;225;község
+17;18917;TOL;7092;Murga;58;34;24;község
+17;27182;TOL;7085;Nagykónyi;1 063;526;537;község
+17;06761;TOL;7097;Nagyszékely;422;214;208;község
+17;13709;TOL;7186;Nagyszokoly;886;438;448;község
+17;16452;TOL;7215;Nagyvejke;159;81;78;község
+17;02796;TOL;7039;Nak;526;272;254;község
+17;15006;TOL;7086;Németkér;1 746;882;864;község
+17;05661;TOL;7143;Ozora;1 636;824;812;község
+17;08961;TOL;7042;Őcsény;2 431;1 202;1 229;község
+17;09371;TOL;7091;Pálfa;1 514;744;770;község
+17;09618;TOL;7142;Pári;669;316;353;község
+17;33570;TOL;7038;Pörböly;557;276;281;község
+17;19938;TOL;7193;Pusztahencse;1 036;516;520;község
+17;15459;TOL;7145;Regöly;1 127;531;596;község
+17;04747;TOL;7047;Sárpilis;707;354;353;község
+17;20817;TOL;7171;Sárszentlőrinc;1 063;512;551;község
+17;25645;TOL;7071;Sióagárd;1 291;613;678;község
+17;15316;TOL;7192;Szakadát;243;107;136;község
+17;04464;TOL;7213;Szakály;1 298;647;651;község
+17;10083;TOL;7121;Szakcs;838;420;418;község
+17;14711;TOL;7063;Szálka;644;319;325;község
+17;18263;TOL;7056;Szárazd;268;138;130;község
+17;16814;TOL;7054;Szedres;2 171;1 074;1 097;község
+17;06901;TOL;7181;Tengelic;2 224;1 116;1 108;község
+17;31459;TOL;7083;Tevel;1 374;671;703;község
+17;11031;TOL;7066;Tolnanémedi;1 018;466;552;község
+17;21360;TOL;7095;Udvari;317;172;145;község
+17;20561;TOL;7354;Újireg;294;137;157;község
+17;32850;TOL;7146;Váralja;823;390;433;község
+17;09414;TOL;7214;Várdomb;1 190;593;597;község
+17;29124;TOL;7067;Várong;159;84;75;község
+17;06637;TOL;7182;Varsád;391;187;204;község
+17;14304;TOL;7173;Závod;299;148;151;község
+17;21625;TOL;9700;Zomba;2 029;981;1 048;község
+18;03009;VAS;9737;Szombathely;76 334;35 955;40 379;megye székhely
+18;02431;VAS;9500;Bük;3 499;1 723;1 776;város
+18;27094;VAS;9735;Celldömölk;10 552;4 959;5 593;város
+18;12140;VAS;9545;Csepreg;3 243;1 536;1 707;város
+18;11679;VAS;9900;Jánosháza;2 479;1 192;1 287;város
+18;13532;VAS;9730;Körmend;11 095;5 315;5 780;város
+18;16832;VAS;9941;Kőszeg;11 490;5 542;5 948;város
+18;10630;VAS;9653;Őriszentpéter;1 166;565;601;város
+18;30881;VAS;9600;Répcelak;2 604;1 261;1 343;város
+18;21306;VAS;9955;Sárvár;14 705;7 069;7 636;város
+18;31583;VAS;9800;Szentgotthárd;8 516;4 174;4 342;város
+18;04695;VAS;9751;Vasvár;4 139;2 025;2 114;város
+18;26426;VAS;9746;Vép;3 364;1 676;1 688;város
+18;07214;VAS;9983;Acsád;660;291;369;község
+18;22549;VAS;9842;Alsószölnök;357;169;188;község
+18;22725;VAS;9811;Alsóújlak;578;278;300;község
+18;12317;VAS;9982;Andrásfa;237;129;108;község
+18;08873;VAS;9944;Apátistvánfalva;396;179;217;község
+18;17020;VAS;9771;Bajánsenye;495;238;257;község
+18;05102;VAS;9683;Balogunyom;1 156;573;583;község
+18;10384;VAS;9831;Bejcgyertyános;436;208;228;község
+18;32124;VAS;9542;Bérbaltavár;539;273;266;község
+18;29203;VAS;9554;Boba;835;419;416;község
+18;03090;VAS;9727;Borgáta;181;87;94;község
+18;05023;VAS;9752;Bozsok;367;183;184;község
+18;06390;VAS;9625;Bozzai;289;154;135;község
+18;05476;VAS;9612;Bő;713;364;349;község
+18;11651;VAS;9675;Bögöt;396;201;195;község
+18;07296;VAS;9792;Bögöte;314;152;162;község
+18;32984;VAS;9725;Bucsu;588;289;299;község
+18;08271;VAS;9624;Cák;267;130;137;község
+18;09876;VAS;9919;Chernelházadamonya;206;112;94;község
+18;03911;VAS;9654;Csákánydoroszló;1 726;858;868;község
+18;26772;VAS;9833;Csánig;340;173;167;község
+18;19488;VAS;9834;Csehi;251;129;122;község
+18;12724;VAS;9764;Csehimindszent;379;191;188;község
+18;23816;VAS;9611;Csempeszkopács;327;162;165;község
+18;09070;VAS;9836;Csénye;696;345;351;község
+18;26064;VAS;9513;Csipkerek;326;149;177;község
+18;22390;VAS;9962;Csönge;403;201;202;község
+18;04224;VAS;9917;Csörötnek;871;449;422;község
+18;15990;VAS;9791;Daraboshegy;100;50;50;község
+18;16151;VAS;9914;Dozmat;257;131;126;község
+18;20695;VAS;9913;Döbörhegy;131;65;66;község
+18;03036;VAS;9556;Döröske;92;45;47;község
+18;02927;VAS;9684;Duka;258;135;123;község
+18;28796;VAS;9554;Egervölgy;347;176;171;község
+18;10232;VAS;9781;Egyházashetye;317;160;157;község
+18;30429;VAS;9783;Egyházashollós;549;272;277;község
+18;25946;VAS;9794;Egyházasrádóc;1 266;647;619;község
+18;13587;VAS;9934;Felsőcsatár;473;232;241;község
+18;08013;VAS;9918;Felsőjánosfa;204;92;112;község
+18;29841;VAS;9985;Felsőmarác;251;126;125;község
+18;23287;VAS;9952;Felsőszölnök;577;287;290;község
+18;30906;VAS;9721;Gasztony;421;219;202;község
+18;24183;VAS;9672;Gencsapáti;2 676;1 322;1 354;község
+18;26152;VAS;9813;Gérce;1 157;558;599;község
+18;30942;VAS;9625;Gersekarát;674;346;328;község
+18;11156;VAS;9774;Gór;309;161;148;község
+18;27030;VAS;9723;Gyanógeregye;152;73;79;község
+18;11943;VAS;9821;Gyöngyösfalu;1 099;550;549;község
+18;09724;VAS;9814;Győrvár;630;310;320;község
+18;29452;VAS;9917;Halastó;81;40;41;község
+18;10676;VAS;9784;Halogy;277;136;141;község
+18;05713;VAS;9631;Harasztifalu;157;73;84;község
+18;32188;VAS;9915;Hegyfalu;755;367;388;község
+18;14997;VAS;9915;Hegyháthodász;153;80;73;község
+18;30216;VAS;9934;Hegyhátsál;143;58;85;község
+18;18032;VAS;9931;Hegyhátszentjakab;262;138;124;község
+18;21838;VAS;9821;Hegyhátszentmárton;69;36;33;község
+18;08226;VAS;9796;Hegyhátszentpéter;159;81;78;község
+18;12733;VAS;9733;Horvátlövő;197;97;100;község
+18;16887;VAS;9676;Horvátzsidány;826;395;431;község
+18;20880;VAS;9756;Hosszúpereszteg;662;322;340;község
+18;11387;VAS;9634;Ikervár;1 755;856;899;község
+18;29504;VAS;9941;Iklanberény;54;26;28;község
+18;07977;VAS;9931;Ispánk;109;51;58;község
+18;31680;VAS;9798;Ivánc;678;345;333;község
+18;13958;VAS;9643;Ják;2 593;1 291;1 302;község
+18;06406;VAS;9673;Jákfa;504;254;250;község
+18;29957;VAS;9841;Káld;1 034;493;541;község
+18;04640;VAS;9547;Kám;461;218;243;község
+18;10913;VAS;9915;Karakó;216;104;112;község
+18;26620;VAS;9549;Katafa;339;173;166;község
+18;32036;VAS;9553;Keléd;78;45;33;község
+18;16911;VAS;9522;Kemeneskápolna;95;49;46;község
+18;12247;VAS;9511;Kemenesmagasi;892;431;461;község
+18;13426;VAS;9544;Kemenesmihályfa;508;264;244;község
+18;20996;VAS;9517;Kemenespálfa;413;212;201;község
+18;24484;VAS;9521;Kemenessömjén;570;277;293;község
+18;20084;VAS;9923;Kemenesszentmárton;213;101;112;község
+18;22716;VAS;9752;Kemestaródfa;229;110;119;község
+18;02574;VAS;9514;Kenéz;272;129;143;község
+18;09937;VAS;9945;Kenyeri;817;401;416;község
+18;26596;VAS;9944;Kercaszomor;227;112;115;község
+18;19761;VAS;9982;Kerkáskápolna;73;38;35;község
+18;19345;VAS;9936;Kétvölgy;114;55;59;község
+18;11147;VAS;9555;Kisrákos;184;98;86;község
+18;05953;VAS;9772;Kissomlyó;241;121;120;község
+18;02501;VAS;9733;Kisunyom;452;217;235;község
+18;15486;VAS;9943;Kiszsidány;94;40;54;község
+18;13028;VAS;9553;Kondorfa;503;252;251;község
+18;04190;VAS;9725;Köcsk;263;138;125;község
+18;05740;VAS;9739;Kőszegdoroszló;234;121;113;község
+18;26046;VAS;9725;Kőszegpaty;205;120;85;község
+18;20109;VAS;9634;Kőszegszerdahely;502;261;241;község
+18;14021;VAS;9962;Lukácsháza;1 114;561;553;község
+18;03221;VAS;9909;Magyarlak;804;385;419;község
+18;27289;VAS;9912;Magyarnádalja;240;122;118;község
+18;17288;VAS;9946;Magyarszecsőd;434;219;215;község
+18;25423;VAS;9757;Magyarszombatfa;262;120;142;község
+18;25760;VAS;9754;Meggyeskovácsi;670;338;332;község
+18;30872;VAS;9531;Megyehíd;312;147;165;község
+18;14809;VAS;9662;Mersevát;590;295;295;község
+18;31875;VAS;9551;Mesterháza;161;81;80;község
+18;15723;VAS;9745;Mesteri;273;135;138;község
+18;32832;VAS;9835;Meszlen;213;106;107;község
+18;30599;VAS;9912;Mikosszéplak;311;156;155;község
+18;03294;VAS;9915;Molnaszecsőd;417;220;197;község
+18;06716;VAS;9664;Nádasd;1 326;636;690;község
+18;09283;VAS;9784;Nagygeresd;274;139;135;község
+18;32920;VAS;9913;Nagykölked;162;81;81;község
+18;15060;VAS;9938;Nagymizdó;112;61;51;község
+18;29869;VAS;9561;Nagyrákos;272;141;131;község
+18;26143;VAS;9832;Nagysimonyi;969;475;494;község
+18;24837;VAS;9797;Nagytilaj;138;66;72;község
+18;17367;VAS;9793;Nárai;1 466;724;742;község
+18;02042;VAS;9749;Narda;484;229;255;község
+18;24509;VAS;9739;Nemesbőd;637;345;292;község
+18;23320;VAS;9548;Nemescsó;294;149;145;község
+18;03674;VAS;9542;Nemeskeresztúr;292;140;152;község
+18;02839;VAS;9775;Nemeskocs;317;163;154;község
+18;24059;VAS;9663;Nemeskolta;371;180;191;község
+18;26240;VAS;9953;Nemesládony;144;68;76;község
+18;31556;VAS;9782;Nemesmedves;26;14;12;község
+18;09672;VAS;9652;Nemesrempehollós;269;139;130;község
+18;10843;VAS;9682;Nick;548;271;277;község
+18;22318;VAS;9824;Nyőgér;342;168;174;község
+18;19743;VAS;9733;Olaszfa;398;191;207;község
+18;22044;VAS;9982;Ólmod;119;61;58;község
+18;17093;VAS;9512;Orfalu;73;38;35;község
+18;32629;VAS;9825;Ostffyasszonyfa;789;387;402;község
+18;07667;VAS;9621;Oszkó;618;314;304;község
+18;12043;VAS;9933;Ölbő;748;351;397;község
+18;13453;VAS;9823;Őrimagyarósd;229;114;115;község
+18;07162;VAS;9937;Pácsony;298;150;148;község
+18;23108;VAS;9515;Pankasz;450;219;231;község
+18;14067;VAS;9754;Pápoc;290;140;150;község
+18;14988;VAS;9722;Pecöl;796;398;398;község
+18;13684;VAS;9734;Perenye;674;327;347;község
+18;08882;VAS;9826;Peresznye;630;307;323;község
+18;11572;VAS;9922;Petőmihályfa;209;103;106;község
+18;06248;VAS;9796;Pinkamindszent;187;93;94;község
+18;20367;VAS;9612;Pornóapáti;363;165;198;község
+18;29896;VAS;9636;Porpác;137;65;72;község
+18;15671;VAS;9739;Pósfa;269;140;129;község
+18;10311;VAS;9776;Pusztacsó;156;73;83;község
+18;07278;VAS;9961;Püspökmolnári;868;403;465;község
+18;26736;VAS;9777;Rábagyarmat;750;384;366;község
+18;03197;VAS;9641;Rábahídvég;970;471;499;község
+18;26073;VAS;9766;Rábapaty;1 672;823;849;község
+18;17996;VAS;9784;Rábatöttös;231;125;106;község
+18;07551;VAS;9951;Rádóckölked;287;146;141;község
+18;23861;VAS;9623;Rátót;236;123;113;község
+18;28626;VAS;9954;Répceszentgyörgy;117;55;62;község
+18;26806;VAS;9766;Rönök;417;211;206;község
+18;10597;VAS;9632;Rum;1 121;558;563;község
+18;10579;VAS;9742;Sajtoskál;402;204;198;község
+18;18883;VAS;9813;Salköveskút;480;245;235;község
+18;09788;VAS;9789;Sárfimizdó;105;50;55;község
+18;10278;VAS;9633;Sé;1 402;684;718;község
+18;26763;VAS;9671;Simaság;554;280;274;község
+18;30748;VAS;9774;Sitke;742;369;373;község
+18;07171;VAS;9774;Sorkifalud;673;327;346;község
+18;27960;VAS;9773;Sorkikápolna;242;123;119;község
+18;29692;VAS;9681;Sorokpolány;830;399;431;község
+18;22983;VAS;9743;Sótony;626;324;302;község
+18;24800;VAS;9934;Söpte;795;387;408;község
+18;16504;VAS;9983;Szaknyér;54;27;27;község
+18;20932;VAS;9942;Szakonyfalu;382;196;186;község
+18;10223;VAS;9913;Szalafő;205;98;107;község
+18;17729;VAS;9938;Szarvaskend;227;115;112;község
+18;02440;VAS;9622;Szatta;67;36;31;község
+18;33172;VAS;9685;Szeleste;661;329;332;község
+18;27997;VAS;9799;Szemenye;352;162;190;község
+18;21254;VAS;9523;Szentpéterfa;1 026;506;520;község
+18;27793;VAS;9935;Szergény;301;150;151;község
+18;19521;VAS;9762;Szőce;322;160;162;község
+18;16212;VAS;9761;Tanakajd;726;365;361;község
+18;32045;VAS;9812;Táplánszentkereszt;2 611;1 278;1 333;község
+18;29568;VAS;9561;Telekes;510;245;265;község
+18;09229;VAS;9662;Tokorcs;366;183;183;község
+18;12335;VAS;9736;Tompaládony;324;171;153;község
+18;34087;VAS;9791;Tormásliget;295;148;147;község
+18;29878;VAS;9738;Torony;2 003;984;1 019;község
+18;05166;VAS;9651;Tömörd;284;147;137;község
+18;21537;VAS;9665;Uraiújfalu;835;404;431;község
+18;31051;VAS;9921;Vámoscsalád;307;150;157;község
+18;02884;VAS;9552;Vasalja;338;161;177;község
+18;09195;VAS;9744;Vásárosmiske;357;176;181;község
+18;20394;VAS;9661;Vasasszonyfa;379;202;177;község
+18;15334;VAS;9674;Vasegerszeg;354;162;192;község
+18;20349;VAS;9795;Vashosszúfalu;361;182;179;község
+18;30702;VAS;9741;Vaskeresztes;339;177;162;község
+18;25982;VAS;9763;Vassurány;788;394;394;község
+18;29373;VAS;9953;Vasszécseny;1 360;670;690;község
+18;11633;VAS;9747;Vasszentmihály;348;167;181;község
+18;12104;VAS;9748;Vasszilvágy;411;211;200;község
+18;02246;VAS;9726;Vát;670;338;332;község
+18;26000;VAS;9946;Velem;406;189;217;község
+18;18430;VAS;9932;Velemér;71;40;31;község
+18;07940;VAS;9516;Viszák;262;137;125;község
+18;03142;VAS;9635;Vönöck;723;364;359;község
+18;21643;VAS;9766;Zsédeny;216;107;109;község
+18;12292;VAS;8200;Zsennye;108;57;51;község
+19;11767;VES;8400;Veszprém;55 936;26 384;29 552;megye székhely
+19;06673;VES;8257;Ajka;28 455;13 656;14 799;város
+19;22327;VES;8220;Badacsonytomaj;2 180;1 059;1 121;város
+19;05838;VES;8230;Balatonalmádi;9 823;4 815;5 008;város
+19;21175;VES;8175;Balatonfüred;13 637;6 386;7 251;város
+19;02219;VES;8174;Balatonfűzfő;4 501;2 180;2 321;város
+19;05148;VES;8181;Balatonkenese;2 688;1 325;1 363;város
+19;33127;VES;8460;Berhida;5 917;2 929;2 988;város
+19;32276;VES;8440;Devecser;4 415;2 186;2 229;város
+19;23658;VES;8500;Herend;3 483;1 731;1 752;város
+19;31945;VES;8330;Pápa;30 053;14 305;15 748;város
+19;25593;VES;8297;Sümeg;6 186;2 967;3 219;város
+19;29434;VES;8100;Tapolca;15 706;7 452;8 254;város
+19;11439;VES;8420;Várpalota;20 303;9 797;10 506;város
+19;26499;VES;8105;Zirc;6 760;3 303;3 457;város
+19;34254;VES;8253;Pétfürdő;4 774;2 259;2 515;nagyközség
+19;05625;VES;8256;Révfülöp;1 173;560;613;nagyközség
+19;04561;VES;8561;Ábrahámhegy;560;287;273;község
+19;07302;VES;8497;Adásztevel;840;420;420;község
+19;31307;VES;8226;Adorjánháza;397;202;195;község
+19;30526;VES;8477;Alsóörs;1 880;917;963;község
+19;28370;VES;8241;Apácatorna;170;85;85;község
+19;07339;VES;8263;Aszófő;465;249;216;község
+19;03267;VES;8427;Badacsonytördemic;920;450;470;község
+19;23746;VES;8581;Bakonybél;1 172;570;602;község
+19;29513;VES;8571;Bakonyjákó;726;374;352;község
+19;07287;VES;8422;Bakonykoppány;210;107;103;község
+19;25991;VES;8418;Bakonynána;1 027;500;527;község
+19;30410;VES;8457;Bakonyoszlop;461;234;227;község
+19;06327;VES;8557;Bakonypölöske;410;208;202;község
+19;29902;VES;8557;Bakonyság;75;32;43;község
+19;23922;VES;8430;Bakonyszentiván;232;119;113;község
+19;22813;VES;8572;Bakonyszentkirály;829;422;407;község
+19;26417;VES;8555;Bakonyszücs;285;148;137;község
+19;24129;VES;8243;Bakonytamási;614;306;308;község
+19;25308;VES;8172;Balatonakali;710;363;347;község
+19;34421;VES;8272;Balatonakarattya;928;475;453;község
+19;03072;VES;8312;Balatoncsicsó;258;120;138;község
+19;12238;VES;8164;Balatonederics;1 046;513;533;község
+19;29461;VES;8275;Balatonfőkajár;1 365;689;676;község
+19;03638;VES;8255;Balatonhenye;129;70;59;község
+19;33844;VES;8252;Balatonrendes;157;76;81;község
+19;17154;VES;8233;Balatonszepezd;439;212;227;község
+19;28501;VES;8242;Balatonszőlős;655;329;326;község
+19;15565;VES;8443;Balatonudvari;383;188;195;község
+19;14173;VES;8291;Bánd;699;342;357;község
+19;15778;VES;8352;Barnag;155;79;76;község
+19;07427;VES;8565;Bazsi;445;217;228;község
+19;22901;VES;8515;Béb;269;137;132;község
+19;27058;VES;8471;Békás;205;113;92;község
+19;04321;VES;8479;Bodorfa;97;56;41;község
+19;04765;VES;8428;Borszörcsök;365;179;186;község
+19;30252;VES;8474;Borzavár;765;393;372;község
+19;30924;VES;8163;Csabrendek;3 051;1 527;1 524;község
+19;16072;VES;8445;Csajág;854;436;418;község
+19;20251;VES;8419;Csehbánya;302;152;150;község
+19;24642;VES;8417;Csesznek;521;259;262;község
+19;31699;VES;8229;Csetény;1 860;927;933;község
+19;02185;VES;8558;Csopak;2 148;1 049;1 099;község
+19;32878;VES;8495;Csót;995;491;504;község
+19;32814;VES;8345;Csögle;642;329;313;község
+19;17172;VES;8485;Dabronc;468;230;238;község
+19;28237;VES;8592;Dabrony;441;227;214;község
+19;20154;VES;8482;Dáka;646;308;338;község
+19;10870;VES;8597;Doba;450;231;219;község
+19;29470;VES;8244;Döbrönte;281;142;139;község
+19;06363;VES;8416;Dörgicse;290;143;147;község
+19;02936;VES;8497;Dudar;1 764;882;882;község
+19;33871;VES;8523;Egeralja;213;104;109;község
+19;10445;VES;8413;Egyházaskesző;512;255;257;község
+19;33941;VES;8582;Eplény;520;259;261;község
+19;10250;VES;8227;Farkasgyepű;370;185;185;község
+19;24369;VES;8597;Felsőörs;1 839;935;904;község
+19;12742;VES;8543;Ganna;272;140;132;község
+19;09292;VES;8435;Gecse;416;195;221;község
+19;16717;VES;8346;Gic;363;182;181;község
+19;18193;VES;8473;Gógánfa;791;404;387;község
+19;28671;VES;8286;Gyepükaján;346;173;173;község
+19;09520;VES;8192;Gyulakeszi;715;357;358;község
+19;15361;VES;8452;Hajmáskér;3 088;1 502;1 586;község
+19;07898;VES;8442;Halimba;1 232;608;624;község
+19;25566;VES;8296;Hárskút;665;337;328;község
+19;02422;VES;8265;Hegyesd;177;92;85;község
+19;25803;VES;8344;Hegymagas;287;149;138;község
+19;15088;VES;8247;Hetyefő;96;46;50;község
+19;20756;VES;8563;Hidegkút;473;239;234;község
+19;27818;VES;8475;Homokbödöge;685;338;347;község
+19;07250;VES;8493;Hosztót;71;31;40;község
+19;28015;VES;8424;Iszkáz;334;182;152;község
+19;17437;VES;8469;Jásd;713;352;361;község
+19;19141;VES;8294;Kamond;424;226;198;község
+19;14553;VES;8471;Kapolcs;381;174;207;község
+19;14270;VES;8283;Káptalanfa;802;410;392;község
+19;05634;VES;8491;Káptalantóti;486;258;228;község
+19;08749;VES;8254;Karakószörcsök;296;156;140;község
+19;26037;VES;8516;Kékkút;75;46;29;község
+19;19734;VES;8518;Kemeneshőgyész;484;238;246;község
+19;12478;VES;8492;Kemenesszentpéter;603;292;311;község
+19;25654;VES;8195;Kerta;570;292;278;község
+19;05421;VES;8284;Királyszentistván;525;272;253;község
+19;07931;VES;8477;Kisapáti;362;192;170;község
+19;29072;VES;8494;Kisberzseny;104;51;53;község
+19;23700;VES;8446;Kiscsősz;106;52;54;község
+19;30173;VES;8496;Kislőd;1 241;634;607;község
+19;04288;VES;8483;Kispirit;72;38;34;község
+19;23001;VES;8468;Kisszőlős;165;81;84;község
+19;30182;VES;8254;Kolontár;736;357;379;község
+19;23454;VES;8274;Kővágóörs;765;407;358;község
+19;25858;VES;8595;Köveskál;374;194;180;község
+19;26541;VES;9532;Kup;458;231;227;község
+19;16142;VES;8162;Külsővat;762;359;403;község
+19;04066;VES;8317;Küngös;561;282;279;község
+19;17570;VES;8319;Lesencefalu;325;163;162;község
+19;21962;VES;8318;Lesenceistvánd;971;508;463;község
+19;17871;VES;8196;Lesencetomaj;1 121;581;540;község
+19;04552;VES;8425;Litér;2 236;1 124;1 112;község
+19;18856;VES;8228;Lókút;483;241;242;község
+19;05564;VES;8553;Lovas;477;262;215;község
+19;05087;VES;8517;Lovászpatona;1 170;584;586;község
+19;26374;VES;8449;Magyargencs;493;234;259;község
+19;20437;VES;8533;Magyarpolány;1 334;660;674;község
+19;03610;VES;9534;Malomsok;526;266;260;község
+19;29294;VES;8531;Marcalgergelyi;378;192;186;község
+19;22220;VES;8441;Marcaltő;767;380;387;község
+19;32212;VES;8348;Márkó;1 552;777;775;község
+19;04987;VES;8271;Megyer;27;17;10;község
+19;27137;VES;8514;Mencshely;273;130;143;község
+19;23560;VES;8513;Mezőlak;997;502;495;község
+19;04668;VES;8282;Mihályháza;736;376;360;község
+19;04534;VES;8296;Mindszentkálla;259;127;132;község
+19;24040;VES;8273;Monostorapáti;1 157;571;586;község
+19;22512;VES;8521;Monoszló;124;63;61;község
+19;23551;VES;8484;Nagyacsád;661;337;324;község
+19;27979;VES;8554;Nagyalásony;496;252;244;község
+19;10001;VES;8415;Nagydém;353;174;179;község
+19;23180;VES;8551;Nagyesztergár;1 188;603;585;község
+19;08262;VES;8496;Nagygyimót;566;280;286;község
+19;21403;VES;8562;Nagypirit;260;126;134;község
+19;25201;VES;8291;Nagytevel;559;295;264;község
+19;19196;VES;8522;Nagyvázsony;1 840;937;903;község
+19;05652;VES;8284;Nemesgörzsöny;660;333;327;község
+19;02787;VES;8471;Nemesgulács;1 003;494;509;község
+19;05555;VES;9533;Nemeshany;384;202;182;község
+19;21759;VES;8248;Nemesszalók;852;436;416;község
+19;02194;VES;8311;Nemesvámos;2 960;1 501;1 459;község
+19;28422;VES;8581;Nemesvita;344;178;166;község
+19;10409;VES;8591;Németbánya;115;57;58;község
+19;26523;VES;8456;Nóráp;226;109;117;község
+19;14757;VES;8512;Noszlop;1 019;534;485;község
+19;29009;VES;8454;Nyárád;955;475;480;község
+19;24004;VES;8272;Nyirád;1 977;965;1 012;község
+19;23913;VES;8414;Óbudavár;63;33;30;község
+19;26514;VES;8458;Olaszfalu;1 065;538;527;község
+19;16595;VES;8292;Oroszi;137;70;67;község
+19;28112;VES;8242;Öcs;207;101;106;község
+19;10092;VES;8161;Örvényes;157;87;70;község
+19;24068;VES;8191;Ősi;2 081;1 047;1 034;község
+19;25450;VES;8229;Öskü;2 231;1 119;1 112;község
+19;17011;VES;8593;Paloznak;546;287;259;község
+19;19868;VES;8596;Pápadereske;286;144;142;község
+19;11855;VES;8594;Pápakovácsi;566;284;282;község
+19;21607;VES;8556;Pápasalamon;369;177;192;község
+19;31255;VES;8183;Pápateszér;1 223;622;601;község
+19;07348;VES;8245;Papkeszi;1 631;819;812;község
+19;22451;VES;8426;Pécsely;588;290;298;község
+19;15547;VES;8429;Pénzesgyőr;340;178;162;község
+19;23515;VES;8291;Porva;510;260;250;község
+19;11420;VES;8455;Pula;198;94;104;község
+19;28972;VES;8300;Pusztamiske;439;220;219;község
+19;03948;VES;8348;Raposka;255;127;128;község
+19;25849;VES;8256;Rigács;215;109;106;község
+19;30793;VES;8308;Salföld;73;35;38;község
+19;13772;VES;8193;Sáska;292;142;150;község
+19;03601;VES;8478;Sóly;529;264;265;község
+19;05157;VES;8483;Somlójenő;296;147;149;község
+19;25779;VES;8481;Somlószőlős;652;325;327;község
+19;26569;VES;8484;Somlóvásárhely;1 184;600;584;község
+19;14243;VES;8351;Somlóvecse;84;42;42;község
+19;05388;VES;8423;Sümegprága;604;287;317;község
+19;16489;VES;8272;Szápár;484;227;257;község
+19;03568;VES;8281;Szentantalfa;509;255;254;község
+19;07092;VES;8444;Szentbékkálla;207;102;105;község
+19;07922;VES;8475;Szentgál;2 824;1 432;1 392;község
+19;10065;VES;8272;Szentimrefalva;205;97;108;község
+19;11545;VES;8225;Szentjakabfa;114;56;58;község
+19;16267;VES;8264;Szentkirályszabadja;2 080;1 054;1 026;község
+19;24891;VES;8452;Szigliget;921;452;469;község
+19;16692;VES;8272;Szőc;436;211;225;község
+19;17039;VES;8541;Tagyon;105;50;55;község
+19;13125;VES;8295;Takácsi;871;452;419;község
+19;17321;VES;8109;Taliándörögd;665;334;331;község
+19;20570;VES;8237;Tés;817;416;401;község
+19;30465;VES;8246;Tihany;1 358;654;704;község
+19;02714;VES;8477;Tótvázsony;1 393;685;708;község
+19;04631;VES;8564;Tüskevár;572;285;287;község
+19;24767;VES;8347;Ugod;1 347;668;679;község
+19;23010;VES;8409;Ukk;350;174;176;község
+19;20853;VES;8321;Úrkút;2 066;1 000;1 066;község
+19;34218;VES;8552;Uzsa;324;161;163;község
+19;21777;VES;8523;Vanyola;572;287;285;község
+19;26204;VES;8445;Várkesző;180;80;100;község
+19;07065;VES;8542;Városlőd;1 334;656;678;község
+19;26648;VES;8245;Vaszar;1 536;780;756;község
+19;16656;VES;8248;Vászoly;267;137;130;község
+19;21430;VES;8475;Veszprémfajsz;254;125;129;község
+19;19336;VES;8484;Veszprémgalsa;263;137;126;község
+19;09502;VES;8294;Vid;144;68;76;község
+19;09733;VES;8194;Vigántpetend;216;111;105;község
+19;15705;VES;9534;Vilonya;689;347;342;község
+19;24651;VES;8291;Vinár;237;115;122;község
+19;11703;VES;8344;Vöröstó;80;43;37;község
+19;29993;VES;8349;Zalaerdőd;255;116;139;község
+19;27207;VES;8308;Zalagyömörő;420;205;215;község
+19;12654;VES;8348;Zalahaláp;1 269;640;629;község
+19;33039;VES;8476;Zalameggyes;51;30;21;község
+19;20826;VES;8900;Zánka;1 017;510;507;község
+20;32054;ZAL;8800;Zalaegerszeg;57 513;27 140;30 373;megye székhely
+20;30933;ZAL;8380;Nagykanizsa;46 835;22 039;24 796;megyei jogú város
+20;03814;ZAL;8360;Hévíz;4 740;2 158;2 582;város
+20;18421;ZAL;8960;Keszthely;19 334;8 935;10 399;város
+20;12575;ZAL;8868;Lenti;7 935;3 799;4 136;város
+20;12122;ZAL;8761;Letenye;4 045;1 909;2 136;város
+20;31741;ZAL;8749;Pacsa;1 682;825;857;város
+20;11785;ZAL;8999;Zalakaros;2 546;1 229;1 317;város
+20;30313;ZAL;8785;Zalalövő;2 879;1 409;1 470;város
+20;32522;ZAL;8315;Zalaszentgrót;6 442;3 126;3 316;város
+20;23302;ZAL;8314;Gyenesdiás;4 047;1 954;2 093;nagyközség
+20;12919;ZAL;8921;Vonyarcvashegy;2 551;1 248;1 303;nagyközség
+20;02644;ZAL;8935;Alibánfa;437;224;213;község
+20;23384;ZAL;8924;Almásháza;82;44;38;község
+20;19512;ZAL;8394;Alsónemesapáti;678;333;345;község
+20;32081;ZAL;8767;Alsópáhok;1 481;692;789;község
+20;18829;ZAL;8973;Alsórajk;326;150;176;község
+20;08767;ZAL;8983;Alsószenterzsébet;57;30;27;község
+20;21263;ZAL;8977;Babosdöbréte;507;251;256;község
+20;11059;ZAL;8992;Baglad;41;17;24;község
+20;30368;ZAL;8945;Bagod;1 249;637;612;község
+20;04738;ZAL;8946;Bak;1 623;787;836;község
+20;15097;ZAL;8313;Baktüttös;360;179;181;község
+20;17002;ZAL;8753;Balatongyörök;1 359;681;678;község
+20;26462;ZAL;8891;Balatonmagyaród;481;223;258;község
+20;08439;ZAL;8948;Bánokszentgyörgy;618;315;303;község
+20;27447;ZAL;8797;Barlahida;132;72;60;község
+20;24864;ZAL;8887;Batyk;393;195;198;község
+20;18698;ZAL;8866;Bázakerettye;753;383;370;község
+20;23144;ZAL;8985;Becsehely;2 044;994;1 050;község
+20;18360;ZAL;8855;Becsvölgye;787;373;414;község
+20;09168;ZAL;8978;Belezna;717;352;365;község
+20;20950;ZAL;8934;Belsősárd;94;48;46;község
+20;12830;ZAL;8943;Bezeréd;152;79;73;község
+20;17543;ZAL;8776;Bocfölde;1 196;592;604;község
+20;31291;ZAL;8741;Bocska;326;162;164;község
+20;19929;ZAL;8992;Bókaháza;298;153;145;község
+20;10782;ZAL;8885;Boncodfölde;339;172;167;község
+20;10056;ZAL;8991;Borsfa;727;359;368;község
+20;22877;ZAL;8969;Böde;280;122;158;község
+20;04163;ZAL;8772;Bödeháza;49;21;28;község
+20;21139;ZAL;8925;Börzönce;53;23;30;község
+20;20613;ZAL;8893;Búcsúszentlászló;755;372;383;község
+20;07986;ZAL;8756;Bucsuta;221;109;112;község
+20;06132;ZAL;8943;Csapi;168;87;81;község
+20;23436;ZAL;8372;Csatár;523;246;277;község
+20;07135;ZAL;8951;Cserszegtomaj;3 343;1 662;1 681;község
+20;10649;ZAL;8973;Csertalakos;47;25;22;község
+20;02583;ZAL;8918;Csesztreg;851;418;433;község
+20;31149;ZAL;8999;Csonkahegyhát;344;157;187;község
+20;27492;ZAL;8957;Csöde;86;43;43;község
+20;29364;ZAL;8873;Csömödér;621;301;320;község
+20;33978;ZAL;8764;Csörnyeföld;437;188;249;község
+20;28778;ZAL;8874;Dióskál;490;247;243;község
+20;25885;ZAL;8989;Dobri;167;76;91;község
+20;32708;ZAL;8357;Dobronhegy;140;76;64;község
+20;07782;ZAL;8799;Döbröce;85;48;37;község
+20;16009;ZAL;8765;Dötk;43;20;23;község
+20;24262;ZAL;8913;Egeraracsa;315;159;156;község
+20;33428;ZAL;8882;Egervár;1 035;498;537;község
+20;06178;ZAL;8742;Eszteregnye;671;323;348;község
+20;15769;ZAL;8395;Esztergályhorváti;428;226;202;község
+20;11642;ZAL;8767;Felsőpáhok;728;341;387;község
+20;21476;ZAL;8973;Felsőrajk;739;382;357;község
+20;30890;ZAL;8835;Felsőszenterzsébet;19;11;8;község
+20;19187;ZAL;8777;Fityeház;639;305;334;község
+20;16531;ZAL;8969;Fűzvölgy;140;73;67;község
+20;17516;ZAL;8754;Gáborjánháza;78;33;45;község
+20;12991;ZAL;8747;Galambok;1 354;691;663;község
+20;12946;ZAL;8981;Garabonc;700;360;340;község
+20;08068;ZAL;8774;Gellénháza;1 526;754;772;község
+20;12089;ZAL;8774;Gelse;1 059;528;531;község
+20;09089;ZAL;8762;Gelsesziget;264;139;125;község
+20;20039;ZAL;8984;Gétye;113;62;51;község
+20;17613;ZAL;8960;Gombosszeg;54;32;22;község
+20;13569;ZAL;8913;Gosztola;65;30;35;község
+20;29771;ZAL;8951;Gősfa;304;146;158;község
+20;02097;ZAL;8932;Gutorfölde;968;502;466;község
+20;12539;ZAL;8992;Gyűrűs;107;54;53;község
+20;10931;ZAL;8771;Hagyárosbörönd;298;145;153;község
+20;10269;ZAL;8957;Hahót;1 043;512;531;község
+20;19895;ZAL;8777;Hernyék;79;40;39;község
+20;24873;ZAL;8777;Homokkomárom;223;111;112;község
+20;11208;ZAL;8991;Hosszúvölgy;184;89;95;község
+20;28325;ZAL;8984;Hottó;352;176;176;község
+20;03188;ZAL;8958;Iborfia;8;6;2;község
+20;13921;ZAL;8773;Iklódbördőce;312;157;155;község
+20;22965;ZAL;8785;Kacorlak;205;99;106;község
+20;05537;ZAL;8988;Kallósd;89;45;44;község
+20;21500;ZAL;8956;Kálócfa;158;80;78;község
+20;04473;ZAL;8354;Kányavár;132;72;60;község
+20;18041;ZAL;8994;Karmacs;762;362;400;község
+20;32063;ZAL;8784;Kávás;247;116;131;község
+20;32902;ZAL;8931;Kehidakustány;1 080;541;539;község
+20;25353;ZAL;8995;Kemendollár;498;246;252;község
+20;06071;ZAL;8745;Keménfa;85;39;46;község
+20;31529;ZAL;8971;Kerecseny;265;133;132;község
+20;29489;ZAL;8973;Kerkabarabás;300;156;144;község
+20;15112;ZAL;8973;Kerkafalva;118;60;58;község
+20;22080;ZAL;8874;Kerkakutas;124;59;65;község
+20;09575;ZAL;8879;Kerkaszentkirály;237;115;122;község
+20;32647;ZAL;8774;Kerkateskánd;172;90;82;község
+20;32267;ZAL;8926;Kilimán;227;110;117;község
+20;21379;ZAL;8888;Kisbucsa;438;227;211;község
+20;16249;ZAL;8356;Kiscsehi;186;92;94;község
+20;09812;ZAL;8911;Kisgörbő;190;93;97;község
+20;20312;ZAL;8912;Kiskutas;199;97;102;község
+20;16081;ZAL;8756;Kispáli;277;133;144;község
+20;32726;ZAL;8957;Kisrécse;196;99;97;község
+20;13055;ZAL;8868;Kissziget;180;97;83;község
+20;20941;ZAL;8341;Kistolmács;176;81;95;község
+20;16364;ZAL;8988;Kisvásárhely;47;18;29;község
+20;13082;ZAL;8919;Kozmadombja;43;22;21;község
+20;19479;ZAL;8978;Kustánszeg;469;244;225;község
+20;32221;ZAL;8913;Külsősárd;67;32;35;község
+20;33792;ZAL;8887;Lakhegy;456;218;238;község
+20;03434;ZAL;8978;Lasztonya;78;43;35;község
+20;27483;ZAL;8977;Lendvadedes;31;15;16;község
+20;11475;ZAL;8981;Lendvajakabfa;41;20;21;község
+20;03054;ZAL;8782;Lickóvadamos;181;92;89;község
+20;28200;ZAL;8888;Ligetfalva;57;26;31;község
+20;10889;ZAL;8832;Lispeszentadorján;285;138;147;község
+20;25025;ZAL;8878;Liszó;381;179;202;község
+20;28167;ZAL;8973;Lovászi;1 156;564;592;község
+20;08916;ZAL;8776;Magyarföld;52;25;27;község
+20;02909;ZAL;8776;Magyarszentmiklós;259;128;131;község
+20;13064;ZAL;8888;Magyarszerdahely;523;252;271;község
+20;02103;ZAL;8976;Maróc;74;32;42;község
+20;31981;ZAL;8825;Márokföld;52;24;28;község
+20;27526;ZAL;8341;Miháld;775;381;394;község
+20;02130;ZAL;8949;Mihályfa;353;203;150;község
+20;22141;ZAL;8917;Mikekarácsonyfa;332;155;177;község
+20;02662;ZAL;8935;Milejszeg;329;165;164;község
+20;04756;ZAL;8863;Misefa;288;147;141;község
+20;21014;ZAL;8834;Molnári;690;344;346;község
+20;25210;ZAL;8868;Murakeresztúr;1 710;827;883;község
+20;07968;ZAL;8872;Murarátka;255;135;120;község
+20;33987;ZAL;8821;Muraszemenye;516;258;258;község
+20;12760;ZAL;8356;Nagybakónak;416;211;205;község
+20;05218;ZAL;8935;Nagygörbő;156;77;79;község
+20;20589;ZAL;8911;Nagykapornak;888;428;460;község
+20;22178;ZAL;8983;Nagykutas;464;222;242;község
+20;04455;ZAL;8912;Nagylengyel;474;235;239;község
+20;28468;ZAL;8746;Nagypáli;540;280;260;község
+20;16513;ZAL;8756;Nagyrada;508;264;244;község
+20;14979;ZAL;8923;Nagyrécse;1 115;542;573;község
+20;06169;ZAL;8371;Nemesapáti;505;250;255;község
+20;32948;ZAL;8928;Nemesbük;803;383;420;község
+20;07658;ZAL;8976;Nemeshetés;273;135;138;község
+20;32665;ZAL;8857;Nemesnép;128;65;63;község
+20;19859;ZAL;8915;Nemespátró;286;133;153;község
+20;18023;ZAL;8925;Nemesrádó;328;163;165;község
+20;25609;ZAL;8925;Nemessándorháza;332;165;167;község
+20;08059;ZAL;8918;Nemesszentandrás;265;135;130;község
+20;25414;ZAL;8948;Németfalu;192;91;101;község
+20;03355;ZAL;8342;Nova;787;382;405;község
+20;27775;ZAL;8886;Óhíd;537;271;266;község
+20;25478;ZAL;8935;Oltárc;257;134;123;község
+20;20835;ZAL;8983;Orbányosfa;116;56;60;község
+20;22497;ZAL;8744;Ormándlak;103;52;51;község
+20;25052;ZAL;8954;Orosztony;451;226;225;község
+20;04950;ZAL;8998;Ortaháza;110;48;62;község
+20;18953;ZAL;8935;Ozmánbük;188;84;104;község
+20;24776;ZAL;8956;Padár;121;65;56;község
+20;29160;ZAL;8799;Páka;1 123;546;577;község
+20;24271;ZAL;8990;Pakod;857;415;442;község
+20;14720;ZAL;8825;Pálfiszeg;166;84;82;község
+20;29656;ZAL;8921;Pat;197;98;99;község
+20;05704;ZAL;8984;Pethőhenye;415;212;203;község
+20;19178;ZAL;8866;Petrikeresztúr;365;172;193;község
+20;30757;ZAL;8932;Petrivente;360;170;190;község
+20;21050;ZAL;8986;Pókaszepetk;954;475;479;község
+20;16850;ZAL;8929;Pórszombat;285;140;145;község
+20;09867;ZAL;8773;Pölöske;851;441;410;község
+20;31112;ZAL;8956;Pölöskefő;379;194;185;község
+20;32513;ZAL;8767;Pördefölde;60;30;30;község
+20;24660;ZAL;8986;Pötréte;280;144;136;község
+20;16920;ZAL;8946;Pusztaapáti;27;16;11;község
+20;27465;ZAL;8895;Pusztaederics;175;91;84;község
+20;06530;ZAL;8896;Pusztamagyaród;566;281;285;község
+20;26639;ZAL;8973;Pusztaszentlászló;560;265;295;község
+20;14298;ZAL;8978;Ramocsa;42;29;13;község
+20;31592;ZAL;8977;Rédics;915;454;461;község
+20;17118;ZAL;8373;Resznek;269;138;131;község
+20;23898;ZAL;8883;Rezi;1 364;675;689;község
+20;24138;ZAL;8995;Rigyác;425;204;221;község
+20;27720;ZAL;8824;Salomvár;597;311;286;község
+20;15556;ZAL;8944;Sand;380;184;196;község
+20;08101;ZAL;8391;Sárhida;792;398;394;község
+20;14906;ZAL;8862;Sármellék;1 843;885;958;község
+20;30997;ZAL;8788;Semjénháza;564;291;273;község
+20;14085;ZAL;8881;Sénye;53;29;24;község
+20;06567;ZAL;8897;Sormás;897;452;445;község
+20;19080;ZAL;8856;Söjtör;1 493;738;755;község
+20;02404;ZAL;8357;Surd;630;296;334;község
+20;21397;ZAL;8341;Sümegcsehi;626;295;331;község
+20;20543;ZAL;8879;Szalapa;193;88;105;község
+20;11554;ZAL;8393;Szécsisziget;207;102;105;község
+20;23126;ZAL;8975;Szentgyörgyvár;332;176;156;község
+20;18652;ZAL;8947;Szentgyörgyvölgy;393;206;187;község
+20;03124;ZAL;8893;Szentkozmadombja;63;28;35;község
+20;08615;ZAL;8872;Szentliszló;301;143;158;község
+20;14225;ZAL;8953;Szentmargitfalva;79;48;31;község
+20;30067;ZAL;8762;Szentpéterfölde;145;68;77;község
+20;11165;ZAL;8861;Szentpéterúr;1 025;515;510;község
+20;07700;ZAL;8969;Szepetnek;1 557;738;819;község
+20;26161;ZAL;8986;Szijártóháza;24;15;9;község
+20;17853;ZAL;8793;Szilvágy;188;88;100;község
+20;24703;ZAL;8991;Tekenye;461;222;239;község
+20;08828;ZAL;8782;Teskánd;1 115;548;567;község
+20;27951;ZAL;8946;Tilaj;187;105;82;község
+20;05342;ZAL;8876;Tófej;690;334;356;község
+20;04969;ZAL;8877;Tormafölde;354;180;174;község
+20;32638;ZAL;8865;Tornyiszentmiklós;542;267;275;község
+20;16382;ZAL;8864;Tótszentmárton;811;412;399;község
+20;25113;ZAL;8796;Tótszerdahely;1 079;508;571;község
+20;12609;ZAL;8778;Türje;1 612;781;831;község
+20;32197;ZAL;8885;Újudvar;958;487;471;község
+20;26268;ZAL;8316;Valkonya;67;37;30;község
+20;10685;ZAL;8891;Vállus;127;67;60;község
+20;02529;ZAL;8316;Várfölde;188;86;102;község
+20;14182;ZAL;8914;Várvölgy;1 060;540;520;község
+20;10302;ZAL;8998;Vasboldogasszony;545;266;279;község
+20;14322;ZAL;8354;Vaspör;336;171;165;község
+20;32142;ZAL;8353;Vindornyafok;134;68;66;község
+20;06549;ZAL;8355;Vindornyalak;80;40;40;község
+20;11800;ZAL;8931;Vindornyaszőlős;349;175;174;község
+20;08369;ZAL;8868;Vöckönd;90;47;43;község
+20;24590;ZAL;8741;Zajk;245;110;135;község
+20;17400;ZAL;8971;Zalaapáti;1 693;843;850;község
+20;07579;ZAL;8798;Zalabaksa;648;310;338;község
+20;24280;ZAL;8992;Zalabér;735;344;391;község
+20;28495;ZAL;8782;Zalaboldogfa;365;191;174;község
+20;04002;ZAL;8996;Zalacsány;1 009;513;496;község
+20;02486;ZAL;8997;Zalacséb;501;244;257;község
+20;23834;ZAL;8761;Zalaháshágy;374;184;190;község
+20;16896;ZAL;8932;Zalaigrice;116;64;52;község
+20;12496;ZAL;8751;Zalaistvánd;369;184;185;község
+20;10348;ZAL;8354;Zalakomár;2 952;1 441;1 511;község
+20;18768;ZAL;8747;Zalaköveskút;28;16;12;község
+20;31617;ZAL;8756;Zalamerenye;179;89;90;község
+20;02972;ZAL;8743;Zalasárszeg;127;62;65;község
+20;22947;ZAL;8353;Zalaszabar;584;286;298;község
+20;33288;ZAL;8772;Zalaszántó;940;461;479;község
+20;18564;ZAL;8994;Zalaszentbalázs;798;386;412;község
+20;33136;ZAL;8921;Zalaszentgyörgy;421;202;219;község
+20;02608;ZAL;8827;Zalaszentiván;1 054;531;523;község
+20;18096;ZAL;8788;Zalaszentjakab;320;158;162;község
+20;07232;ZAL;8921;Zalaszentlászló;822;385;437;község
+20;13301;ZAL;8764;Zalaszentlőrinc;275;138;137;község
+20;13091;ZAL;8936;Zalaszentmárton;76;39;37;község
+20;18449;ZAL;8969;Zalaszentmihály;984;483;501;község
+20;27562;ZAL;8947;Zalaszombatfa;50;22;28;község
+20;29683;ZAL;8822;Zalatárnok;626;320;306;község
+20;09380;ZAL;8392;Zalaújlak;104;57;47;község
+20;13736;ZAL;8792;Zalavár;930;446;484;község
+20;17057;ZAL;8957;Zalavég;343;191;152;község
