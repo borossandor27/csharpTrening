@@ -1,11 +1,11 @@
 # A C# nyelv elsajátítása
 
-[cite_start]Hivatalos forrás: [https://learn.microsoft.com/hu-hu/dotnet/csharp/](https://learn.microsoft.com/hu-hu/dotnet/csharp/) 
+Hivatalos forrás: [https://learn.microsoft.com/hu-hu/dotnet/csharp/](https://learn.microsoft.com/hu-hu/dotnet/csharp/) 
 
 ## Bevezetés a C# nyelvbe és környezetbe
-* [cite_start]Mi az a C# és .NET? 
+* Mi az a C# és .NET? 
 
-## [cite_start]A Visual Studio / Visual Studio Code telepítése 
+## A Visual Studio / Visual Studio Code telepítése 
 * Első "Hello World" program létrehozása
 * Fordítás, futtatás, hibakeresés alapjai
 
@@ -23,18 +23,18 @@
         * `/` (osztás)
         * `%` (maradékos osztás)
     * **Összehasonlító operátorok**
-        * [cite_start]Numerikus értékekkel végzik a műveletet és logikai (`bool`) értéket adnak vissza. 
-        * [cite_start]`==` (egyenlő) 
-        * [cite_start]`!=` (nem egyenlő) 
-        * [cite_start]`<` (kisebb) 
-        * [cite_start]`>` (nagyobb) 
-        * [cite_start]`<=` (kisebb vagy egyenlő) 
-        * [cite_start]`>=` (nagyobb vagy egyenlő) 
+        * Numerikus értékekkel végzik a műveletet és logikai (`bool`) értéket adnak vissza. 
+        * `==` (egyenlő) 
+        * `!=` (nem egyenlő) 
+        * `<` (kisebb) 
+        * `>` (nagyobb) 
+        * `<=` (kisebb vagy egyenlő) 
+        * `>=` (nagyobb vagy egyenlő) 
     * **Logikai operátorok**
         * Logikai értékeken végeznek műveleteket és logikai értéket állítanak elő
-        * [cite_start]`&&` (logikai ÉS - mindkét feltétel igaz, akkor igaz az eredmény) 
-        * [cite_start]`||` (logikai VAGY - legalább az egyik feltétel igaz, akkor igaz az eredmény) 
-        * [cite_start]`!` (logikai NEM - tagadás, invertálja az értéket) 
+        * `&&` (logikai ÉS - mindkét feltétel igaz, akkor igaz az eredmény) 
+        * `||` (logikai VAGY - legalább az egyik feltétel igaz, akkor igaz az eredmény) 
+        * `!` (logikai NEM - tagadás, invertálja az értéket) 
 * **Bemenet és kimenet**
     * (`Console.ReadLine`, `Console.WriteLine`)
 * **Feltételes szerkezetek**
@@ -45,18 +45,18 @@
     * `for` ciklus
     * `while` ciklus
     * `do-while` ciklus
-    * [cite_start]`foreach` ciklus 
-* [cite_start]**Ciklusvezérlő utasítások**: `break`, `continue`. 
+    * `foreach` ciklus 
+* **Ciklusvezérlő utasítások**: `break`, `continue`. 
 
 ## Adatstruktúrák (Gyűjtemények)
-* [cite_start]**Tömbök**: Egydimenziós és többdimenziós tömbök, inicializálás, elérés. 
-* [cite_start]**Listák (`List<T>`)**: Dinamikus méretű gyűjtemények, alapvető műveletek (hozzáadás, törlés, keresés). 
+* **Tömbök**: Egydimenziós és többdimenziós tömbök, inicializálás, elérés. 
+* **Listák (`List<T>`)**: Dinamikus méretű gyűjtemények, alapvető műveletek (hozzáadás, törlés, keresés). 
 * **Egyéb gyűjtemények bemutatása (röviden)**
-    * [cite_start]`Dictionary<TKey, TValue>` 
-    * [cite_start]`HashSet<T>` 
+    * `Dictionary<TKey, TValue>` 
+    * `HashSet<T>` 
 
 ## Egyéb témák
-* [cite_start]`Enum`-ok, `struct`-ok 
+* `Enum`-ok, `struct`-ok 
 * Delegáltak és események
 * Lambda kifejezések
 * LINQ alapjai (Lekérdezések kollekciókon)
