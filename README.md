@@ -1,6 +1,6 @@
 # A C# nyelv elsajátítása
 
-Hivatalos forrás: [https://learn.microsoft.com/hu-hu/dotnet/csharp/](https://learn.microsoft.com/hu-hu/dotnet/csharp/) 
+Hivatalos forrás: [https://learn.microsoft.com/hu-hu/dotnet/csharp/](https://learn.microsoft.com/hu-hu/dotnet/csharp/){:target="_blank"}
 
 ## Bevezetés a C# nyelvbe és környezetbe
 * Mi az a C# és .NET? 
