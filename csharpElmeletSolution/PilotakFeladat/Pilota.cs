@@ -13,6 +13,11 @@ namespace PilotakFeladat
         public string nemzetiseg;
         public string rajtszam;
 
+        /// <summary>
+        /// Pilta osztály konstruktora, amely egy sorban lévő adatokat hozzárendel a megfelelő tulajdonságokhoz.
+        /// </summary>
+        /// <param name="beolvasottSor"></param>
+        /// <exception cref="ArgumentException"></exception>
         public Pilota(string beolvasottSor)
         {
             string[] adatok = beolvasottSor.Split(';');
