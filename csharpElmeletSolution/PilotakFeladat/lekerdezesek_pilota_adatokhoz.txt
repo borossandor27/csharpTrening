@@ -1,0 +1,21 @@
+1.	Összes versenyző nevének és nemzetiségének lekérdezése
+2.	Az összes brit versenyző nevének lekérdezése
+3.	Brit versenyzők név és rajtszáma
+4.	A német nemzetiségű versenyzők születési dátum szerint növekvő sorrendben
+5.	Hány versenyzőnek van rajtszáma?
+6.	Azoknak a versenyzőknek a neve és rajtszáma, akiknek van rajtszámuk (nem üres)
+7.	Versenyzők száma, akiknek nincs rajtszáma
+8.	Hány versenyzőnek nincs rajtszáma?
+9.	Melyik pályán mennyi az átlagos köridő?
+10.	Nemzetiségenként hány versenyző van?
+11.	A legfiatalabb versenyző neve és születési dátuma
+12.	Azoknak a nemzetiségeknek a listája, amelyekből egynél több versenyző van
+13.	A rajtszámmal rendelkező versenyzők átlagos életkora (feltételezve, hogy a születési dátumból számolható az életkor, vagy egy külön életkor oszlop létezik)
+14.	A legmagasabb rajtszámú versenyző neve és nemzetisége
+15.	Az összes versenyző neve, nemzetisége és születési dátuma, a nemzetiség és azon belül a születési dátum szerint csökkenő sorrendben
+16.	Legidősebb versenyző(ek) adatai
+17.	Átlagos születési év nemzetiségenként
+18.	Legnépszerűbb rajtszám (legtöbb versenyzővel)
+19.	1980 után született versenyzők nemzetiségenként
+20.	10 legfiatalabb versenyző
+21.	Nemzetiségek, ahol az átlagéletkor 40 év felett van
