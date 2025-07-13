@@ -33,5 +33,5 @@ A következõ lépésekbõl áll:
    A következõ példában a csomópontok és élek a `nodes.csv` és `edges.csv` fájlokban találhatók. A program beolvassa ezeket a fájlokat, majd kirajzolja a gráfot. A Dijkstra algoritmus segítségével megtalálja a legrövidebb utat két kiválasztott csomópont között, és megjeleníti azt a gráfon.
 
 YouTube videó: [Dijkstra algoritmus](https://www.youtube.com/watch?v=GazC3A4OQTE)
-Youtube videó: [Dijkstra algoritmus Visualized and Explained](https://www.youtube.com/watch?v=71Z-Jpnm3D4)
+YouTube videó: [Dijkstra algoritmus Visualized and Explained](https://www.youtube.com/watch?v=71Z-Jpnm3D4)
 
