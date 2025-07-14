@@ -11,21 +11,28 @@ namespace dijkstra
     {
         public Node From { get; set; }
         public Node To { get; set; }
-        private long _distance;
-        public long Distance { 
-            get { return _distance; } 
+        private long _weight;
+        public long Weight { 
+            get { return _weight; } 
             set { if (value < 0)
                 {
                     throw new ArgumentException("Csomópontok közötti távolság nem lehet negatív!");
                 } 
-                _distance = value; } 
-            } 
-        
+                _weight = value; } 
+            }
+
+        public bool IsSelected { get; internal set; }
+        public bool IsHighlighted { get; internal set; }
+        public bool IsFinished { get; internal set; }
+
         public Edge(Node from, Node to, long distance)
         {
             this.From = from;
             this.To = to;
-            this.Distance = distance;
+            this.Weight = distance;
+            this.IsSelected = false;
+            this.IsHighlighted = true;
+            this.IsFinished = false;
         }
 
         public Edge(string line, List<Node> availableNodes)
@@ -55,18 +62,18 @@ namespace dijkstra
 
             this.From = sourceNode;
             this.To = targetNode;
-            this.Distance = weight; // Beállítjuk a Distance property-t
+            this.Weight = weight; // Beállítjuk a Weight property-t
         }
 
         public override string ToString()
         {
-            return $"{From} -> {To} ({Distance})";
+            return $"{From} -> {To} ({Weight})";
         }
         public override bool Equals(object obj)
         {
             if (obj is Edge edge)
             {
-                return From.Equals(edge.From) && To.Equals(edge.To) && Distance == edge.Distance;
+                return From.Equals(edge.From) && To.Equals(edge.To) && Weight == edge.Weight;
             }
             return false;
         }

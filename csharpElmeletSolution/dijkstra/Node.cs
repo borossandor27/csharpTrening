@@ -42,6 +42,8 @@ namespace dijkstra
             }
         }
         private long _y;
+        internal bool isStart;
+        internal bool isEnd;
 
         /// <summary>
         /// A csomópont y (vertikális) koordinátája, amely nem lehet negatív érték.
