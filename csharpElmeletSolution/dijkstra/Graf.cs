@@ -12,25 +12,25 @@ namespace dijkstra
 {
     internal class Graf
     {
-        public List<Node> nodes { get; private set; } = new List<Node>(); // nodes lista publikus get, privát set
-        public List<Edge> edges { get; private set; } = new List<Edge>(); // edges lista publikus get, privát set
+        public List<Node> nodes { get; private set; } = new List<Node>();
+        public List<Edge> edges { get; private set; } = new List<Edge>();
 
         Graphics g;
-        private long _maxWidthValue = 800; // Maximális szélesség
-        private  long _maxHeightValue = 600; // Maximális magasság
-        private long _minWidthValue = 100; // Minimális szélesség
-        private long _minHeightValue = 100; // Minimális magasság
-        private const int _NodeRadius = 20; // Csomópontok sugara
-        private const int _EdgeRadius = 20;
+        private long _maxWidthValue = 800;
+        private long _maxHeightValue = 600;
+        private long _minWidthValue = 100;
+        private long _minHeightValue = 100;
+        private const int _NodeRadius = 20;
+        private const int _EdgeRadius = 20; // This constant is not used in the provided code
         private static readonly Pen _penNormal = new Pen(Color.Black, 2);
         private static readonly Pen _penSelected = new Pen(Color.Red, 2);
         private static readonly Pen _penHighlighted = new Pen(Color.Green, 2);
         private static readonly Pen _penFinish = new Pen(Color.Blue, 2);
-        private Brush _brushNode = new SolidBrush(Color.LightBlue); // Csomópontok színe
+        private Brush _brushNode = new SolidBrush(Color.LightBlue);
+
         public Graf(String nodesFile = "nodes.csv", String edgesFile = "edges.csv")
         {
             csucsokBetoltese(nodesFile);
-            // Az élek betöltése előtt már rendelkezésre állnak a csomópontok
             elekBetoltese(edgesFile);
         }
 
@@ -43,12 +43,11 @@ namespace dijkstra
             }
             using (var reader = new StreamReader(edgesFile))
             {
-                reader.ReadLine(); // Fejléc sor átugrása, ha van
+                reader.ReadLine();
                 string line;
                 while ((line = reader.ReadLine()) != null)
                 {
-                    // Itt adjuk át a 'nodes' listát az Edge konstruktorának
-                    Edge edge = new Edge(line, this.nodes); // Átadjuk a 'this.nodes' listát
+                    Edge edge = new Edge(line, this.nodes);
                     edges.Add(edge);
                 }
             }
@@ -64,28 +63,26 @@ namespace dijkstra
             using (var reader = new StreamReader(nodesFile))
             {
                 string line;
-                reader.ReadLine(); // Fejléc sor átugrása, ha van
+                reader.ReadLine();
                 while ((line = reader.ReadLine()) != null)
                 {
                     Node node = new Node(line);
                     nodes.Add(node);
                 }
             }
-            _maxWidthValue = (long)(nodes.Max(n => n.x) * 1.2);// Maximális szélesség beállítása a csomópontok x koordinátái alapján
-            _maxHeightValue =(long) (nodes.Max(n => n.y) *1.2); // Maximális magasság beállítása a csomópontok y koordinátái alapján
-
+            _maxWidthValue = (long)(nodes.Max(n => n.x) * 1.2);
+            _maxHeightValue = (long)(nodes.Max(n => n.y) * 1.2);
         }
 
-        public void AddNode(Node node) 
+        public void AddNode(Node node)
         {
-            this.nodes.Add(node); // Hozzáadja a csomópontot a listához
+            this.nodes.Add(node);
         }
 
         public void AddEdge(Edge edge)
         {
-            this.edges.Add(edge); // Hozzáad egy élt a listához
+            this.edges.Add(edge);
         }
-
 
         internal void Megjelenit(object sender, PaintEventArgs e)
         {
@@ -103,7 +100,7 @@ namespace dijkstra
             // Élek kirajzolása
             foreach (var edge in edges)
             {
-                Pen penToUse = _penNormal; // vagy állapot alapján kiválasztva
+                Pen penToUse = _penNormal;
 
                 float fromX = edge.From.x * scale;
                 float fromY = edge.From.y * scale;
@@ -112,23 +109,29 @@ namespace dijkstra
 
                 g.DrawLine(penToUse, fromX, fromY, toX, toY);
 
-                // Él címkéje középre
                 float midX = (fromX + toX) / 2;
                 float midY = (fromY + toY) / 2;
-                g.DrawString(edge.Weight.ToString("0"), SystemFonts.DefaultFont, Brushes.Black, midX, midY);
+                string edgeWeight = edge.Weight.ToString("0");
+                SizeF stringSizeEdge = g.MeasureString(edgeWeight, SystemFonts.DefaultFont);
+
+                // Adjust Y coordinate to draw text slightly above the midpoint of the edge
+                g.DrawString(edgeWeight, SystemFonts.DefaultFont, Brushes.Black, midX - (stringSizeEdge.Width / 2), midY - (stringSizeEdge.Height) - 5); // Subtract an additional 5 pixels
             }
 
             // Csomópontok kirajzolása
             foreach (var node in nodes)
             {
+                Pen penToUseForNode = _penNormal;
+
                 float nodeX = node.x * scale;
                 float nodeY = node.y * scale;
 
                 g.FillEllipse(_brushNode, nodeX - _NodeRadius, nodeY - _NodeRadius, _NodeRadius * 2, _NodeRadius * 2);
-                g.DrawString(node.Name, SystemFonts.DefaultFont, Brushes.Black, nodeX - 10, nodeY - 10);
+                g.DrawEllipse(penToUseForNode, nodeX - _NodeRadius, nodeY - _NodeRadius, _NodeRadius * 2, _NodeRadius * 2);
+
+                SizeF stringSizeNode = g.MeasureString(node.Name, SystemFonts.DefaultFont);
+                g.DrawString(node.Name, SystemFonts.DefaultFont, Brushes.Black, nodeX - (stringSizeNode.Width / 2), nodeY - (stringSizeNode.Height / 2));
             }
-
         }
-
     }
 }
