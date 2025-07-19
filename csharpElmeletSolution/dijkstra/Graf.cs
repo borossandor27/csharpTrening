@@ -27,6 +27,11 @@ namespace dijkstra
         private static readonly Pen _penHighlighted = new Pen(Color.Green, 2);
         private static readonly Pen _penFinish = new Pen(Color.Blue, 2);
         private Brush _brushNode = new SolidBrush(Color.LightBlue);
+        private Brush _brushSelectedNode = new SolidBrush(Color.Red);
+        private Brush _brushStartNode = new SolidBrush(Color.Green);
+        private Brush _brushEndNode = new SolidBrush(Color.Yellow);
+        private string _startNode = "A";
+        private string _endNote = "F";
 
         public Graf(String nodesFile = "nodes.csv", String edgesFile = "edges.csv")
         {
@@ -115,7 +120,8 @@ namespace dijkstra
                 SizeF stringSizeEdge = g.MeasureString(edgeWeight, SystemFonts.DefaultFont);
 
                 // Adjust Y coordinate to draw text slightly above the midpoint of the edge
-                g.DrawString(edgeWeight, SystemFonts.DefaultFont, Brushes.Black, midX - (stringSizeEdge.Width / 2), midY - (stringSizeEdge.Height) - 5); // Subtract an additional 5 pixels
+                float x = midX - (fromX == toX ? (stringSizeEdge.Width * 1.5f) : (stringSizeEdge.Width / 2.0f)); float y = midY - (stringSizeEdge.Height) - 5;
+                g.DrawString(edgeWeight, SystemFonts.DefaultFont, Brushes.Black,x, y); // Subtract an additional 5 pixels
             }
 
             // Csomópontok kirajzolása
@@ -126,6 +132,24 @@ namespace dijkstra
                 float nodeX = node.x * scale;
                 float nodeY = node.y * scale;
 
+                if (node.Name == _startNode)
+                {
+                    penToUseForNode = _penHighlighted;
+                    _brushNode = _brushStartNode;
+                }
+                else if (node.Name == _endNote)
+                {
+                    penToUseForNode = _penFinish;
+                    _brushNode = _brushEndNode;
+                }
+                else if (node.IsSelected)
+                {
+                    penToUseForNode = _penSelected;
+                    _brushNode = _brushSelectedNode;
+                } else
+                {
+                    _brushNode = new SolidBrush(Color.LightBlue);
+                }
                 g.FillEllipse(_brushNode, nodeX - _NodeRadius, nodeY - _NodeRadius, _NodeRadius * 2, _NodeRadius * 2);
                 g.DrawEllipse(penToUseForNode, nodeX - _NodeRadius, nodeY - _NodeRadius, _NodeRadius * 2, _NodeRadius * 2);
 

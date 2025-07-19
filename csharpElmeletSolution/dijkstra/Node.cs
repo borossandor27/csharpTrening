@@ -60,6 +60,9 @@ namespace dijkstra
                 _y = value;
             }
         }
+
+        public bool IsSelected { get; internal set; }
+
         public Node(string name, long x, long y)
         {
             this._name = name;

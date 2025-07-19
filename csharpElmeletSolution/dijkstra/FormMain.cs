@@ -24,7 +24,13 @@ namespace dijkstra
             graf = new Graf();
             Console.WriteLine("Gráf adatok betöltve.");
             panel_Graf.Paint += new PaintEventHandler(graf.Megjelenit);
+            panel_Graf.SizeChanged += panelMeretValtozas;
+        }
+
+        private void panelMeretValtozas(object sender, EventArgs e)
+        {
             panel_Graf.Invalidate(); // Frissíti a panelt, hogy újrarajzolja a gráfot
+
         }
     }
 }
