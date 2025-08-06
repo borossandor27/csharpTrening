@@ -12,8 +12,15 @@ namespace dijkstra
 {
     internal class Graf
     {
+        public class HelpBoard
+        {
+            public int ShortestDistance;
+            public string PreviousNodeName;
+        }
         public List<Node> nodes { get; private set; } = new List<Node>();
         public List<Edge> edges { get; private set; } = new List<Edge>();
+        private string[] visitedNodes;
+        private string[] unvisitedNodes;
 
         Graphics g;
         private long _maxWidthValue = 800;
@@ -121,7 +128,7 @@ namespace dijkstra
 
                 // Adjust Y coordinate to draw text slightly above the midpoint of the edge
                 float x = midX - (fromX == toX ? (stringSizeEdge.Width * 1.5f) : (stringSizeEdge.Width / 2.0f)); float y = midY - (stringSizeEdge.Height) - 5;
-                g.DrawString(edgeWeight, SystemFonts.DefaultFont, Brushes.Black,x, y); // Subtract an additional 5 pixels
+                g.DrawString(edgeWeight, SystemFonts.DefaultFont, Brushes.Black, x, y); // Subtract an additional 5 pixels
             }
 
             // Csomópontok kirajzolása
@@ -146,7 +153,8 @@ namespace dijkstra
                 {
                     penToUseForNode = _penSelected;
                     _brushNode = _brushSelectedNode;
-                } else
+                }
+                else
                 {
                     _brushNode = new SolidBrush(Color.LightBlue);
                 }
@@ -156,6 +164,28 @@ namespace dijkstra
                 SizeF stringSizeNode = g.MeasureString(node.Name, SystemFonts.DefaultFont);
                 g.DrawString(node.Name, SystemFonts.DefaultFont, Brushes.Black, nodeX - (stringSizeNode.Width / 2), nodeY - (stringSizeNode.Height / 2));
             }
+        }
+        private string[] shortestDistanceSearch(string startNode, string endNode)
+        {
+            if (string.IsNullOrWhiteSpace(startNode) || string.IsNullOrWhiteSpace(endNode))
+            {
+                throw new ArgumentException("A kezdő és vég csomópont neve nem lehet üres.");
+            }
+            Node start = nodes.FirstOrDefault(n => n.Name == startNode);
+            Node end = nodes.FirstOrDefault(n => n.Name == endNode);
+            if (start == null || end == null)
+            {
+                throw new InvalidOperationException($"A megadott kezdő és vég csomópontok nem találhatók: '{startNode}', '{endNode}'");
+            }
+            return DijkstraAlgorithm(start, end);
+        }
+
+        private string[] DijkstraAlgorithm(Node start, Node end)
+        {
+            string[] shortestRouth;
+            Dictionary<string, HelpBoard> helpBoard = new Dictionary<string, HelpBoard>();
+            for
+            return shortestRouth;
         }
     }
 }
