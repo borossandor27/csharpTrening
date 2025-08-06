@@ -121,11 +121,6 @@ namespace Hidak
                         Console.WriteLine($"Hiba a sor feldolgozása közben: {ex.Message}");
                     }
                 }
-                // Példa: kiíratjuk az első 5 hidat
-                foreach (var hid in hidak.Take(5))
-                {
-                    Console.WriteLine($"{hid.helyezes}. {hid.nev} - {hid.elhelyezkedes} ({hid.teljes_hossz_m} m)");
-                }
             }
         }
     }
